@@ -1,48 +1,10 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Sevimli cinema FHD
 https://vod.splay.uz/live_splay/cinema/playlist.m3u8
-#EXTINF:1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Sevimli cinema FHD
-https://vod.splay.uz/live_splay/cinema/playlist.m3u8
-#EXTINF:2 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",BiZ Cinema
-http://82.215.111.227/1213/index.m3u8
-#EXTINF:2 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",BiZ Cinema
-http://82.215.111.227/1213/index.m3u8
-#EXTINF:3 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",BiZ TV
-http://82.215.111.227/1211/index.m3u8
-#EXTINF:3 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",BiZ TV
-http://82.215.111.227/1211/index.m3u8
-#EXTINF:4 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Kinoteatr
-http://82.215.111.227/1009/index.m3u8
-#EXTINF:4 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Kinoteatr
-http://82.215.111.227/1009/index.m3u8
-#EXTINF:5 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Milliy
-http://82.215.111.227/1014/index.m3u8
-#EXTINF:5 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Milliy
-http://82.215.111.227/1014/index.m3u8
-#EXTINF:6 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",My5
-http://82.215.111.227/1012/index.m3u8
-#EXTINF:6 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",My5
-http://82.215.111.227/1012/index.m3u8
-#EXTINF:7 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Sevimli
-http://82.215.111.227/1017/index.m3u8
-#EXTINF:7 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Sevimli
-http://82.215.111.227/1017/index.m3u8
-#EXTINF:8 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Zo'r TV
-http://82.215.111.227/1016/index.m3u8
-#EXTINF:8 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Zo'r TV
-http://82.215.111.227/1016/index.m3u8
 #EXTINF:9 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",tasix.media
-https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
-#EXTINF:9 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",tasix.media
 https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
 #EXTINF:10 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Makon TV
 https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:10 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Makon TV
-https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:11 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",LuxTV
-http://82.215.111.227/1210/index.m3u8
-#EXTINF:11 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",LuxTV
-http://82.215.111.227/1210/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/983.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055",Первый канал FHD
 http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2402/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1000.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9187",ОТР HD
@@ -1043,72 +1005,16 @@ http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/31151/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/31173/index.m3u8
 #EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3894.png" tvg-id="simpleTVFakeEpgId",NBA TV USA HD TR
 http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/31209/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Muloqot TV
-http://82.215.111.227/1285/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",BiZ Music
-http://82.215.111.227/1212/index.m3u8
 #EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Biznes TV
 https://fl.biztv.media/BiznesTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",D-TV
-http://82.215.111.227/1206/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Dunyo Bo'ylab
-http://82.215.111.227/1006/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",fTV
-http://82.215.111.227/1018/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Futbol TV
-http://82.215.111.227/1010/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",I-Kbol TV
-http://82.215.111.227/1282/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Istiqlol TV
-http://82.215.111.227/1283/index.m3u8
 #EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Sevimli kids FHD
 https://vod.splay.uz/live_splay/kids/playlist.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Bolajon
-http://82.215.111.227/1007/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Aqlvoy
-http://82.215.111.227/1205/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",MiMi
-https://fl.biztv.media/MiMiTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Madaniyat va Ma'rifat
-http://82.215.111.227/1005/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Mahalla
-http://82.215.111.227/1013/index.m3u8
 #EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",My5 International
 https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",MYDAYTV
-http://82.215.111.227/1265/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Navo
-http://82.215.111.227/1008/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",NTV (O'zbekiston)
-http://82.215.111.227/1284/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Nurafshon TV
-http://82.215.111.227/1220/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",O'zbekiston
-http://82.215.111.227/1001/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",O'zbekiston 24
-http://82.215.111.227/1011/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",O'zbekiston Tarixi
-http://82.215.111.227/1209/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",RTV
-http://82.215.111.227/1221/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",SMusic
-http://82.215.111.227/1245/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Sport
-http://82.215.111.227/1004/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Taraqqiyot TV
-http://82.215.111.227/1204/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Toshkent
-http://82.215.111.227/1003/index.m3u8
 #EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Travel TV (O'zbekiston)
 https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",TTV Musiqa
 https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Uzreport
-http://82.215.111.227/1015/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Yoshlar
-http://82.215.111.227/1002/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Муз-ТВ (O'zbekiston)
-http://82.215.111.227/1063/index.m3u8
 #EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Солнечный тв
 https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Sci-Fi.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8720",.sci-fi
@@ -1281,112 +1187,44 @@ http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
 http://sc.id-tv.kz/Khabar.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Шокирующее.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9519",Шокирующее
 http://141.95.55.143/CH229/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Muloqot TV
-http://82.215.111.227/1285/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",BiZ Music
-http://82.215.111.227/1212/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Biznes TV
-https://fl.biztv.media/BiznesTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",D-TV
-http://82.215.111.227/1206/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Dunyo Bo'ylab
-http://82.215.111.227/1006/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",fTV
-http://82.215.111.227/1018/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Futbol TV
-http://82.215.111.227/1010/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",I-Kbol TV
-http://82.215.111.227/1282/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Istiqlol TV
-http://82.215.111.227/1283/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Sevimli kids FHD
-https://vod.splay.uz/live_splay/kids/playlist.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Bolajon
-http://82.215.111.227/1007/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Aqlvoy
-http://82.215.111.227/1205/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",MiMi
-https://fl.biztv.media/MiMiTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Madaniyat va Ma'rifat
-http://82.215.111.227/1005/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Mahalla
-http://82.215.111.227/1013/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/935.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8717",.black
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/708/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",My5 International
-https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/935.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8717",.black orig
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9140/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",MYDAYTV
-http://82.215.111.227/1265/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/311.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11043",.red
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/559/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Navo
-http://82.215.111.227/1008/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/311.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11043",.red HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/2062/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",NTV (O'zbekiston)
-http://82.215.111.227/1284/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/311.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11043",.red HD orig
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9035/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Nurafshon TV
-http://82.215.111.227/1220/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/311.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11043",.red orig
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9237/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",O'zbekiston
-http://82.215.111.227/1001/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/516.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8720",.sci-fi
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/110/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",O'zbekiston 24
-http://82.215.111.227/1011/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/516.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8720",.sci-fi orig
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9125/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",O'zbekiston Tarixi
-http://82.215.111.227/1209/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",1 FILMAX
 http://195.9.195.3:8080/hls/204708.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",RTV
-http://82.215.111.227/1221/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/bSXKdK5.png" tvg-id="simpleTVFakeEpgId",100% News (576p)
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",SMusic
-http://82.215.111.227/1245/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",2 FILMAX
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Sport
-http://82.215.111.227/1004/index.m3u8
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",24KZ
 https://stream2.cinerama.uz/1408/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Taraqqiyot TV
-http://82.215.111.227/1204/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" tvg-id="simpleTVFakeEpgId",312 Кино (406p)
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Toshkent
-http://82.215.111.227/1003/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" tvg-id="simpleTVFakeEpgId",312 ТВ (406p)
 http://176.126.166.43:1935/live/312musik/playlist.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Travel TV (O'zbekiston)
-https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",360 Tune BOX
 http://iptv.prosto.tv:7000/ch141/video.m3u8?secret=xws6dla3
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",TTV Musiqa
-https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/YXDeX8q.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9934",360° Новости
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Uzreport
-http://82.215.111.227/1015/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",365
 http://82.215.111.227/1242/index.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Yoshlar
-http://82.215.111.227/1002/index.m3u8
 #EXTINF:-1 group-title="%F0%9F%93%BA%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20%D0%A2%D0%92%20%28https%3A%2F%2Ft.me%2Fzunotv%29" tvg-id="simpleTVFakeEpgId",4ever Cinema HD
 http://iptv.prosto.tv:7000/ch42/video.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Муз-ТВ (O'zbekiston)
-http://82.215.111.227/1063/index.m3u8
 #EXTINF:-1 group-title="%F0%9F%93%BA%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20%D0%A2%D0%92%20%28https%3A%2F%2Ft.me%2Fzunotv%29" tvg-id="simpleTVFakeEpgId",4ever Drama HD
 http://iptv.prosto.tv:7000/ch49/video.m3u8
-#EXTINF:-1 group-title="📺 O'zbekiston" tvg-id="simpleTVFakeEpgId",Солнечный тв
-https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",4ever Music
 http://iptv.prosto.tv:7000/ch132/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/2347.png" tvg-id="simpleTVFakeEpgId",[Spectrum] A&E HD
@@ -1401,14 +1239,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/30012/index.m3u8
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8?checkedby:zunotv
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/7Jo7UAf.png" tvg-id="simpleTVFakeEpgId",Abaza TV
 https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
-#EXTINF:-1 group-title="📺 Arabic" tvg-id="simpleTVFakeEpgId",Ahl-Alquran TV
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",Akudji tv
 http://195.9.195.3:8080/hls/5346.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5357.png" tvg-id="simpleTVFakeEpgId",Akudji TV HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/14161/index.m3u8
-#EXTINF:-1 group-title="📺 Arabic" tvg-logo="https://i.imgur.com/5ohs2WT.png" tvg-id="simpleTVFakeEpgId",Al Quran Al Kareem Mecca
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",Alau TV (576p)
 https://otv.wotom.net/alau/stream.m3u8?checkedby:zunotv
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",Alpha Cinema
@@ -1475,8 +1309,6 @@ https://stream.kaztrk.kz/regional/atyrautv/index.m3u8?checkedby:zunotv
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/10061/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4770.png" tvg-id="simpleTVFakeEpgId",Backus TV Original HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11049/index.m3u8
-#EXTINF:-1 group-title="📺 Tajikistan" tvg-id="simpleTVFakeEpgId",Badakhshon (576p)
-https://live.teleradiocom.tj/11/3m.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",Balapan TV
 https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8?checkedby:zunotv
 #EXTINF:-1 group-title="📺 Кинозалы BCU" tvg-id="simpleTVFakeEpgId",BCU Action HD
@@ -1789,8 +1621,6 @@ http://82.215.111.227/1271/index.m3u8
 https://stream2.cinerama.uz/1271/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Dunyo Bo'ylab
 https://stream1.cinerama.uz/1006/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Tajikistan" tvg-id="simpleTVFakeEpgId",Dushanbe HD (1080p)
-https://live.teleradiocom.tj/7/3m.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png" tvg-id="simpleTVFakeEpgId",DW Russian (1080p)
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Eliqqala TV
@@ -1913,8 +1743,6 @@ https://stream8.cinerama.uz/1018/tracks-v1a1/mono.m3u8
 http://82.215.111.227/1280/index.m3u8
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Fuel TV HD
 https://stream2.cinerama.uz/1280/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Tajikistan" tvg-id="simpleTVFakeEpgId",Futbol (1080p)
-https://live.teleradiocom.tj/8/3m.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Futbol 1
 http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs10e
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Futbol 3
@@ -1967,8 +1795,6 @@ https://m3u.usite.pro/27/intro.mp4
 https://m3u.usite.pro/27/intro.mp4
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",I-kbol
 https://stream1.cinerama.uz/1282/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Tajikistan" tvg-id="simpleTVFakeEpgId",Ilm va Tabiat (1080p)
-https://live.teleradiocom.tj/15/3m.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Insight Ultra HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9530",Insight TV
 https://stream2.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6836.png" tvg-id="simpleTVFakeEpgId",Insomnia HD
@@ -1991,8 +1817,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=4
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",J Sports4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=4
-#EXTINF:-1 group-title="📺 Tajikistan" tvg-id="simpleTVFakeEpgId",Jahonnamo (1080p)
-https://live.teleradiocom.tj/4/3m.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",Jambyl (360p) [Not 24/7]
 https://stream.kaztrk.kz/regional/taraztv/index.m3u8?checkedby:zunotv
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/9172.png" tvg-id="simpleTVFakeEpgId",Jambyl KZ
@@ -2003,8 +1827,6 @@ https://stream8.cinerama.uz/1490/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1488/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",KatastrOFF
 http://195.9.195.3:8080/hls/208789.m3u8
-#EXTINF:-1 group-title="📺 Tajikistan" tvg-id="simpleTVFakeEpgId",Khatlon (576p)
-https://live.teleradiocom.tj/10/3m.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 group-title="📺 Кинозалы BCU" tvg-id="simpleTVFakeEpgId",Kids+ HD
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/11036/index.m3u8
 #EXTINF:-1 group-title="%F0%9F%93%BA%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20%D0%A2%D0%92%20%28https%3A%2F%2Ft.me%2Fzunotv%29" tvg-id="simpleTVFakeEpgId",Kino Kazka HD
@@ -2739,8 +2561,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18036/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19248/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Super TV
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="📺 Tajikistan" tvg-id="simpleTVFakeEpgId",Tajikistan (1080p)
-https://live.teleradiocom.tj/1/3m.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Taraqqiyot tv
 https://stream1.cinerama.uz/1204/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",tasix-media kino
@@ -2757,8 +2577,6 @@ http://iptv.prosto.tv:7000/ch73/video.m3u8
 https://stream2.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/6724.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10179",Timeless Dizi Channel
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/14006/index.m3u8
-#EXTINF:-1 group-title="📺 Tajikistan" tvg-id="simpleTVFakeEpgId",TMT (1080p)
-https://live.teleradiocom.tj/9/3m.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5114.png" tvg-id="simpleTVFakeEpgId",TOP 80 S HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13002/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5115.png" tvg-id="simpleTVFakeEpgId",TOP BUDO HD
@@ -2803,22 +2621,10 @@ http://217.174.225.146/hls/ch005_720/index.m3u8
 http://217.174.225.146/hls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="📺 Turkmenistan" tvg-id="simpleTVFakeEpgId",Turkmenistan
 http://217.174.225.146/hls/ch007_720/index.m3u8
-#EXTINF:-1 group-title="📺 Tajikistan" tvg-id="simpleTVFakeEpgId",TV Bahoriston (1080p)
-https://live.teleradiocom.tj/3/3m.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/vLpm8tN.png" tvg-id="simpleTVFakeEpgId",TV BRICS Russian (1080p)
 http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:-1 group-title="📺 Tajikistan" tvg-id="simpleTVFakeEpgId",TV Kulob (576p)
-https://live.teleradiocom.tj/12/3m.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/fACHqmY.png" tvg-id="simpleTVFakeEpgId",TV Maná Russkiy (1080p)
 https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺 Tajikistan" tvg-id="simpleTVFakeEpgId",TV Safina (1080p)
-https://live.teleradiocom.tj/2/3m.m3u8?checkedby:iptvcat.org
-#EXTINF:-1 group-title="📺 Tajikistan" tvg-id="simpleTVFakeEpgId",TV Sayohi (1080p)
-https://live.teleradiocom.tj/16/3m.m3u8?checkedby:iptvcat.org
-#EXTINF:-1 group-title="📺 Tajikistan" tvg-id="simpleTVFakeEpgId",TV Sinamo (1080p)
-https://live.teleradiocom.tj/6/3m.m3u8?checkedby:iptvcat.org
-#EXTINF:-1 group-title="📺 Tajikistan" tvg-id="simpleTVFakeEpgId",TV Sugd (1080p)
-https://live.teleradiocom.tj/14/3m.m3u8?checkedby:iptvcat.org
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/309.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7756",TV XXI
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/525/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/309.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7756",TV XXI orig
@@ -4241,8 +4047,6 @@ TVSources &id='.black_00'
 TVSources &id='mir seriala_d0'
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE ФРЭШ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10032" $ExtFilter="TVSources",BRIDGE ФРЭШ
 TVSources &id='bridge fresh_00'
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Shopping live.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10054" $ExtFilter="TVSources",Shopping live
-TVSources &id='shopping live_00'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Мужское кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7882" $ExtFilter="TVSources",МУЖСКОЕ КИНО
 TVSources &id='muzhskoe kino_d0'
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Боец.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11270" $ExtFilter="TVSources",Матч! Боец ᴴᴰ
@@ -4279,8 +4083,6 @@ TVSources &id='songtv armenia 180?180?_00'
 TVSources &id='vostok tv_d0'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Star Cinema HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11093" $ExtFilter="TVSources",Star Cinema ᴴᴰ
 TVSources &id='star cinema 180?180?_00'
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Ювелиртрейд.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11090" $ExtFilter="TVSources",Ювелиртрейд ᴴᴰ
-TVSources &id='yuvelirtrejd 180?180?_e1'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Психология.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9079" $ExtFilter="TVSources",Психология
 TVSources &id='psikhologiya_d0'
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Футбол HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11059" $ExtFilter="TVSources",Футбол ᴴᴰ
@@ -4333,8 +4135,6 @@ TVSources &id='khl 180?180?_00'
 TVSources &id='t24_00'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/.sci-fi.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8720" $ExtFilter="TVSources",.sci-fi ᴴᴰ
 TVSources &id='.sci fi 180?180?_00'
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Exxxotica HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10044" $ExtFilter="TVSources",Exxxotica ᴴᴰ
-TVSources &id='exxxotica 180?180?_00'
 #EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Детский мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7794" $ExtFilter="TVSources",Детский Мир
 TVSources &id='detskij mir_d0'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Curiosity Stream.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9252" $ExtFilter="TVSources",CuriosityStream ᴴᴰ
@@ -4373,8 +4173,6 @@ TVSources &id='muzyka live_d0'
 TVSources &id='timeless dizi channel 180?180?_00'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Время.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7793" $ExtFilter="TVSources",Время
 TVSources &id='vremya_d0'
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Barely legal.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10047" $ExtFilter="TVSources",Barely Legal
-TVSources &id='barely legal_00'
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/MMA-TV.com.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9322" $ExtFilter="TVSources",MMA-TV.com ᴴᴰ
 TVSources &id='mma tv.com 180?180?_00'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju+ Comedy.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9384" $ExtFilter="TVSources",viju+ Comedy ᴴᴰ
@@ -4391,8 +4189,6 @@ TVSources &id='otr 180?180?_e1'
 TVSources &id='dialogi o rybalke 180?180?_e1'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/TV XXI.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7756" $ExtFilter="TVSources",ТВ-21 ᴴᴰ
 TVSources &id='tv 21 180?180?_00'
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Шалун.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10355" $ExtFilter="TVSources",Шалун ᴴᴰ
-TVSources &id='shalun 180?180?_e1'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Спас.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7954" $ExtFilter="TVSources",СПАС
 TVSources &id='spas_d0'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Первый Российский Национальный Канал.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9793" $ExtFilter="TVSources",Первый Российский Национальный Канал ᴴᴰ
@@ -4445,16 +4241,12 @@ TVSources &id='terra 180?180?_00'
 TVSources &id='rodnoe kino_d0'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/viju Nature.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9379" $ExtFilter="TVSources",viju Nature ᴴᴰ
 TVSources &id='viju nature 180?180?_00'
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/RT DE.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10169" $ExtFilter="TVSources",RT DE ᴴᴰ
-TVSources &id='rt de 180?180?_00'
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE Шлягер.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10033" $ExtFilter="TVSources",BRIDGE Шлягер
 TVSources &id='bridge shlyager_00'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/CGTN Русский.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10034" $ExtFilter="TVSources",CGTN Русский
 TVSources &id='cgtn russkij_d0'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Тайна.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10074" $ExtFilter="TVSources",Тайна
 TVSources &id='tajna_d0'
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Brazzers TV Europe.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10045" $ExtFilter="TVSources",Brazzers TV Europe
-TVSources &id='brazzers tv europe_00'
 #EXTINF:-1 group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Мужской.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7883" $ExtFilter="TVSources",Мужской
 TVSources &id='muzhskoj_d0'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Патриот.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11152" $ExtFilter="TVSources",Патриот
@@ -4505,16 +4297,10 @@ TVSources &id='rossiya k_d0'
 TVSources &id='moskva. doverie_d0'
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE HITS.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11047" $ExtFilter="TVSources",BRIDGE HITS
 TVSources &id='bridge hits_00'
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Babes TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10048" $ExtFilter="TVSources",Babes TV ᴴᴰ
-TVSources &id='babes tv 180?180?_00'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Неизвестная Россия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9795" $ExtFilter="TVSources",Неизвестная Россия ᴴᴰ
 TVSources &id='neizvestnaya rossiya 180?180?_e1'
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Русская ночь.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10052" $ExtFilter="TVSources",Русская ночь
-TVSources &id='russkaya noch`_d0'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/.sci-fi.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8720" $ExtFilter="TVSources",.sci-fi
 TVSources &id='.sci fi_00'
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/TORRE RICCA.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11151" $ExtFilter="TVSources",TORRE RICCA
-TVSources &id='torre ricca_00'
 #EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8124" $ExtFilter="TVSources",Кино ТВ ᴴᴰ
 TVSources &id='kino tv 180?180?_e1'
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11133" $ExtFilter="TVSources",Мир ᴴᴰ
@@ -4541,16 +4327,12 @@ TVSources &id='gagsnetwork 180?180?_00'
 TVSources &id='len tv 24_d0'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju TV1000 новелла.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10367" $ExtFilter="TVSources",viju TV1000 новелла ᴴᴰ
 TVSources &id='viju tv1000 novella 180?180?_00'
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Ювелирочка.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9961" $ExtFilter="TVSources",Ювелирочка
-TVSources &id='yuvelirochka_d0'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Русская история.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11233" $ExtFilter="TVSources",Русская история ᴴᴰ
 TVSources &id='russkaya istoriya 180?180?_e1'
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Ю.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11061" $ExtFilter="TVSources",Ю
 TVSources &id='yu_d0'
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Эхо тв.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10502" $ExtFilter="TVSources",Эхо-ТВ
 TVSources &id='ekho tv_d0'
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Шёлк.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10178" $ExtFilter="TVSources",Шёлк ᴴᴰ
-TVSources &id='shyolk 180?180?_e1'
 #EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Мультимузыка.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7888" $ExtFilter="TVSources",Мультимузыка
 TVSources &id='mul`timuzyka_d0'
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Домашний.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10438" $ExtFilter="TVSources",Домашний ᴴᴰ
@@ -4565,8 +4347,6 @@ TVSources &id='che!_d0'
 TVSources &id='czentral`noe televidenie_d0'
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Старт.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7955" $ExtFilter="TVSources",Старт ᴴᴰ
 TVSources &id='start 180?180?_e1'
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/Хабар 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7987" $ExtFilter="TVSources",Хабар 24 ᴴᴰ
-TVSources &id='khabar 24 180?180?_e1'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Большая Азия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10924" $ExtFilter="TVSources",Большая Азия ᴴᴰ
 TVSources &id='bol`shaya aziya 180?180?_e1'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Светлое тв.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10959" $ExtFilter="TVSources",Светлое ТВ HD
@@ -4663,8 +4443,6 @@ TVSources &id='prosveshhenie_d0'
 TVSources &id='russkij bestseller_d0'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/viju History.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9378" $ExtFilter="TVSources",viju History ᴴᴰ
 TVSources &id='viju history 180?180?_00'
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/French Lover TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10457" $ExtFilter="TVSources",French Lover TV
-TVSources &id='french lover tv_00'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Романтичное.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9518" $ExtFilter="TVSources",Романтичное ᴴᴰ
 TVSources &id='romantichnoe 180?180?_e1'
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Mezzo live HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10041" $ExtFilter="TVSources",Mezzo Live ᴴᴰ
@@ -4693,8 +4471,6 @@ TVSources &id='moya planeta 180?180?_e1'
 TVSources &id='uspekh_d0'
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Пятый канал.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10968" $ExtFilter="TVSources",Пятый канал
 TVSources &id='pyatyj kanal_d0'
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Мой Мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11118" $ExtFilter="TVSources",Мой Мир
-TVSources &id='moj mir_d0'
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Дума ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9797" $ExtFilter="TVSources",Дума ТВ
 TVSources &id='duma tv_d0'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Русский детектив.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11112" $ExtFilter="TVSources",Русский детектив
@@ -4703,8 +4479,6 @@ TVSources &id='russkij detektiv_d0'
 TVSources &id='viju tv1000 russkoe 180?180?_00'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Победа_.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8426" $ExtFilter="TVSources",Победа ᴴᴰ
 TVSources &id='pobeda 180?180?_e1'
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Ювелирочка.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9961" $ExtFilter="TVSources",Ювелирочка ᴴᴰ
-TVSources &id='yuvelirochka 180?180?_e1'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Plan B.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11292" $ExtFilter="TVSources",Plan B ᴴᴰ
 TVSources &id='plan b 180?180?_00'
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Про Бизнес.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10069" $ExtFilter="TVSources",ПРО БИЗНЕС
@@ -4713,8 +4487,6 @@ TVSources &id='pro biznes_d0'
 TVSources &id='viju explore 180?180?_00'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Hollywood.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10037" $ExtFilter="TVSources",Hollywood ᴴᴰ
 TVSources &id='hollywood 180?180?_00'
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/Silk Way.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9872" $ExtFilter="TVSources",Silk Way ᴴᴰ
-TVSources &id='silk way 180?180?_00'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/viju+ Planet.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9380" $ExtFilter="TVSources",viju+ Planet ᴴᴰ
 TVSources &id='viju+ planet 180?180?_00'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/365 Дней.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11048" $ExtFilter="TVSources",365 дней ТВ ᴴᴰ
@@ -4751,8 +4523,6 @@ TVSources &id='english class 180?180?_00'
 TVSources &id='kukhnya_d0'
 #EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Карусель HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8444" $ExtFilter="TVSources",Карусель ᴴᴰ
 TVSources &id='karusel` 180?180?_e1'
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/CCTV-4.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7654" $ExtFilter="TVSources",CCTV-4
-TVSources &id='cctv 4_00'
 #EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7843" $ExtFilter="TVSources",КИНОХИТ ᴴᴰ
 TVSources &id='kinokhit 180?180?_e1'
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Калейдоскоп ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10926" $ExtFilter="TVSources",Калейдоскоп ТВ
@@ -4767,8 +4537,6 @@ TVSources &id='belros_d0'
 TVSources &id='match! strana 180?180?_e1'
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/RU.TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8111" $ExtFilter="TVSources",RU.TV ᴴᴰ
 TVSources &id='ru.tv 180?180?_00'
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Leomax24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10164" $ExtFilter="TVSources",Leomax24
-TVSources &id='leomax24_00'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/.black.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8717" $ExtFilter="TVSources",.black ᴴᴰ
 TVSources &id='.black 180?180?_00'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Ultra HD Cinema.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8893" $ExtFilter="TVSources",Ultra HD Cinema
@@ -4823,8 +4591,6 @@ TVSources &id='moskva 24_d0'
 TVSources &id='bollywood 180?180?_00'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/RTД.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11293" $ExtFilter="TVSources",RTД ᴴᴰ
 TVSources &id='rtd 180?180?_00'
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/RT.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8956" $ExtFilter="TVSources",RT ᴴᴰ
-TVSources &id='rt 180?180?_00'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Epic.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10548" $ExtFilter="TVSources",Epic ᴴᴰ
 TVSources &id='epic 180?180?_00'
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Мир 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7872" $ExtFilter="TVSources",Мир 24
@@ -4843,8 +4609,6 @@ TVSources &id='ocean 180?180?_00'
 TVSources &id='mama_d0'
 #EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Duck TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9702" $ExtFilter="TVSources",Duck TV ᴴᴰ
 TVSources &id='duck tv 180?180?_00'
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/Беларусь 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10061" $ExtFilter="TVSources",Беларусь 24
-TVSources &id='belarus` 24_d0'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Магнат.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11209" $ExtFilter="TVSources",Магнат ᴴᴰ
 TVSources &id='magnat 180?180?_e1'
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Суббота!.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7960" $ExtFilter="TVSources",Суббота!
@@ -4855,12 +4619,8 @@ TVSources &id='kinoprem`era 180?180?_e1'
 TVSources &id='krasnaya liniya_d0'
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Россия 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11014" $ExtFilter="TVSources",Россия 24
 TVSources &id='rossiya 24_d0'
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Red Lips.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10051" $ExtFilter="TVSources",Red Lips ᴴᴰ
-TVSources &id='red lips 180?180?_00'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Кто куда.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11286" $ExtFilter="TVSources",#КтоКуда
 TVSources &id='#ktokuda_d0'
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Blue Hustler.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10046" $ExtFilter="TVSources",blue HUSTLER
-TVSources &id='blue hustler_00'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Ocean-TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11044" $ExtFilter="TVSources",Ocean-TV
 TVSources &id='ocean tv_00'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Наше новое кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7897" $ExtFilter="TVSources",НАШЕ НОВОЕ КИНО
@@ -4869,8 +4629,6 @@ TVSources &id='nashe novoe kino_d0'
 TVSources &id='quadro 129?180?_00'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Дом кино премиум HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7802" $ExtFilter="TVSources",Дом кино Премиум ᴴᴰ
 TVSources &id='dom kino premium 180?180?_e1'
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/CGTN.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7655" $ExtFilter="TVSources",CGTN
-TVSources &id='cgtn_00'
 #EXTINF:-1 group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Дикий.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10064" $ExtFilter="TVSources",Дикий
 TVSources &id='dikij_d0'
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Russian Extreme Ultra.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8741" $ExtFilter="TVSources",Russian Extreme Ultra
@@ -4889,678 +4647,6 @@ TVSources &id='match tv_d0'
 TVSources &id='world fashion channel 180?180?_00'
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Da Vinci.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7660" $ExtFilter="TVSources",Da Vinci
 TVSources &id='da vinci_00'
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Кто куда.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11286" $ExtFilter="Wink TV",#КтоКуда
-https://s25617.cdn.ngenix.net/mdrm/CH_KTOKUDA/manifest.mpd?token=LwMDk1YjRlZmI1Zjc1NzdiNjkzZWFlYWYzN2RjMGNkZmE
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/.black.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8717" $ExtFilter="Wink TV",.black
-https://s25617.cdn.ngenix.net/mdrm/CH_SONYTURBO/manifest.mpd?token=QgNjI1YjUzNTkyOGQ1ZDZjNzk4ZDZhNjQ0YTBmZDU2ZjI
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/.black.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8717" $ExtFilter="Wink TV",.black ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_BLACKHD/manifest.mpd?token=dEZmY3NWE0OWNhN2NkNjliN2MyMTI2YjY5OGVkNTQwMTk
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/.red.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11043" $ExtFilter="Wink TV",.red
-https://s25617.cdn.ngenix.net/mdrm/CH_SET/manifest.mpd?token=FCNWMwZTViMmEzMWI1ZjI0MjUwNGZlODgzNmE5Mjk1NmM
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/.red.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11043" $ExtFilter="Wink TV",.red ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C02_SETHD/manifest.mpd?token=ysMGMwMmE5NGY5MjEwNmQ0Y2FhYTM4NGUyODk2N2M4ZjA=
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/.sci-fi.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8720" $ExtFilter="Wink TV",.sci-fi
-https://s25617.cdn.ngenix.net/mdrm/CH_SONYSCIFI/manifest.mpd?token=ASYTcxMjM2NjEyZWFjNTk2OTVhZmNjNzQzNDI2MWE5MTU
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/.sci-fi.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8720" $ExtFilter="Wink TV",.sci-fi ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_SCIFIHD/manifest.mpd?token=YYNmVkOTU4OTVlZmVlYTU3MmJjZGQ4MGMzOTlkZDlhOGE
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/2х2.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7623" $ExtFilter="Wink TV",2х2
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/2х2.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7623" $ExtFilter="Wink TV",2х2 ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_2X2HD_OTT/manifest.mpd?token=45MGJmMjUyMzc0YWJhMTUxNjAzODNhMjE1NmIwNjAwNGY
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/360° Новости.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9934" $ExtFilter="Wink TV",360° Новости ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_360NEWSHD/manifest.mpd?token=NIOGIyNGFkZWQ3MTM4ZGJiNTE0YjNmYjQ4ODQxYzJjNmU
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/360°.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9933" $ExtFilter="Wink TV",360° ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_PODMOSKOVIEHD/manifest.mpd?token=VHZDFmODY2ZWYwY2I4MmJlN2UyMDBmMDYzNDdlM2MwZDc
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/365 Дней.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11048" $ExtFilter="Wink TV",365 дней ТВ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_365DNEYHD/manifest.mpd?token=5UMjJmNTMxOWE5YzdhZjZmZTVmNjA2NDFhZDhiOTgxMWY=
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://veranzo.ru/other/icons/78.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8928" $ExtFilter="Wink TV",78 ᴴᴰ
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_KANAL78/variant.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/A1 HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11287" $ExtFilter="Wink TV",A1 ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C01_HDAMEDIA/manifest.mpd?token=J3ZWQ2NTUxOGE2MTA0MjZlMzY3MjI0MGI4MTg5OTBhNDU
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/A2 HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11288" $ExtFilter="Wink TV",A2 ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_A2PROLYBOV/manifest.mpd?token=gfNjcxMjRhNmJmZjJmNTA0N2UzNWIyYTBhNDU4Y2I4NDA=
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Aiva.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10027" $ExtFilter="Wink TV",AIVA ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_AIVAHD/manifest.mpd?token=JlNjMyYjQyYmVjMjJjZjA0N2JkMWM0Zjg2MDBmYjE5MzM
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Amedia Hit.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9852" $ExtFilter="Wink TV",AMEDIA Hit ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_AMEDIAHITHD/manifest.mpd?token=ABMzYxYzUxNmNjZDdmNmUxZmUwZjA0OGUzMDhjZjU0ZjR9
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Amedia Premium HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11289" $ExtFilter="Wink TV",AMEDIA Premium ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C05_HDAMEDIAPREMIUM/manifest.mpd?token=hgNmJiZmJlNzNlMmJkODE4M2IzM2EzNDQ0MDQ1MWNhNmQ=
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Ani.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7636" $ExtFilter="Wink TV",Ani
-https://s25617.cdn.ngenix.net/mdrm/CH_ANI/manifest.mpd?token=yuZTBkMzBiN2I1OGY4YWYxZWRjMTM2YmNhYmQyZGMwMTI=
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Babes TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10048" $ExtFilter="Wink TV",Babes TV ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_BABESTVHD/manifest.mpd?token=jiY2YwZDgzYzJkNTExNzdkYTkxMjVlZmQ1ODQ4Zjg1NmQ=
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/BABY TIME.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9935" $ExtFilter="Wink TV",BABY TIME
-https://s25617.cdn.ngenix.net/mdrm/CH_BABYTIME/manifest.mpd?token=LKNDExZTI5YTNmOWI2NDIyZDYxNDg1ZGE5NDMyZjgwZTU
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Barely legal.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10047" $ExtFilter="Wink TV",Barely Legal
-https://s25617.cdn.ngenix.net/mdrm/CH_BARELYLEGAL/manifest.mpd?token=2yNDQ3ZTFlOTZlNGQyMzNiZmY0MDA3ZGUzMjViOTFlMWE=
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/BIG PLANET.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9761" $ExtFilter="Wink TV",BIG PLANET ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_BIGPLANETHD/manifest.mpd?token=kLNTgyZWVjMzFhOTllOTFkYmFiNDllMTU3MDEzYjk2ZDA=
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Blue Hustler.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10046" $ExtFilter="Wink TV",blue HUSTLER
-https://s25617.cdn.ngenix.net/mdrm/CH_BLUEHUSTLER/manifest.mpd?token=GcZGUzN2E2YzY0ODhiODJiMDJlM2VhZmM3MGZlZDgxOWQ=
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Bollywood HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11045" $ExtFilter="Wink TV",Bollywood ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_BOLLYWOODHD/manifest.mpd?token=HWZTNjYzQ2OTcxMTQ1MmJkOTUwZWE1YWQxNGYzMjI1MWU
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Bolt HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11091" $ExtFilter="Wink TV",BOLT ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_BOLTHD/manifest.mpd?token=GHYTRhODFlYzg0NGVkMDVmYzM4NzQ1ODZmYmQ2NmIzN2I
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Brazzers TV Europe.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10045" $ExtFilter="Wink TV",Brazzers TV Europe
-https://s25617.cdn.ngenix.net/mdrm/CH_BRAZZERSTV/manifest.mpd?token=fRZjRjYmNmYzhiNGJjNTAzYTRkNDAxYmQ3NWJlNmI5NzY=
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10028" $ExtFilter="Wink TV",BRIDGE
-https://s25617.cdn.ngenix.net/mdrm/CH_BRIDGETV/manifest.mpd?token=JjNzYwOThlYzkwZGRmMzVkODZkZmM5YTllMjI5Njg5M2M
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE CLASSIC.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10029" $ExtFilter="Wink TV",BRIDGE CLASSIC
-https://s25617.cdn.ngenix.net/mdrm/CH_BRIDGETVCLASSIC/manifest.mpd?token=QUODE1NmI3NmRkMmE3ODY3NWYxOGNiM2U3YWIxMzdlYzQ
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE Deluxe.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10030" $ExtFilter="Wink TV",BRIDGE Deluxe ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_BRIDGEHD/manifest.mpd?token=VjYWQxMGE3NDIzY2M5YThkYWEyODdjZGI3OWUzYzY0NmE
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE HITS.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11047" $ExtFilter="Wink TV",BRIDGE HITS
-https://s25617.cdn.ngenix.net/mdrm/CH_BRIDGETVDANCE/manifest.mpd?token=NRY2RjYzNiNjdhMTI3Njg2M2M1NjRlNDE5YjViMDY2MTM
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE ROCK.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10162" $ExtFilter="Wink TV",BRIDGE ROCK
-https://s25617.cdn.ngenix.net/mdrm/CH_BRIDGEROCK/manifest.mpd?token=gdNGRjNjI1ZmE2Y2FiZTM2NWM3ODdlYTMwZmQxNmNiOGI
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE Русский Хит.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10031" $ExtFilter="Wink TV",BRIDGE Русский Хит
-https://s25617.cdn.ngenix.net/mdrm/CH_RUSONGTV/manifest.mpd?token=CGMThjYzc2MmVmYzNkM2ZkNDQ5ZjVkMTNmNGViNzA0MjI
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE ФРЭШ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10032" $ExtFilter="Wink TV",BRIDGE ФРЭШ
-https://s25617.cdn.ngenix.net/mdrm/CH_BRIDGEFRESH/manifest.mpd?token=gYNjQzMDhhOGRlNWJhZTA2MjVhOWMzOWExZWE5OTdjNTQ=
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE ФРЭШ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10032" $ExtFilter="Wink TV",BRIDGE ФРЭШ HD
-https://s25617.cdn.ngenix.net/mdrm/CH_BRIDGEFRESHHD/manifest.mpd?token=5TODM5ZGQ3NWE4MjBhYWYwY2IyM2EwYmM1OGEzMTA2NjU
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE Шлягер.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10033" $ExtFilter="Wink TV",BRIDGE Шлягер
-https://s25617.cdn.ngenix.net/mdrm/CH_BRIDGETVSHLYAGER/manifest.mpd?token=MnZTBhM2FlOTJhNWFlYzdjNmYzZjQzNTdmYmRiYzQ0ODU
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/CCTV-4.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7654" $ExtFilter="Wink TV",CCTV-4
-https://s25617.cdn.ngenix.net/mdrm/CH_CCTV4/manifest.mpd?token=W8ZTJiNDNmM2UzMjE1ZDcwYTIwYTAwZTQzMGY2NDVjNTU
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/CGTN.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7655" $ExtFilter="Wink TV",CGTN
-https://s25617.cdn.ngenix.net/mdrm/CH_CGTNENG/manifest.mpd?token=WIODk4ZTUxZDFkNDhmMDk4ZDBhNzI1YjA3YWU3YTM2MGM
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/CGTN Русский.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10034" $ExtFilter="Wink TV",CGTN Русский
-https://s25617.cdn.ngenix.net/mdrm/CH_CGTNRUS/manifest.mpd?token=GoZjlkODEzODI4OWE2NTZlMDQ4ZjJhYzViZmJlMTRjODc
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Cinema.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10409" $ExtFilter="Wink TV",Cinema
-https://s25617.cdn.ngenix.net/mdrm/CH_PARKRAZVLECHENIJ/manifest.mpd?token=CXZjg1ZGU3ODM5ZGI2MzhhYzI1NmM0OTdjNWI2MDIxY2M
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Classic Music.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9673" $ExtFilter="Wink TV",Classic Music ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_CLASSICMUSICHD/manifest.mpd?token=kJNDUzNzdjNzY3YjU2ZTFlZTc1MmU5NGM2YTg5MDdjMDI
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Curiosity Stream.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9252" $ExtFilter="Wink TV",CuriosityStream ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_CURIOSITYSTREAMHD/manifest.mpd?token=TdYTkxNTljYTk0N2Q0YTgxYzc1ZGM4NDM4YjcyOTgzNzA
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Da Vinci.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7660" $ExtFilter="Wink TV",Da Vinci
-https://s25617.cdn.ngenix.net/mdrm/CH_DAVINCILEARNING/manifest.mpd?token=byMzhjYzA3MDlhNTMzNTk5NGY0NTc5MTRjODViMjliYjY
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Duck TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9702" $ExtFilter="Wink TV",Duck TV ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_DUCKTVHD/manifest.mpd?token=rtMDFkNTVjYzdlNWNlYTBlZGNhNzc1OTA3N2JiODM4YmE=
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/English Class.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10365" $ExtFilter="Wink TV",English Class ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_ENGLISHCLASSHD/manifest.mpd?token=LmYzQwMmRiYmJjMTExOTg3NTFmMDczY2YxODdiODgxNWE=
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Epic.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10548" $ExtFilter="Wink TV",Epic ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_EPICHD/manifest.mpd?token=YjMTNjNDMyNWU1ODExMDhmMzkzZWYzMGIwZTNiNDZlZDQ
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Europa Plus TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7671" $ExtFilter="Wink TV",Europa Plus TV ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_EUROPAPLUSHD/manifest.mpd?token=gdZjUxM2Y5ZDg5NTBhYWEzMzk3MDkzMWNjZmRhYjBkOWQ
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Exxxotica HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10044" $ExtFilter="Wink TV",Exxxotica ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_EXXXOTICAHD/manifest.mpd?token=y6OTA3ZTA2NzE5ODliMDkzZDk3ZDM2Y2M0MDRiODBkNzg=
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Family Jam.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9844" $ExtFilter="Wink TV",FamilyJam ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_FAMILYJAMHD/manifest.mpd?token=RRYTFhYWFkNmUxMmM2NGE3YWJmNTM3MDYyNWVhOTAxNWM
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/FAN.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11290" $ExtFilter="Wink TV",FAN ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_FANHD/manifest.mpd?token=WvZGEyOThmYzRkZTc5NjEyODUzMDdkY2M3MTYwZGQzZTI
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/FashionTV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11226" $ExtFilter="Wink TV",FashionTV ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_FASHIONTVHD/manifest.mpd?token=g2MWIzNmI4OWY4ZmQ0ZTIyNjA4NDc4OWE4YWNhNTU5ZTk
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/FoodTime.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9321" $ExtFilter="Wink TV",FoodTime ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_EDAPREMIUMHD/manifest.mpd?token=dsZTI2M2VjYTFkNWQwMzg3ODBkYjk5NThhMDc0NWY5ODY
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/French Lover TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10457" $ExtFilter="Wink TV",French Lover TV
-https://s25617.cdn.ngenix.net/mdrm/CH_FRENCHLOVER/manifest.mpd?token=iUNDRhOWIxMTI4ZTJmZTdhMTZmODFiNTZkNmRmNzA4ODk=
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Gagsnetwork.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9167" $ExtFilter="Wink TV",Gagsnetwork ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_GAGSNETWORKHD/manifest.mpd?token=XnMTcxZTdkNzFkYTZmNmM3OWIyMDRmMTMyYzVmZjRmYjc
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Gulli Girl.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7691" $ExtFilter="Wink TV",Gulli Girl
-https://s25617.cdn.ngenix.net/mdrm/CH_GULLI/manifest.mpd?token=UqOGZlOGM3N2Q3ZmQxZjFhMmQ3NzFhYzA5MzJiMzU4ODU
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Hollywood.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10037" $ExtFilter="Wink TV",Hollywood ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_HOLLYWOODHD/manifest.mpd?token=GTNTc2NjkwOTQxZGNmYzgxZDdmNjVkYmJhOGRkOTgwMmY
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/KHL Prime.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11267" $ExtFilter="Wink TV",KHL Prime ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_KHLPRIMEHD/manifest.mpd?token=AzYzBjOTgyNjljNTRhZjYwYTAxYzYzZWZmNDE3N2IwYzk
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/KHL.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11268" $ExtFilter="Wink TV",KHL ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_KHLHD/manifest.mpd?token=AcYWM5YzE2N2JkMTFiM2ZkNzg3NDc4YmFmYjRlNDE0OGQ
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/KinoJam 1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9689" $ExtFilter="Wink TV",KinoJam 1 ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_KINOJAM1HD/manifest.mpd?token=4RNjNkYzk3MzMxMGFhNGU4NzQzMWU1NjNkOWY3NmRhNjk
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/KinoLiving.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8401" $ExtFilter="Wink TV",KinoLiving ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_KINOLIVINGHD/manifest.mpd?token=k9ODJhNzRhZDAzOGU4OWUyYzljNmUzMTFiOTM2YTViOTg=
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/KION ХИТ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11092" $ExtFilter="Wink TV",KION ХИТ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_KIONHITHD/manifest.mpd?token=TEMzIxNGY1ODFlMGJlNjg2Yjg0NWY4MzYyMjk4Y2QzMDE
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Leomax24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10164" $ExtFilter="Wink TV",Leomax24
-https://s25617.cdn.ngenix.net/mdrm/CH_C04_SHOP24/manifest.mpd?token=YMNmJkYTUwNjY2ZGFhNjUyNjUzOGQ3NzI0MzM0ZTYwZmQ
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/MCM Top.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10165" $ExtFilter="Wink TV",MCM TOP
-https://s25617.cdn.ngenix.net/mdrm/CH_MCMTOP/manifest.mpd?token=RYYThkMjNjZmYxZTdmMmFkNjQzM2I5NjYxODIyY2Y4Yjg
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Mezzo live HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10041" $ExtFilter="Wink TV",Mezzo Live ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C05_MEZZOLIVEHD/manifest.mpd?token=ZJYjVlMzZjYmEwMGU1OTU4OGQzZDliM2E3NWExOWRkMWQ
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Mezzo.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10040" $ExtFilter="Wink TV",Mezzo ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_MEZZOHD/manifest.mpd?token=6iOGE4NGQ5NThhMmYzZGY3MTJiMzgyMTM4ODcwZmM4Zjg
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/MMA-TV.com.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9322" $ExtFilter="Wink TV",MMA-TV.com
-https://s25617.cdn.ngenix.net/mdrm/CH_M1GLOBAL/manifest.mpd?token=EMNDE3YjJkYzM5NGM4OWMyNWMyNmIzZDhiZWQyYmZhMmI
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/MMA-TV.com.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9322" $ExtFilter="Wink TV",MMA-TV.com ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_MMATVHD/manifest.mpd?token=weMjYyYzBiZjc2Yzc4ZTU4OTU0NDc0NTFiMmE1MTc1OWU
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Museum.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7714" $ExtFilter="Wink TV",Museum ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_MUSEUMHD/manifest.mpd?token=A3MGRlYmU3ZmZhNjIzYmI4OTljZWI2Njg3ODhiNzA0MzQ
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Music Box Gold.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10166" $ExtFilter="Wink TV",MUSIC BOX GOLD
-https://s25617.cdn.ngenix.net/mdrm/CH_MUSICBOXTV/manifest.mpd?token=GkYTEwMDkwOWVmZDI4OTQ3MGViNWM1MmI1ZDQ5Njk0MWU
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Music Box Russia.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10167" $ExtFilter="Wink TV",MUSIC BOX RUSSIAN ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_RUSSIAN_MUSICBOXHD/manifest.mpd?token=YjMDZkMTZjZWUyMTA2N2ZhNTdkNDdiYmNkYjY3YWM5YzY
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/My Zen TV HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9541" $ExtFilter="Wink TV",My Zen TV ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C05_MYZENTVHD/manifest.mpd?token=dQZjVlODkxYWU0OTJjYzM5NmRmMGVjN2E0ZmM4NjQ5OGY
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Ocean-TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11044" $ExtFilter="Wink TV",Ocean-TV
-https://s25617.cdn.ngenix.net/mdrm/CH_OCEANTV/manifest.mpd?token=YWY2I5NDZlOWE0MWRmM2IyZTE4OTUzNzc3ZTc2NGQ2YjY
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Ocean-TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11044" $ExtFilter="Wink TV",Ocean ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_OCEANTVHD/manifest.mpd?token=UkZWYzNmIyZTUxZTU3ZmIyMGZlMzJjN2NiMWMxMzc1ZDY
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Plan B.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11292" $ExtFilter="Wink TV",Plan B ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_PLANBHD/manifest.mpd?token=wUY2Y3ZjFiNDliOGFmOTJiYWE1NzZkMGQ0MDJlY2NmNTQ=
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/QUADRO 4K.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10168" $ExtFilter="Wink TV",QUADRO ⁴ᴷ
-https://s25617.cdn.ngenix.net/mdrm/CH_QUADRO4K/manifest.mpd?token=etNTAyNjk2NmQ4NzY4MzkzM2JkMzhlZDBkMTgxMGZiMmE=
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Red Lips.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10051" $ExtFilter="Wink TV",Red Lips ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_REDLIPSHD/manifest.mpd?token=KJYTI3NmIxOGE3NTg1ZDQ2MDFlNjEyMzhiMDM1ZWUxNDk=
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/RT DE.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10169" $ExtFilter="Wink TV",RT DE ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_RTDEHD/manifest.mpd?token=klOGE3MGI4N2M4MjQ5ZWVmOWE4NzYxMjc5OGM0ZTFjOTQ=
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/RT.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8956" $ExtFilter="Wink TV",RT ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C04_RTTVHD/manifest.mpd?token=T0ZDNiMjg1MzAyYTdlZjJhZWYyMjIxOGM2NDhkMWFjNmI
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/RTG HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11242" $ExtFilter="Wink TV",RTG ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_RTGHD/manifest.mpd?token=Z1YzNmZDhmYTU0MWQ3YmQ4ZTY4ZDE4Y2QyYmQ4NTJlZTY
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/RTД.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11293" $ExtFilter="Wink TV",RTД ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_RTDHD/manifest.mpd?token=NRODVlMzNhNmEyNzk0M2ZiNjIyNzI3OTYyYWE3MGVlMjk
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/RU.TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8111" $ExtFilter="Wink TV",RU.TV ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_RUTVHD/manifest.mpd?token=ETODA5YTdjM2NiMGE2NTg3YmRlZjA0NzYwM2NmNjM3MmU=
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Russian Extreme Ultra.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8741" $ExtFilter="Wink TV",Russian Extreme Ultra
-https://s25617.cdn.ngenix.net/mdrm/CH_RUSSIANEXTREMEULTRA_ENC/manifest.mpd?token=REMTg1ZDJjODk3ODE1NTQ0MWJiNWQ2OWZlZTU3ZGVkYzI
-#EXTINF:-1 group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Russian Extreme HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8740" $ExtFilter="Wink TV",Russian Extreme ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_RUSSIANEXTREMEHD/manifest.mpd?token=EfYWFmYTllMzgxOTM5NWNkMzk2MzFlMDg3NDQzOGZkMzg=
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Shopping live.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10054" $ExtFilter="Wink TV",Shopping live
-https://s25617.cdn.ngenix.net/mdrm/CH_SHOPPINGLIFE/manifest.mpd?token=hVMTUwZjYyNTZlYjIyMDIyMTcyMTJlYTQ5OTEyZWRhODY
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Shot TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7742" $ExtFilter="Wink TV",SHOT TV ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_SHOTTVHD/manifest.mpd?token=CgZTUxMjM4NzMzMjIwNzhjOGRhZTRiMzA3NWIwZTM1OTQ
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/Silk Way.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9872" $ExtFilter="Wink TV",Silk Way ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_KAZAHHD/manifest.mpd?token=L3MTZlNjc5MzFhYzFkOWZhOThjNWU5MjFhMzEwN2Q1NGE
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/SongTV Armenia HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10171" $ExtFilter="Wink TV",SongTV Armenia ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_SONGTVARMHD/manifest.mpd?token=NIMDE2NDA2YmY3YjljNDRkMTNhY2MwMmQ0NzIwODk2MDQ
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/SongTV Russia.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10172" $ExtFilter="Wink TV",SongTV Russia ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_SONGTVRUSHD/manifest.mpd?token=M1OWFjMjYxYTUwMWRkZDUyZTY4ODYwYThiYmExNjllMDY
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Star Cinema HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11093" $ExtFilter="Wink TV",Star Cinema ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_STARCINEMAHD/manifest.mpd?token=SdNjYzZTU5ZWE5YzA1MDM3MDc0Yzg1YWI4OGJiOWMyOWM
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Star Family HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11094" $ExtFilter="Wink TV",Star Family ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_STARFAMILYHD/manifest.mpd?token=UuYTI4ZjE0MDk2NjQ4NWVmYzkzYjQ1ZTI0MmYzMDA2YmI
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/START Air.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11095" $ExtFilter="Wink TV",START Air ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_STARTAIRHD/manifest.mpd?token=84MTY5YTc1NzYwODE4NmRiYWNjOTMxY2YwZGI0YzA5YjI=
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/START World.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10377" $ExtFilter="Wink TV",START World ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_STARTWORLDHD/manifest.mpd?token=5pMTViMjIzYzkxOTZiYTU4YTRlNzJkMGM1MWU3ZWFmZjI=
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Sumiko.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9801" $ExtFilter="Wink TV",Sumiko ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_SUMIKOHD/manifest.mpd?token=42NmUxYTcwYmYzM2VmYTI3Y2RjNGFmZmQwNzMxNTc3MzQ
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/TERRA.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9800" $ExtFilter="Wink TV",TERRA ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C04_NGCHD/manifest.mpd?token=KkZWQ2NjFjMDhjMGE1NmQ4YjAxZWE3MTA2YjM3YzBmNmI
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Tiji.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7747" $ExtFilter="Wink TV",TiJi
-https://s25617.cdn.ngenix.net/mdrm/CH_TIJI/manifest.mpd?token=EONTNlMGE4NTczMTk5OGFiYzUxNmFhNDAxMjBhN2YxZGQ
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Timeless Dizi Channel.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10179" $ExtFilter="Wink TV",Timeless Dizi Channel ᴴᴰ
-http://s25617.cdn.ngenix.net/mdrm/CH_TDCHD/manifest.mpd?token=PjNzgzZWQxZTNjMjFkZjYzODgwOWUyMjdjZDZjYjI1YmE
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/TORRE RICCA.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11151" $ExtFilter="Wink TV",TORRE RICCA
-https://s25617.cdn.ngenix.net/mdrm/CH_TORRERICCA/manifest.mpd?token=UhMzUyYmMyZjM3MTFmMTE5NTNmMDZjZDU5ODhiNWJiOTA
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Travel+ adventure.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10923" $ExtFilter="Wink TV",Travel+Adventure ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_TRAVELANDADVENTUREHD/manifest.mpd?token=f0ZjEzYTI1M2VkNDQ4MzM0N2QwNjlmMjJiYzA0NjEwYjY
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/TV BRICS.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9939" $ExtFilter="Wink TV",TV BRICS ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_TVBRICSHD/manifest.mpd?token=p7MmVhZjllYjBhZmU0OTk1OGFmYmVkMzBjODg1MWRiMTE
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Ultra HD Cinema.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8893" $ExtFilter="Wink TV",Ultra HD Cinema
-https://s25617.cdn.ngenix.net/mdrm/CH_ULTRAHDCINEMA_ENC/manifest.mpd?token=5POTY5YjNjZDNmZTcyMWM4MGY4ZmZhNTU4NmU0MzFhZTg
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/VHS-KA.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9684" $ExtFilter="Wink TV",VHS-KA ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_VHSKAHD/manifest.mpd?token=fyYTJlZGQ0Y2I4ZDM2N2QwZjhjODI1NmQ5OGQwMjM5ZmY
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/viju Explore.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9377" $ExtFilter="Wink TV",viju Explore ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_VIASATEXPLOREHD/manifest.mpd?token=YnMmU0MjUyODVlY2EyZGJjZmJjNTY4ZGMwM2VkM2Q3NzM
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/viju History.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9378" $ExtFilter="Wink TV",viju History ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_VIASATHISTORYHD/manifest.mpd?token=DTYWI5ODU0MWM1Y2NiZTFlN2QzN2M4ZTdlYTEyMjdjYWQ
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/viju Nature.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9379" $ExtFilter="Wink TV",viju Nature ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_VIASATNATUREHD/manifest.mpd?token=YxZWEyOTNlMDY1NTE2NGU4Y2ZjYmU2OWVjMDUwZGRhZjU
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju TV1000 action.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9382" $ExtFilter="Wink TV",viju TV1000 action ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_TV1000ACTIONHD/manifest.mpd?token=MxMGZhMDE4Mzc4MmVlMDY1MGM4ZDIzODM4ZDgwMmRmZjI
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju TV1000 romantica.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11141" $ExtFilter="Wink TV",viju TV1000 romantica ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_VIJUROMANTICAHD/manifest.mpd?token=ReOTNkZWFhZTI1ZWZhY2E5MDdlY2I3MTVhM2Q5MWUxZmI
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju TV1000 новелла.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10367" $ExtFilter="Wink TV",viju TV1000 новелла ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_VIJUTV1000NOVELLAHD/manifest.mpd?token=OkNTkwYzNmYjk2YTExN2JmZDMzNzU0MTlkODljNzE0ODU
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju TV1000 русское.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11096" $ExtFilter="Wink TV",viju TV1000 русское ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_TV1000RUSSKOEKINOHD/manifest.mpd?token=OMYTllYjBkNmRhOWM2YzQ0ODBlNTU0MjBiZWRlYzIzNmU
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju TV1000.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11294" $ExtFilter="Wink TV",viju TV1000 ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_TV1000HD/manifest.mpd?token=C2OTNkMDA2NWFjODFmNDA4YmNiODZiMWU1YmY5NzhiODA
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju+ Comedy.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9384" $ExtFilter="Wink TV",viju+ Comedy ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C03_TV1000COMEDYHD/manifest.mpd?token=UbYWE0YTcyYTM2MDEzM2I1YTM2Y2ZlZjYzYzc5NTM0MjU
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju+ Megahit.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9385" $ExtFilter="Wink TV",viju+ Megahit ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C03_TV1000MEGAHITHD/manifest.mpd?token=B1NmVjMTkwM2YyYzA5NWIwZDM1OTY4YTM3MjM0NjE4MTc
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/viju+ Planet.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9380" $ExtFilter="Wink TV",viju+ Planet ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C03_VIASATNATUREHISTORYHD/manifest.mpd?token=E7MDk0NjJkMTk2MzA5YzAwMzhhMGI4YTc1YzM4NTViYzg
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju+ Premiere.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9386" $ExtFilter="Wink TV",viju+ Premiere ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C05_TV1000PREMIUMHD/manifest.mpd?token=ZONzM3NzcwMGYwYzY3MTEyOWVmMTFhODI1MWIyMjBkMmI
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju+ Serial.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9376" $ExtFilter="Wink TV",viju+ Serial ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C06_VIASATGOLFHD/manifest.mpd?token=NoODRjZDk2ZmMyNjhkMWQzYjZiNDMzYWM3NDRhNWM0NTA
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/viju+ Sport.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9387" $ExtFilter="Wink TV",viju+ Sport
-https://s25617.cdn.ngenix.net/mdrm/CH_VIASATSPORT/manifest.mpd?token=FDZDgyMWMyMGM4ZTI5MTFhYmFjYTFjZWViN2YzZmIxMDU
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/viju+ Sport.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9387" $ExtFilter="Wink TV",viju+ Sport ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C06_VIASATSPORTHD/manifest.mpd?token=CDNzllOTZlMTNiYTUyMDM1OTYwMzJjMGE2NTkzMzhmNjU
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/WOMEN’S MAGAZINE.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9798" $ExtFilter="Wink TV",WOMEN’S MAGAZINE ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_WOMENSMAGAZINEHD/manifest.mpd?token=1yZWFiMDk0YWNhYjdmMmM2NGFjYjE5ZTllZTY0N2Q3NWQ=
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/World Fashion Channel HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11050" $ExtFilter="Wink TV",World Fashion Channel ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_WFCHD/manifest.mpd?token=PONmY3OTJiNjI1NDAwY2QzN2Q2ZDNkMDI3MjM3OGY5MGI
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Zоопарк.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11295" $ExtFilter="Wink TV",Zоопарк
-https://s25617.cdn.ngenix.net/mdrm/CH_ZOOPARK/manifest.mpd?token=AFMjEwZjI1NjU5YWY1NTM3ZmI2NGRiN2VhMDk5NTQwODg
-#EXTINF:-1 group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Авто Плюс.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7779" $ExtFilter="Wink TV",Авто Плюс
-https://s25617.cdn.ngenix.net/mdrm/CH_AUTOPLUS/manifest.mpd?token=QmMmQxMTc4NWFmMDYwMzg1MTg1NTI4MDYzOTExMGRhYzQ
-#EXTINF:-1 group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Авто24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11051" $ExtFilter="Wink TV",АВТО24 ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_AVTO24HD/manifest.mpd?token=NJNDRmNmM2NTFjZDFiY2ZiNjg1N2JmZGFhZjc4ZjgxYzU=
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Анекдот ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10060" $ExtFilter="Wink TV",Анекдот ТВ
-https://s25617.cdn.ngenix.net/mdrm/CH_ANEKDOTTV/manifest.mpd?token=BaNzYzYWNhZmIwNTcyZjNmYThlMDI3Yzg0ZDgyYTMwNmM
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Аппетитный.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10398" $ExtFilter="Wink TV",Аппетитный ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_APPETITNIYHD/manifest.mpd?token=tdOWZjY2E3YTk2MTA5NTEzMDA3YmIzM2QyNTE4ZTVjYTY
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/Беларусь 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10061" $ExtFilter="Wink TV",Беларусь 24
-https://s25617.cdn.ngenix.net/mdrm/CH_BELARUS24/manifest.mpd?token=CrOGJjZDBjNWYyNDYzNjViNDFjMzRjM2I3ZDdjNGRiMTI
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/БелРос.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10131" $ExtFilter="Wink TV",БелРос
-https://s25617.cdn.ngenix.net/mdrm/CH_TRO/manifest.mpd?token=UqMTVjZWY0N2U3OTNhODgwZGM0MjI4YTE3OGM3MTUyNTc
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Бобёр.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7785" $ExtFilter="Wink TV",Бобёр
-https://s25617.cdn.ngenix.net/mdrm/CH_BOBER/manifest.mpd?token=NeYmM5ZjAxZWFmYWVmYzIwNzhlMDA1ODc1YmQzMGZhNjc
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Большая Азия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10924" $ExtFilter="Wink TV",Большая Азия ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_BIGASIAHD/manifest.mpd?token=CYZDkxODQ5YThkMTM5OTc3Y2MwOWJiZjQzNjBlZjQxYWQ
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/В гостях у сказки.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7788" $ExtFilter="Wink TV",В гостях у сказки
-https://s25617.cdn.ngenix.net/mdrm/CH_VGOSTYAHUSKAZKI/manifest.mpd?token=SJZWMyOTBmZWE2MmNjODcxYjQ0NjNjMWNhMDUxZTZjNjc
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Вместе-РФ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7790" $ExtFilter="Wink TV",ВМЕСТЕ-РФ
-https://s25617.cdn.ngenix.net/mdrm/CH_SOVETFEDERATSII/manifest.mpd?token=OnZmQzYzUxNTljOGY5NmFjYWQzOWRjOTlkMDIxY2Y2ZWY
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Волейбол.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11142" $ExtFilter="Wink TV",Волейбол ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_VOLEYBOLHD/manifest.mpd?token=UoM2IyOTNjNWQyMWY5MWMxYmI4NGQyZDc4Y2Y0OTczM2Y
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Восток ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7792" $ExtFilter="Wink TV",Восток ТВ
-https://s25617.cdn.ngenix.net/mdrm/CH_VOSTOKTV/manifest.mpd?token=RhMWQ5ODc2ZWU1OTgyNTMzZjUxNjc5ODEwZjcyNzkyZjc
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Время.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7793" $ExtFilter="Wink TV",Время
-https://s25617.cdn.ngenix.net/mdrm/CH_VREMYADIB/manifest.mpd?token=YhNDVhZjJlZTQ5ODg3MjU0ZDA5ZDlkMjViNGQxMTAxMmI
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Всё ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10173" $ExtFilter="Wink TV",Всё ТВ ᴴᴰ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD/variant.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Глазами туриста.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10062" $ExtFilter="Wink TV",Глазами туриста ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_GLAZAMITURISTAHD/manifest.mpd?token=ScODQ4YmNjNDk2MjU1OWJmZmEzNjI0YWZkZDMzY2E0YTY
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Детский мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7794" $ExtFilter="Wink TV",Детский Мир
-https://s25617.cdn.ngenix.net/mdrm/CH_DETSKIJMIR/manifest.mpd?token=MmZDg1MzhmZGE2NGE2ZjJjMjA3NmYyYjI4ODdlNzNlN2Q
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Диалоги о рыбалке.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10063" $ExtFilter="Wink TV",Диалоги о рыбалке ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_DIALORYBHD/manifest.mpd?token=M0NDQwOWQ1YTdhNDRjNjc4ZTM1ZDc1NTZhYzYxYzE5YjI
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Дикая охота HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7796" $ExtFilter="Wink TV",Дикая охота ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_DIKAYAOHOTAHD/manifest.mpd?token=NmMzZlZTZlMDYwZjY0YzY1ZTQzOThiMDE0OTYzNzYyZTE
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Дикая рыбалка HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7797" $ExtFilter="Wink TV",Дикая рыбалка ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_DIKAYARYBALKAHD/manifest.mpd?token=MYNGY3NDA2NWYyZTZmY2NkNzA4OTRkNzk2OTg4ZDFlNjg
-#EXTINF:-1 group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Дикий.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10064" $ExtFilter="Wink TV",Дикий
-https://s25617.cdn.ngenix.net/mdrm/CH_DIKIY/manifest.mpd?token=MbYzViNjg2MTBjYjA1MDI1NzY0ZWQzYWRkZGFkNWM0MGQ
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Доктор.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7800" $ExtFilter="Wink TV",Доктор
-https://s25617.cdn.ngenix.net/mdrm/CH_24DOC/manifest.mpd?token=D7MDJlYzdlZDk0MjNjYTY1MDVhNTYwMzU2ZDlhNjE3NTM
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Дом кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7801" $ExtFilter="Wink TV",Дом кино
-https://s25617.cdn.ngenix.net/mdrm/CH_DOMKINO/manifest.mpd?token=GyZjFmYWUzZjA3ZWMwMDM0ZTNjNGJkNTQ4ODVkZDczMTk
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Дом кино премиум HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7802" $ExtFilter="Wink TV",Дом кино Премиум ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_DOMKINOPREMIUMHD/manifest.mpd?token=BuMGM4YjQ0YTQ5NzVhZWIzNjZiMDAxMzY0M2NiNjFlMmM
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Домашний.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10438" $ExtFilter="Wink TV",Домашний
-https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Домашний.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10438" $ExtFilter="Wink TV",Домашний ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_DOMASHNIYHD_OTT/manifest.mpd?token=r4NDEyYzcwMzk1ZDEyMTY0NDA4YjJjNzhhZTRkZDQwMDE=
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Дорама.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7804" $ExtFilter="Wink TV",Дорама
-https://s25617.cdn.ngenix.net/mdrm/CH_DORAMA/manifest.mpd?token=AUNzQ2ODI3OWRkNzMyZDg4NTdmYzViNWNiZGE1ZmQ0MmQ
-#EXTINF:-1 group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Драйв.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7805" $ExtFilter="Wink TV",Драйв
-https://s25617.cdn.ngenix.net/mdrm/CH_DRIVE/manifest.mpd?token=TdOTJiNDRlYWMzNDlmYzhiYjEzYmQ2ZGIxN2U2YzQ0ZmM
-#EXTINF:-1 group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Драйв.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7805" $ExtFilter="Wink TV",Драйв ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_DRIVEHD/manifest.mpd?token=L5NzE0ODhmYmI2NjBlYTlhODM2ZGU0YmUwMDg4ZWJiMmY
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Дума ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9797" $ExtFilter="Wink TV",Дума ТВ
-https://s25617.cdn.ngenix.net/mdrm/CH_DUMATV/manifest.mpd?token=SwM2I1ZGZlYjZhOWY0YmI2OTQ3OWQxMjRiYzIwNGQ1M2M
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/ЕГЭ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7808" $ExtFilter="Wink TV",ЕГЭ
-https://s25617.cdn.ngenix.net/mdrm/CH_EGE/manifest.mpd?token=dsZGI4NzcyNGY5YmIwY2VjZThmNGNlZmZmZDM1NmE4Nzc
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Еда.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10094" $ExtFilter="Wink TV",Еда ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_EDAHD/manifest.mpd?token=ZTMDAxMTVjZDM0YmE5MTkyY2FjYjNhOWQzNDVhNTlkOWI
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Жар птица.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7811" $ExtFilter="Wink TV",Жар Птица
-https://s25617.cdn.ngenix.net/mdrm/CH_JARPTIZA/manifest.mpd?token=WkOGEwY2UxZDAwZTU4NTdhNWIzNTM3OWFlNWFiZjkwZTE
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Жара.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9709" $ExtFilter="Wink TV",ЖАРА ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_JARAHD/manifest.mpd?token=GkMDc4NDFmNzBkZDA4Nzg5MDEzODFmYTc1MmI4MDllNWE
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Живая планета.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7813" $ExtFilter="Wink TV",Живая Планета
-https://s25617.cdn.ngenix.net/mdrm/CH_JIVAYAPLANETA/manifest.mpd?token=AzOTM4OTEzYTNhNDViNmNiOTMwMDMwOTNlZjg5NmYwMTU
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Живи активно.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7603" $ExtFilter="Wink TV",Живи активно ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_ZHIVIAKTIVNOHD/manifest.mpd?token=56ZTdlYWNmZjZkYjVhMzYyYjZlNGVjNGQ1MTM1NzlkNDk
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Живи.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10065" $ExtFilter="Wink TV",ЖиВи! ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_ZHIVIHD/manifest.mpd?token=UPZWY1NzljNDIzNzhmNmIxYTg0ZDljYTM0MzI2NWFhZjY
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Загородная жизнь.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7816" $ExtFilter="Wink TV",Загородная жизнь ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_ZAGORODNAYAZHIZNHD/manifest.mpd?token=BwOTcwZTNlYTIxMWEyYzRmNDc0ZjMxMTU5N2Y1MDY3OWU
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Зал суда.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7818" $ExtFilter="Wink TV",Зал суда ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_ZALSUDAHD/manifest.mpd?token=JzM2VmMTk3NTU2OTY2ZmNjMDhjMWM0MjI1YzdlNjM2OTQ
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Звезда.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11098" $ExtFilter="Wink TV",Звезда
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA/variant.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Звезда Плюс.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8008" $ExtFilter="Wink TV",Звезда Плюс ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_ZVEZDAPLUSHD/manifest.mpd?token=ufZDVkZjI2NzZhNjg4OGVhNDVjN2MxZGZiZTIwMmU5ZjU=
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Известия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8957" $ExtFilter="Wink TV",Известия ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C03_IZVESTIYAHD/manifest.mpd?token=dhY2E5Mzc2YmFiZjQ3NzI5ZGE3NzY1NDQ0MGE2ZDU5ZWY=
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Известия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8957" $ExtFilter="Wink TV",Известия ᴴᴰ
-http://rt-ct-vrzh-htlive.cdn.ngenix.net/hls/CH_R01_IZVESTIYA/variant.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Иллюзион+.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8425" $ExtFilter="Wink TV",Иллюзион+
-https://s25617.cdn.ngenix.net/mdrm/CH_ULLUSIONPLUS/manifest.mpd?token=O5Yzg3ZDhlNjk2Y2M5ZWNkZTFjOTRmNTVmMzQwNDc0YTk
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Индия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9110" $ExtFilter="Wink TV",Индия ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_ZEETVHD/manifest.mpd?token=GaN2FkNDY4NTllMTBjMTM2ZGUzY2Y0NjdjM2U1ZjdlZWE
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/История.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7826" $ExtFilter="Wink TV",История
-https://s25617.cdn.ngenix.net/mdrm/CH_ISTORIYA/manifest.mpd?token=Z9ZmQ4M2RkN2M5ZmE3ODgxZDg4N2ZjY2FhZTlmYjYyYTY
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Калейдоскоп ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10926" $ExtFilter="Wink TV",Калейдоскоп ТВ
-https://s25617.cdn.ngenix.net/mdrm/CH_KALEJDOSKOPTV/manifest.mpd?token=NzMzYzYmIzYzhhNjFhMmZiMzlmZDQyNGY5YWI3YmUzNTQ
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Карусель HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8444" $ExtFilter="Wink TV",Карусель
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Карусель HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8444" $ExtFilter="Wink TV",Карусель ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_KARUSELHD/manifest.mpd?token=wUMDQ4NjJlZTQwODk0ZWYyMjMxNzEyZWFhY2Q2Zjk5MmM=
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/КВН ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7831" $ExtFilter="Wink TV",КВН ТВ
-https://s25617.cdn.ngenix.net/mdrm/CH_KVN/manifest.mpd?token=43ZjRiNmJiNGFkYjljOTg1NDE0ZjFkMmY0Y2NlZjVmNTI
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9172" $ExtFilter="Wink TV",КИНЕКО ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C02_FOXHD/manifest.mpd?token=M9NDFkOGZlY2FhODM0MDFmMzVlNTg0NzE3MTJjN2RlNzU
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8124" $ExtFilter="Wink TV",Кино ТВ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_KINOTVHD/manifest.mpd?token=M1YmUzODUzMDAwODRkZDdlYzhiNmY2ODU0ODczMWQ1MTM
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7834" $ExtFilter="Wink TV",КИНОКОМЕДИЯ
-https://s25617.cdn.ngenix.net/mdrm/CH_COMEDYTV/manifest.mpd?token=6VODY3MjM2ZWRmZjY1M2RlMjg0NTJjZjU5MmYzNDYwOTc
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7835" $ExtFilter="Wink TV",КИНОМИКС
-https://s25617.cdn.ngenix.net/mdrm/CH_NTVPLUSKINO/manifest.mpd?token=RPOTc2MmFiNzcxYTU3M2Q0NDUyYjAwOTNiYmJiYWQ1YTg
-#EXTINF:-1 group-title="Детские" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9848" $ExtFilter="Wink TV",КиноМульт
-https://s25617.cdn.ngenix.net/mdrm/CH_KINOMULT/manifest.mpd?token=52YmY5MmFhNjZmMmU0OTBkZDY4NWMzMDRkODExNGJmOTc
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7836" $ExtFilter="Wink TV",Кинопоказ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_KINOPOKAZHD/manifest.mpd?token=UtY2VhOTI4N2MxNWE2YTU4YjBlMTFhMDkyNjBlMjRjMzY
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7837" $ExtFilter="Wink TV",КИНОПРЕМЬЕРА ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_KINOPREMIEREHD/manifest.mpd?token=DMYmQ4MGJiMDE3ZDNlYzNlNTczNGE0ZmRkMzlmNGZkNjY
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Киносвидание.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7839" $ExtFilter="Wink TV",КИНОСВИДАНИЕ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_KINODATEHD/manifest.mpd?token=XAOTM0MzVlYTIyNTZiYzVkOWJiOGNkY2JmMTEwM2ExNTE
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7840" $ExtFilter="Wink TV",КИНОСЕМЬЯ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_KINOFAMILYHD/manifest.mpd?token=VeYTMwYzc0ZjM2NGJiMTE3NDdlMjMzN2I3ZDI5NzBiZTc
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11099" $ExtFilter="Wink TV",КИНОСЕРИЯ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_KINOSERIAHD/manifest.mpd?token=LzZTI2NmNjMGM0OWUzMzVlZGM2MGNjN2YwNDUwZThjMmM
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7842" $ExtFilter="Wink TV",Киноужас ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_KINOUZHASHD/manifest.mpd?token=B6NTljNzVlNmE5MjUwZWEyNDViMjQ0OWFkODI5YWQwZDM
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7843" $ExtFilter="Wink TV",КИНОХИТ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_KINOHITHD/manifest.mpd?token=ZfOTZlODE5ZmQxY2JiYzUwMjJiMTI1Y2NhZGU0NTVhYzE
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Ключ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10411" $ExtFilter="Wink TV",Ключ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_KEYHD/manifest.mpd?token=ReNTkwMDk2MWNhM2Y2NTU5ZDkzOWYyNjY0NmZkYTZmZGU
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Комедия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11128" $ExtFilter="Wink TV",Комедия
-https://s25617.cdn.ngenix.net/mdrm/CH_KOMEDIA/manifest.mpd?token=RhMmExYjY2MTU1YWVlZjFmZGU5OTQxN2FmYTRlMzhmNjU
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Красная линия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7849" $ExtFilter="Wink TV",Красная Линия
-https://s25617.cdn.ngenix.net/mdrm/CH_REDLINE/manifest.mpd?token=WbYjk3ZTVkNGNhZDE5MjFkNmMzNTI4MzNjOTZkZTI0N2M
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Кухня.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9710" $ExtFilter="Wink TV",Кухня
-https://s25617.cdn.ngenix.net/mdrm/CH_KUHNYA/manifest.mpd?token=Q0ZmNlODVlYjIzM2MxMWU5ZjhjZjc4ODI2NzIxMDRlYWQ
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Лапки LIVE.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9960" $ExtFilter="Wink TV",Лапки LIVE ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_LAPKILIVEHD/manifest.mpd?token=5oYTk5MzNjNDk3NDRhNDNlZGUxOWJmMjVjMmYxNjM0MmE
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/ЛДПР ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10067" $ExtFilter="Wink TV",ЛДПР ТВ
-https://s25617.cdn.ngenix.net/mdrm/CH_LDPR/manifest.mpd?token=ShNjc0ZTdkY2IwYTFkYmZjNGI0ZTA4ZmVjNmYxNGI1NWE
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Лёва.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9796" $ExtFilter="Wink TV",Лёва ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_LEVAHD/manifest.mpd?token=K5YjkzNmNlOTg4MDM5NWUwMGZmMjUyY2I5ZjhkY2QxMWE=
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://veranzo.ru/other/icons/Лен ТВ 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8011" $ExtFilter="Wink TV",Лен ТВ 24
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Любимое кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9428" $ExtFilter="Wink TV",Любимое Кино
-https://s25617.cdn.ngenix.net/mdrm/CH_LUBIMOE/manifest.mpd?token=ZJM2MyOTQwMTAyNDhiYTk4YmFjODllOWRiNjczMzQxY2I
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Магнат.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11209" $ExtFilter="Wink TV",Магнат ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_MAGNATHD/manifest.mpd?token=2tZDFlZGFiYjBjOTY0MjNiNzM2ZjdmNTdiMTFjMDI2YmQ
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Мама.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7860" $ExtFilter="Wink TV",Мама
-https://s25617.cdn.ngenix.net/mdrm/CH_MATIDITYA/manifest.mpd?token=KIYzI3YzA0Mjc0NmI5ZGYxZWU1ZGVhMjlkZDE2ZmJhN2M
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11254" $ExtFilter="Wink TV",Матч ТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Арена.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11269" $ExtFilter="Wink TV",Матч! Арена ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C04_SPORT1HD/manifest.mpd?token=N0NTM0NTQ1NjdkZDVkZjRiNTMxZDk5MDc4MGY5NTA5ZmE
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Боец.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11270" $ExtFilter="Wink TV",Матч! Боец ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_MATCHBOETSHD/manifest.mpd?token=UoOTU5MTRkYmE1YjRlMWE1MzQ5ZjA4NGZjNmExYTg0ODE
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Игра.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11271" $ExtFilter="Wink TV",Матч! Игра ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_MATCHIGRAHD/manifest.mpd?token=C0ZjUyNTBmYWY0NDI5OWM0YmNiNzg5Mzg1YWI2YmRkZmU
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Премьер HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11253" $ExtFilter="Wink TV",Матч! Премьер ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C06_NASHFOOTBALLHD/manifest.mpd?token=IoMDcwYmEwNThjN2M2YzBmM2Q0ZWJhYTE0NTBiOWViM2Q=
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Страна.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11276" $ExtFilter="Wink TV",Матч! Страна ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_MATCHSTRANAHD/manifest.mpd?token=RTY2ZkOTQ5NzJmYzAxMmYwOGZhNTNjNjgzYTY0YTI5YTc
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Футбол 1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11273" $ExtFilter="Wink TV",Матч! Футбол 1 ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_FUTBALL1HD/manifest.mpd?token=YjZGUyOGI1NzQwZGM0Mjg2ZGY0MjgyYzBiZGJkOGI1MmQ=
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Футбол 2.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11274" $ExtFilter="Wink TV",Матч! Футбол 2 ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_FUTBALL2HD/manifest.mpd?token=eeMzZmMmY0NzgwNmFjODk0YmEzYjRmYmFhODhiN2U0NDE=
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Футбол 3.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11275" $ExtFilter="Wink TV",Матч! Футбол 3 ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_FUTBALL3HD/manifest.mpd?token=gsNGZmOGFjMTVkNDliMjBiYWUyOTRlNzhjYTIwNDE4OTU=
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11254" $ExtFilter="Wink TV",Матч! ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_MATCHTVHD/manifest.mpd?token=r8ZGRiODAzNGFjOWE3ZTA3MDMzMjQ4MGE0ZDMxYjUwOWI=
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11254" $ExtFilter="Wink TV",Матч! ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_MATCHTVHD_OTT/manifest.mpd?token=M1MzBmODYzNTY4ODRjNjMxMDEzYjk1OGRhNDlmM2JlNWQ
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11133" $ExtFilter="Wink TV",Мир
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR/variant.m3u8
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Мир 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7872" $ExtFilter="Wink TV",Мир 24
-https://s25617.cdn.ngenix.net/mdrm/CH_MIR24/manifest.mpd?token=W5YzQwZTUzMjU0NGU2ZjcyNTdhNjc0NzkzNGI4MGI2NTQ
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Мир Баскетбола.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7873" $ExtFilter="Wink TV",Мир Баскетбола ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_MIRBASKETBOLAHD/manifest.mpd?token=ccZjk2NzQwZGFhYTUzMmJmNGRjZjdkYWIxMTcyNWMxMmM
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Мир сериала.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7875" $ExtFilter="Wink TV",Мир сериала
-https://s25617.cdn.ngenix.net/mdrm/CH_MIRSERIALA/manifest.mpd?token=U9YmQ2MDNmNmU5MzdkNzdjMDA2YjUzMGQwODM3NWQyNzM
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11133" $ExtFilter="Wink TV",Мир ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_MIRHD/manifest.mpd?token=1fNjVmOGU5OTMxNjUxNWNkYmIxZDMwYjBhMmFiZDEwZjY=
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Мой Мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11118" $ExtFilter="Wink TV",Мой Мир
-https://s25617.cdn.ngenix.net/mdrm/CH_MOJ_MIR/manifest.mpd?token=GHMTBjOWMwOWU5NWM0OTEwMmNkMzY0YTA3ZDQ3YTk4ZTQ
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Москва 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11280" $ExtFilter="Wink TV",Москва 24
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_MOSKOV24/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Москва. Доверие.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9184" $ExtFilter="Wink TV",Москва. Доверие
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R04_DOVERIE/variant.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Мосфильм. Золотая коллекция.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11134" $ExtFilter="Wink TV",Мосфильм. Золотая коллекция ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_MOSFILMHD/manifest.mpd?token=JIZTk5NzUwMmYxNWUzZWI1ZjUwNjFmY2FmZGYxYTEyNzk
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Моя планета.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7880" $ExtFilter="Wink TV",Моя Планета
-https://s25617.cdn.ngenix.net/mdrm/CH_MYPLANET/manifest.mpd?token=WKMWEwYzdlNjdjN2JkNGE1OTk1ZTBkNzFjNDZjYWU2YmY
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Моя планета.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7880" $ExtFilter="Wink TV",Моя Планета ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_IQHD/manifest.mpd?token=lFYTg4ZTUzMDAxYTU4YzQzNWQ4M2RkNmVmYmExYjUyNzQ
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Мужское кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7882" $ExtFilter="Wink TV",МУЖСКОЕ КИНО
-https://s25617.cdn.ngenix.net/mdrm/CH_NTVPLUSKINOSOYUZ/manifest.mpd?token=HcMDYxYTY2M2Q4OTcyYzFmMDg3NWY1MmE4MmNhMDY2Zjc
-#EXTINF:-1 group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Мужской.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7883" $ExtFilter="Wink TV",Мужской
-https://s25617.cdn.ngenix.net/mdrm/CH_MUZHSKOY/manifest.mpd?token=QBOWYwN2Q1MjZkMWVjZTg1MDU2M2E2OGNlYjM2ZjNlYWM
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/МУЗ-ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10414" $ExtFilter="Wink TV",МУЗ-ТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/МУЗ-ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10414" $ExtFilter="Wink TV",МУЗ-ТВ
-https://s25617.cdn.ngenix.net/mdrm/CH_MUZTV_OTT/manifest.mpd?token=RfYjU5Y2E1YjgyOTQ5MDY3NTQ3MDUyNzQzNWI5YjZmZGQ
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/МУЗ-ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10414" $ExtFilter="Wink TV",МУЗ-ТВ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_MUZHD/manifest.mpd?token=54MTE1NDE5MDI3ZDVkMDZmYjVhYzMzYWI3ZTUxYzJhZjI
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Музыка Live.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7858" $ExtFilter="Wink TV",Музыка Live
-https://s25617.cdn.ngenix.net/mdrm/CH_AMOLL/manifest.mpd?token=Q2ZTQ5YzcxZjhhMTE3NWFkOTFlMTU1ZWU0MWQxMWQwZDI
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Музыка первого.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7885" $ExtFilter="Wink TV",Музыка Первого
-https://s25617.cdn.ngenix.net/mdrm/CH_MUZYKAPERVOGO/manifest.mpd?token=MRN2I4MDRlM2ZhMGI2ZmNkMGNjMmRhNzZhMTYxYWRmZjk
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Мульт HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11054" $ExtFilter="Wink TV",МУЛЬТ
-https://s25617.cdn.ngenix.net/mdrm/CH_MULT/manifest.mpd?token=ZPNzYxOTU2NjdiMWVlMDQ3ZThkZTA4MDZlNGY0YjljNjI
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Мульт HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11054" $ExtFilter="Wink TV",МУЛЬТ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_TLUMHD/manifest.mpd?token=UPNWUyZTczNTU2Njg5NmRiMjM3YWUyNGQ3ODdkYzZlMTc
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Мультиландия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7887" $ExtFilter="Wink TV",Мультиландия
-https://s25617.cdn.ngenix.net/mdrm/CH_MULTIMANIA/manifest.mpd?token=X7ZTFiOTcyNjZmZGE1MTBmOTZhZmQ4ZTliYjQ0ZjJmMjY
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Мультимузыка.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7888" $ExtFilter="Wink TV",Мультимузыка
-https://s25617.cdn.ngenix.net/mdrm/CH_STRANA/manifest.mpd?token=IQNThlZDNmMzk1YzY5NTRiODdlOTdlNWNjZTJjYzEzMWQ
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Мы.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10252" $ExtFilter="Wink TV",Мы ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_MYHD/manifest.mpd?token=TTNzZmMTZmNWZmOTQ3NzRiNzQ2ZmMxMDdjYjcwMWVlZWY
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Надежда.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10989" $ExtFilter="Wink TV",Надежда
-https://s25617.cdn.ngenix.net/mdrm/CH_NADEZHDAHD/manifest.mpd?token=5UNzA1ZmQ3M2E0YjA1ODFlMWVhZTQ3MDViYzI1ZWU5ZGM
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Народ Всё Видит.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10378" $ExtFilter="Wink TV",Народ Всё Видит
-https://s25617.cdn.ngenix.net/mdrm/CH_NVV/manifest.mpd?token=85MjBhOWE5OGJkZTJkOGUxOTMxMTg2MjIzOTFmYmFkOTg
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Настоящее Страшное Телевидение.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7889" $ExtFilter="Wink TV",Настоящее Страшное Телевидение
-https://s25617.cdn.ngenix.net/mdrm/CH_NSTV/manifest.mpd?token=D7ZWQ5YzY5Mzk3ZjMxOTQ0ZjA3ZjJjNzcwZTFlYTlkNTM
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Наука.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7890" $ExtFilter="Wink TV",Наука
-https://s25617.cdn.ngenix.net/mdrm/CH_NAUKA20/manifest.mpd?token=YJYmQzZGU1MTdkNGU5MmRmN2JiOWZkN2UzZWZkNTA5YzA
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Наша Сибирь 4K.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10175" $ExtFilter="Wink TV",Наша Сибирь ⁴ᴷ
-https://s25617.cdn.ngenix.net/mdrm/CH_NASHASIBIR4K_ENC/manifest.mpd?token=HKNGFmZGYzZmI1MDhjMTJlYjU2Y2JkNDhjNDQ3MDQ4MjM
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Наше новое кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7897" $ExtFilter="Wink TV",НАШЕ НОВОЕ КИНО
-https://s25617.cdn.ngenix.net/mdrm/CH_NTVPLUSNOVOEKINO/manifest.mpd?token=NWYWYzMDg1MTJmOGQxYmM4YTY2NDBmM2VjNWI2NDg4Mzg
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Неизвестная Россия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9795" $ExtFilter="Wink TV",Неизвестная Россия ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_UNKRUSSIAHD/manifest.mpd?token=TeOGFjYjA2MzQyODA2NWVjZGI2ZjkxZWRmZDBjZGY1NDA
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Новый Игровой Канал.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10379" $ExtFilter="Wink TV",Новый Игровой Канал
-https://s25617.cdn.ngenix.net/mdrm/CH_NIK/manifest.mpd?token=7rMDk1NjI1ZjZmNDJjOWNlZjVhZWZjNTAzMmUyNjBlMWE
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/НТВ HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11127" $ExtFilter="Wink TV",НТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV/variant.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/НТВ Право.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7901" $ExtFilter="Wink TV",НТВ Право
-https://s25617.cdn.ngenix.net/mdrm/CH_NTVPRAVO/manifest.mpd?token=33YzU1YmY1NTI1MjliMzZmZmNiMWNkYjEyZWI3MWE0NjE=
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/НТВ Сериал.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11106" $ExtFilter="Wink TV",НТВ Сериал
-https://s25617.cdn.ngenix.net/mdrm/CH_NTVSERIAL/manifest.mpd?token=hGZDc2ZDM2MjE3MTA0NmFlYjRlN2FmNDg4NDcyYWQxM2E=
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/НТВ Стиль.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7903" $ExtFilter="Wink TV",НТВ Стиль
-https://s25617.cdn.ngenix.net/mdrm/CH_NTVSTYLE/manifest.mpd?token=k4YmJjMWQ4YjBiOTkxNzMzZDY4NjU0YjAxNzJjM2UwMmU=
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/НТВ HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11127" $ExtFilter="Wink TV",НТВ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_NTV_HD/manifest.mpd?token=2hMzg1NTNiMzI4OTNiNmFjZGU2YzgzZDAzNzk5MGJiMTA=
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/О!.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7905" $ExtFilter="Wink TV",О!
-https://s25617.cdn.ngenix.net/mdrm/CH_O/manifest.mpd?token=CYMGY5MTIxNWJhNjgxYWVhN2QxZWUwYTYzMjQzN2FjOTY
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/О2ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10176" $ExtFilter="Wink TV",О2ТВ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_O2TVHD/manifest.mpd?token=QLZTQ0MzY1Yzg0ZWM3ZDA2YTQ4ZGZmMzAwMDc5ZDEyNmQ
-#EXTINF:-1 group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Оружие.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7908" $ExtFilter="Wink TV",Оружие
-https://s25617.cdn.ngenix.net/mdrm/CH_WEAPON/manifest.mpd?token=Q0ODhmMTM5ODBkYmZiNjI1MDEwMjUyNzU0ZDIxNjBmYTY
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ОТР.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9187" $ExtFilter="Wink TV",ОТР
-https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ОТР.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9187" $ExtFilter="Wink TV",ОТР ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_OTRHD/manifest.mpd?token=85Y2E3NTU2ZjNiNmEyZjFlMDhmYjgwMzVmMDQ4NDM3MzE
-#EXTINF:-1 group-title="Мужские" tvg-logo="https://veranzo.ru/other/icons/Охота и Рыбалка.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7912" $ExtFilter="Wink TV",Охота и рыбалка
-https://s25617.cdn.ngenix.net/mdrm/CH_OHOTAIRYBALKS/manifest.mpd?token=C4NzRkY2NlYTZiODliYmUwZWM4MzU4YTVhZGM5ODgyNTQ
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Патриот.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11152" $ExtFilter="Wink TV",Патриот
-https://s25617.cdn.ngenix.net/mdrm/CH_PATRIOT/manifest.mpd?token=ReMTEyZmYzNTRlMGU3YmYxYjZmZmQ5ODA4ZDZhMjJhNTM
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Первый Вегетарианский.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9072" $ExtFilter="Wink TV",Первый вегетарианский ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_PERVIJVEGETARIANSKYHD/manifest.mpd?token=38OTYyYTYxNmIwYzhkMTU3ZjkzNGUxZTc2Yjk2MTIwNzI
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Первый канал HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055" $ExtFilter="Wink TV",Первый канал
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Первый канал HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055" $ExtFilter="Wink TV",Первый канал ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_1TVHD_OTT/manifest.mpd?token=5hMzE4NTRkOTI2MmYyNTBmYzBjMjY1YjU4NTgwNTJkM2Y=
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Первый Российский Национальный Канал.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9793" $ExtFilter="Wink TV",Первый Российский Национальный Канал ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_PERVIJNATSIONALNIYHD/manifest.mpd?token=LpYmE2YzQwZTU1NGE2NzAyZDAxN2NmOWM4OTQ1NWRlMDU=
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/РУССКИЙ КОРАБЛЬ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11281" $ExtFilter="Wink TV",Плюс минус 16 ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_RUSSHIPHD/manifest.mpd?token=6tOWUxMTk2MTcwMmRlNTZiMGVmMmI3ZTlkMjc4YjUwYTg
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Победа_.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8426" $ExtFilter="Wink TV",Победа ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_POBEDAHD/manifest.mpd?token=D1OWYxMDAxMjdhMzg0NDY2ZjAzMzY1ODkwMjE0ZDMxMWI
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Поехали!.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10068" $ExtFilter="Wink TV",ПОЕХАЛИ! ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_POEHALIHD/manifest.mpd?token=XkYmUzNzlkYzhlNDlmOGQzY2U5ZTIzM2Y1ZDBiNGJiYTc
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Про Бизнес.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10069" $ExtFilter="Wink TV",ПРО БИЗНЕС
-https://s25617.cdn.ngenix.net/mdrm/CH_PROBIZNES/manifest.mpd?token=WeNmQ4MWI5NjRmNWVmNzYzNDE0NDMzNGJlYTlkNGMxMzk
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Просвещение.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10071" $ExtFilter="Wink TV",Просвещение
-https://s25617.cdn.ngenix.net/mdrm/CH_PROSVESCHENIE/manifest.mpd?token=MtMTc5Njk2NjAxZjU5MzBjZmYzZTNiNDI5YThiZmJlYTc
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Психология.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9079" $ExtFilter="Wink TV",Психология
-https://s25617.cdn.ngenix.net/mdrm/CH_PSIHOLOGIYA/manifest.mpd?token=U8ZDMxODk1YWZhODBmZjFkYmEyMjFlZGY1MjljZDcxN2U
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Пятница! HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11131" $ExtFilter="Wink TV",Пятница!
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Пятница! HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11131" $ExtFilter="Wink TV",Пятница! ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_PYATNIZZAHD_OTT/manifest.mpd?token=pFODZjYzhmN2UxYTc0MWVjNWFlYzMzNzAwZDNiMzBjNjU
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Пятый канал.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10968" $ExtFilter="Wink TV",Пятый канал
-https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Пятый канал.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10968" $ExtFilter="Wink TV",Пятый канал ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_5KANALHD/manifest.mpd?token=FGZmZkNzQ3ZWMwNjgzZDc3NTFiNzQzOTdmNGZjOTkyM2M
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Радость Моя.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7929" $ExtFilter="Wink TV",Радость Моя
-https://s25617.cdn.ngenix.net/mdrm/CH_RADOSTMOYA/manifest.mpd?token=SWNjM1NGZhMzRjOWViZDI1ZWM4MGNjNzIxOGU4MzdjZmY
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Ратник.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7931" $ExtFilter="Wink TV",Ратник ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_RATNIKHD/manifest.mpd?token=RUYThiMDk4NDAwMDdjNzQ4OTgxMzEyMWQxYWViZTIxNDM
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/РБК.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7932" $ExtFilter="Wink TV",РБК ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_RBKTVHD/manifest.mpd?token=trM2YyNTM3MjJhYzI1YWE1MjQyNWYxNmFhODU2NzI1YTA=
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/РЕН ТВ HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9188" $ExtFilter="Wink TV",РЕН ТВ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/РЕН ТВ HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9188" $ExtFilter="Wink TV",РЕН ТВ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_RENTVHD_OTT/manifest.mpd?token=jhMGY5NTdhNTM4YTk4ODkyNzhmZWJmYTMyMjNjYzAwMDk
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/РЕН ТВ HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9188" $ExtFilter="Wink TV",РЕН ТВ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_RENTVHD/manifest.mpd?token=BrNTllOTk3MmM2ZTdiYWJjODkyMTE2YTZkMGViMTg2MmY=
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Ретро ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7934" $ExtFilter="Wink TV",Ретро
-https://s25617.cdn.ngenix.net/mdrm/CH_RETROTV/manifest.mpd?token=KiMDljMjA4YjRkNGE0Yjc3YmM5OTAzMWQzNDBhYTIzMTQ
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Родное кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11110" $ExtFilter="Wink TV",РОДНОЕ КИНО
-https://s25617.cdn.ngenix.net/mdrm/CH_NTVPLUSNASHEKINO/manifest.mpd?token=QYZTY1ZTg1NWI2NGUyN2VmYTUyZDk1OWM1OWY0MjZlYjg
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Романтичное.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9518" $ExtFilter="Wink TV",Романтичное ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_ROMANTICHNOEHD/manifest.mpd?token=54Njk5MzViOGNkODEzMjQ5NTdjMDEwYzhhNzk4YTI4MWE
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Россия 1 HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971" $ExtFilter="Wink TV",Россия 1
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Россия 1 HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971" $ExtFilter="Wink TV",Россия 1 ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C05_RUSSIA1HD/manifest.mpd?token=85NWNkNTkyMGQ3MWE5NjU2MTkzYjJhZTU0NDc5ZTNhMmQ=
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Россия 1 HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971" $ExtFilter="Wink TV",Россия 1 ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_RUSSIA1HD_OTT/manifest.mpd?token=ddYWYxMDRkZTU3MzlkMGM5NzE0OTQ2ZTNiMjM4ZjA0OGQ=
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Россия 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11014" $ExtFilter="Wink TV",Россия 24
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Россия К.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9173" $ExtFilter="Wink TV",Россия К
-https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK/variant.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Русская история.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11233" $ExtFilter="Wink TV",Русская история ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_RUSSKAYAISTORIYAHD/manifest.mpd?token=7YMmUwNzViNWFlODM0YjBlZGRlZjcxYWE0MzVkNzlhY2I
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Русская ночь.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10052" $ExtFilter="Wink TV",Русская ночь
-https://s25617.cdn.ngenix.net/mdrm/CH_RUSSIANNIGHT/manifest.mpd?token=ldZDA3MmI3Zjc1NzdlYTA0YTE2YjNjOGU2NjY5NGMzNTg=
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Русский бестселлер.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11111" $ExtFilter="Wink TV",Русский бестселлер
-https://s25617.cdn.ngenix.net/mdrm/CH_RUSSIANBESTSELLER/manifest.mpd?token=7CMGI0YWIxMjFlNjEzMjYyNGFlMTliODE1ZTViYjljZTc
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Русский детектив.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11112" $ExtFilter="Wink TV",Русский детектив
-https://s25617.cdn.ngenix.net/mdrm/CH_C04_RUSSIANDETECTIVE/manifest.mpd?token=XzZTZmYWI0YmM3YTc0Y2IzNDgyMmEyOTFmOTk3MmVkNWM
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Русский иллюзион.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7942" $ExtFilter="Wink TV",Русский Иллюзион
-https://s25617.cdn.ngenix.net/mdrm/CH_RUSSIANILLUSION/manifest.mpd?token=WqOWQyMzYwZThjMGQ3ZTVmMjBiMTIyNzU4YThkZjE2OTc
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Русский Роман.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8127" $ExtFilter="Wink TV",Русский Роман ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_RUSSKIYROMANHD/manifest.mpd?token=YgNGQ2Nzg2ZWEwZTQwOWIxOGFkYzI3MmUxMmY2YjZlZmQg
-#EXTINF:-1 group-title="Региональные" tvg-logo="https://veranzo.ru/other/icons/Санкт-Петербург.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7946" $ExtFilter="Wink TV",Санкт-Петербург ᴴᴰ
-https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/САПФИР.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9189" $ExtFilter="Wink TV",САПФИР ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C04_FOXLIFEHD/manifest.mpd?token=JBZDQ5ZTA3NmQ4MjU1MWU4YzdhYTUzNWU5M2E1NDk1MGU
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Сарафан.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7947" $ExtFilter="Wink TV",Сарафан
-https://s25617.cdn.ngenix.net/mdrm/CH_C01_SARAFAN/manifest.mpd?token=JEMWUzYjA0N2MyNDNlY2JiYWU2NjhkMGQwYzg3M2FhMzI
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Светлое тв.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10959" $ExtFilter="Wink TV",Светлое ТВ HD
-https://s25617.cdn.ngenix.net/mdrm/CH_SVETLOETVHD/manifest.mpd?token=K9NmJkNTdhN2FkZDI2NTVjYTkwNDhiODc4MjdhNmZjNDM
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Совершенно секретно.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7950" $ExtFilter="Wink TV",Совершенно секретно
-https://s25617.cdn.ngenix.net/mdrm/CH_SOVSEKRETNO/manifest.mpd?token=FMZjMyNGM5MGQ0NmFmNzM1ZjA3OGU5YzA2MmI0NmNkZGY
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/СОЛНЦЕ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9792" $ExtFilter="Wink TV",СОЛНЦЕ
-https://s25617.cdn.ngenix.net/mdrm/CH_DISNEY_OTT/manifest.mpd?token=UmNzZlNzYwYzMzZTk5ZWRlMjlmYTE0N2Q1MGEzZTc4NDY
-#EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/СОЛОВЬЁВLIVE.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10373" $ExtFilter="Wink TV",СОЛОВЬЁВLIVE
-https://s25617.cdn.ngenix.net/mdrm/CH_EURONEWS/manifest.mpd?token=UFNDk5MDYzMDhkZmMwZTM1YmMwYzg2YTIwYWJhNWE2MGI
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Союз.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11057" $ExtFilter="Wink TV",Союз
-https://s25617.cdn.ngenix.net/mdrm/CH_SOYUZ/manifest.mpd?token=MTZmY5YWQzNjU3NTg5MGRmZTY5OGIwZTZhNmZkNjliZWY
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Спас.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7954" $ExtFilter="Wink TV",СПАС
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Старт Триумф.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9292" $ExtFilter="Wink TV",Старт Триумф ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_STARTTRIUMFHD/manifest.mpd?token=RgZTg5MDMwMmU4NDQwYThiN2JjNTBkZjM4YWUyOTlmOGM
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Старт.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7955" $ExtFilter="Wink TV",Старт ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_STARTHD/manifest.mpd?token=XDNDA2MTRhOTRhN2NjNTllMDA3MDJiYWU4MmUwZDZlODM
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Страшное HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7956" $ExtFilter="Wink TV",Страшное ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_C01_STRASHNOEHD/manifest.mpd?token=CeZGNkZTlhNzViYjZkMGUzYWE3M2NiZDA2YmM5NDdmYzc
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/СТС HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11207" $ExtFilter="Wink TV",СТС
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STS/variant.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/СТС Kids.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7958" $ExtFilter="Wink TV",СТС Kids ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_STSKIDSHD/manifest.mpd?token=DXNWFmNzQxMTIzYWYwN2U0N2ExZjNhM2E0ZGE5YTgwYmI
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/СТС Love.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7959" $ExtFilter="Wink TV",СТС Love
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/СТС HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11207" $ExtFilter="Wink TV",СТС ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_STSHD_OTT/manifest.mpd?token=f8MTBiNDRkY2Q0ZDAzODI4YmMwN2RkMzFkYWM3NmJmYTg=
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Суббота!.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7960" $ExtFilter="Wink TV",Суббота!
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Суббота!.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7960" $ExtFilter="Wink TV",Суббота! ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_SUPERHD_OTT/manifest.mpd?token=4NYTY4NDI3YzIwNTVlZTJiZmUxZGJiOTAyYjgxZDVlMjc
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/СуперГерои.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8287" $ExtFilter="Wink TV",СуперГерои
-https://s25617.cdn.ngenix.net/mdrm/CH_MALYSHTV/manifest.mpd?token=AyMTJmMTI1MTliNWZjMDEwYzg1YzAzZjNlZjU3YjdjZDc
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Т24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9326" $ExtFilter="Wink TV",Т24
-https://s25617.cdn.ngenix.net/mdrm/CH_24TEHNO/manifest.mpd?token=QMZDFlM2M1NzdhM2U1NTk2YjE0MzgxZTMyNmNjMzkyNDA
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Тайна.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10074" $ExtFilter="Wink TV",Тайна
-https://s25617.cdn.ngenix.net/mdrm/CH_TAJNA/manifest.mpd?token=21ZTdhM2NkZTA4MjkwYWViYTQyYjQ2ZTRiY2Q3NTllMDc=
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Тайны Галактики.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7962" $ExtFilter="Wink TV",Тайны Галактики ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_TAINYGALAKTIKIHD/manifest.mpd?token=ZiNjc3YmJlZjc4ZTU1MmZhNzU2NGEzNjhiNDhlNmIzODQ
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ТВ Центр.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11020" $ExtFilter="Wink TV",ТВ Центр
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC/variant.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/TV XXI.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7756" $ExtFilter="Wink TV",ТВ-21 ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_TV21HD/manifest.mpd?token=TRZmY5NjIyMWZkMjYzM2UyMzg1Yzk4MjVmZGE5MDBiZGE
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ТВ-3.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10972" $ExtFilter="Wink TV",ТВ-3
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ТВ-3.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10972" $ExtFilter="Wink TV",ТВ-3 ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_TV3HD/manifest.mpd?token=KEYzZjNTY5ZGU0YTQ3MGZlODMwODMxYTM0Mjc2ZjE4MWU
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ТВ-3.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10972" $ExtFilter="Wink TV",ТВ-3 ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_TV3HD_OTT/manifest.mpd?token=VbNzgxNjc4ZDc4YThhNjNjMDViM2ZjMGE2MjI3Njc2ODA
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Театр.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10920" $ExtFilter="Wink TV",Театр ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_THEATERHD/manifest.mpd?token=X3MTE4NWI3NDE0YWQ1ZThmYTk4ZTg2ZmU4M2M2YjNiNjA
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Телеканал народной музыки.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10174" $ExtFilter="Wink TV",Телеканал народной музыки ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_NARODNAYAMUZIKAHD/manifest.mpd?token=sdZGRkMjNhNTE1Mzg3MjhkOTBlZDc0Zjg3YmYxN2RiZjI
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Телекафе.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7970" $ExtFilter="Wink TV",ТЕЛЕКАФЕ
-https://s25617.cdn.ngenix.net/mdrm/CH_TELEKAFE/manifest.mpd?token=T1YTJiMmI4MjJmZjYzMTNjNzFhZjlhNmJjOTdjODc3NGM
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/ТеоТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7573" $ExtFilter="Wink TV",Тео-ТВ ᴴᴰ
-https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_TEOTV/variant.m3u8
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ТНТ HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11208" $ExtFilter="Wink TV",ТНТ
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT/variant.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/ТНТ Music.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7978" $ExtFilter="Wink TV",ТНТ MUSIC ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_TNTMUSICHD/manifest.mpd?token=t5YjhhNDliZWY0YjljMzgwZjZkNTBkNGE1YTM1MDgwMGU
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ТНТ HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11208" $ExtFilter="Wink TV",ТНТ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_TNTHD_OTT/manifest.mpd?token=lfOWFkOTg0NzI3MTA5MjBkYTllZjUzNmE2NGU5ZDBkZjY=
-#EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/ТНТ HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11208" $ExtFilter="Wink TV",ТНТ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_TNTHD/manifest.mpd?token=KNNDYyNTIyOTQwMzU1ODE2OTlmMTcwNmE5MTY0ZTUxZGQ
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/ТНТ4.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7979" $ExtFilter="Wink TV",ТНТ4
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/ТНТ4.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7979" $ExtFilter="Wink TV",ТНТ4 ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_TNT4HD_OTT/manifest.mpd?token=RzMmZkMmE1MmZiN2JmMzU0NDgzNDU0MTdhZmZkZjVjYTM
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/ТочкаРФ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7693" $ExtFilter="Wink TV",ТОЧКА.РФ ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_HDLHD/manifest.mpd?token=DoMjhlMjcxMmUyZmIzNTBjZWNmODA0MzkwYmM4ZWQ4ZTQ
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Точка отрыва.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8958" $ExtFilter="Wink TV",Точка отрыва
-https://s25617.cdn.ngenix.net/mdrm/CH_TOCHKAOTRYVA/manifest.mpd?token=QBNGJmODBjZjFiYTdlODNiYmZjNTI5NTY2MjRjMmRiMWQ
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/УДАР.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10921" $ExtFilter="Wink TV",УДАР ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_UFCHD/manifest.mpd?token=TTY2E4NjRjMTM4MmMwMzJjN2ZkZDEyYWZhZmU2ZjE3N2Y=
-#EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Уникум.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11058" $ExtFilter="Wink TV",Уникум
-https://s25617.cdn.ngenix.net/mdrm/CH_DETSKIJ/manifest.mpd?token=EXNjVlYjU4ZDNiYzhiNjRjYTQ4MjNlYTA2ZWRmMWM2ZGI
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Усадьба.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7983" $ExtFilter="Wink TV",Усадьба
-https://s25617.cdn.ngenix.net/mdrm/CH_USADBA/manifest.mpd?token=DFOTZmNDAyNDRkY2FjZWYwY2I3MjI0MzkzOWU1MzZlNmE
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Успех.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9096" $ExtFilter="Wink TV",Успех
-https://s25617.cdn.ngenix.net/mdrm/CH_VASHUSPEH/manifest.mpd?token=3gYTkyYWRhZTUzMTQ4NTk3MTA5ZjRmMTdlMTQ5NWZhZTk
-#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Феникс плюс кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11113" $ExtFilter="Wink TV",Феникс плюс Кино ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_FENIKSPLUSKINOHD/manifest.mpd?token=PCODcwZmU4NGE5ZTE0ZTJlZDMxZjY2ZmUwYTdjOGU2YWM
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Футбол HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11059" $ExtFilter="Wink TV",Футбол ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_FUTBALLHD/manifest.mpd?token=ABOWU3NjU3YjBkMWM4YjEwYjlkZmZiMzBiOTc0OTYxNjM
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/Хабар 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7987" $ExtFilter="Wink TV",Хабар 24 ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_HABARHD/manifest.mpd?token=XvYWIzMTc1YWY1Y2I2MGFmNzM5NGJmMDhjNWQ1NmNiNWU
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Центральное телевидение.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7989" $ExtFilter="Wink TV",Центральное телевидение
-https://s25617.cdn.ngenix.net/mdrm/CH_CENTRALTV/manifest.mpd?token=LrNWVkMmE5Yjg2YTIzNTE0YzA1NGQ1YjdlOGQwMzdiNGI
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Че!.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11132" $ExtFilter="Wink TV",Че!
-https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ/variant.m3u8
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Шалун.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10355" $ExtFilter="Wink TV",Шалун ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_SHALUNTVHD/manifest.mpd?token=aTZWI2Yzk5ZmIwNjg0OWIwMTYwODVhZjNkNjJmMzkwM2Y=
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Шансон ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7992" $ExtFilter="Wink TV",Шансон ТВ
-https://s25617.cdn.ngenix.net/mdrm/CH_SHANSONTV/manifest.mpd?token=TRZmM1YjY0Y2U0NmQ4YWNhZjU0YjM5MTI2N2Q5ZmNlN2I
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Шёлк.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10178" $ExtFilter="Wink TV",Шёлк ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_SHELKHD/manifest.mpd?token=AhZWVmZjZjZWFkNGFmNTRkMGQ0YjQ2YWFhNTc2YzZiNWY=
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Эхо тв.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10502" $ExtFilter="Wink TV",Эхо-ТВ
-https://s25617.cdn.ngenix.net/mdrm/CH_ECHOTV/manifest.mpd?token=fdNGQ0NWNmNDhlYTVmMTY3ZWMyZDc0MDEzZWJlNzFkMjI
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Ю.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11061" $ExtFilter="Wink TV",Ю
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U/variant.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Ю.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11061" $ExtFilter="Wink TV",Ю
-https://s25617.cdn.ngenix.net/mdrm/CH_U_OTT/manifest.mpd?token=KLNWYxNjFiODM4MmE5Mzc4MGQzYTAzYTgzMTNkYjAzYzU
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Ювелирочка.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9961" $ExtFilter="Wink TV",Ювелирочка
-https://s25617.cdn.ngenix.net/mdrm/CH_JUVELIRTV/manifest.mpd?token=WLYWY4NGQ4MzUzODRmOTQyZDA0M2FiZjZmNzhhZjA0MzQ
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Ювелирочка.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9961" $ExtFilter="Wink TV",Ювелирочка ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_YUVELIROCHKAHD/manifest.mpd?token=48YjMzZWU5ZmVkYjI0OWNmOTBmODg5ZGNkMzcyMmQ5Mjc
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Ювелиртрейд.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11090" $ExtFilter="Wink TV",Ювелиртрейд ᴴᴰ
-https://s25617.cdn.ngenix.net/mdrm/CH_YUVELIRTRADEHD/manifest.mpd?token=WaNTY1NjFmZjMxM2M1NzcyMTExYjI0ODBhMWFiYzVmNWY
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Romance Channel.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10407" $ExtFilter="TVSources",Romance Channel ᴴᴰ
 TVSources &id='romance channel 180?180?_00'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Индия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9110" $ExtFilter="TVSources",Индия
@@ -5591,8 +4677,6 @@ TVSources &id='docubox 180?180?_00'
 TVSources &id='7tv_00'
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Звезда.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11098" $ExtFilter="TVSources",Звезда ᴴᴰ
 TVSources &id='zvezda 180?180?_e1'
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Playboy TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10050" $ExtFilter="TVSources",Playboy TV
-TVSources &id='playboy tv_00'
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Бокс ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8759" $ExtFilter="TVSources",Бокс ТВ
 TVSources &id='boks tv_d0'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/VHS-сериал.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11282" $ExtFilter="TVSources",VHS-Сериал ᴴᴰ
@@ -5655,8 +4739,6 @@ TVSources &id='ryzhij_d0'
 TVSources &id='lapki live_d0'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Русский Роман.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8127" $ExtFilter="TVSources",Русский Роман
 TVSources &id='russkij roman_d0'
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Русская ночь.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10052" $ExtFilter="TVSources",Русская ночь ᴴᴰ
-TVSources &id='russkaya noch` 180?180?_e1'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Феникс плюс кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11113" $ExtFilter="TVSources",Феникс плюс Кино
 TVSources &id='feniks plyus kino_d0'
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Продвижение.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10070" $ExtFilter="TVSources",Продвижение
@@ -5741,18 +4823,10 @@ https://beeline.tv/PTAzTjNrRE54TWpaekF6Tmpoek00TURaMVlXTTNBVFl5SUdPeEV6WTJNVE4xM
 https://beeline.tv/PTBuTmpWV09pWkdPek16TnpJR04xWVROa1JqTWlSMk13Z3pNeGNqTnlVR09sMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVqTnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Ani.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7636" $ExtFilter="Beeline",Ani
 https://beeline.tv/PTAzTmlCVE53VVdOMk0yWXdFR041Y0ROaE4yTWhSRE95WVRPMGNUTzRBalptMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNETXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Babes TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10048" $ExtFilter="Beeline",Babes TV ᴴᴰ
-https://beeline.tv/PTBYWTNBVE1oSkROMEFqTmtsVE0xZ1RONFUyWXhNV015SXpZa1YyWW1WRFoxMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUl6TjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Barely legal.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10047" $ExtFilter="Beeline",Barely Legal
-https://beeline.tv/PTBYTmpGRE4ySUROeklXT2lSak55VURPd1VtTjJVbU56UUdaeFFXTTFBRE5tMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUFqTTB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/BIG PLANET.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9761" $ExtFilter="Beeline",BIG PLANET ᴴᴰ
 https://beeline.tv/PTBYT2taVE9sQmpZelFXWWhKRE8yRWpNME1ETTFNek1rZHpNM0VHWmtKak01MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1UTTF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Blue Hustler.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10046" $ExtFilter="Beeline",blue HUSTLER
-https://beeline.tv/PTBIWndralo1Y3pZelFHTjFVbU0yUUdOamRUTXhjRE4za1RPbVJUWTVJRE40MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlqTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Bollywood HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11045" $ExtFilter="Beeline",Bollywood ᴴᴰ
 https://beeline.tv/PTBuWndRR05rWmpNbWxqTjVJalpqUkRNaUpUWWpGVE5sbFROMk1ETmhWVE1oMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVV6Tnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Brazzers TV Europe.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10045" $ExtFilter="Beeline",Brazzers TV Europe
-https://beeline.tv/PTBuTjVRRFp3SWpOa2R6TmloVFoyTVRPalpUTjBVVE8wZ0RNa05ETjJNVFowMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlUTXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10028" $ExtFilter="Beeline",BRIDGE
 https://beeline.tv/PTBITXhVMlkyY3pNNFkyTWpObU0xSUROekFqTmtaak13a0RaMVlHTjBNak4wMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1UTXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE CLASSIC.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10029" $ExtFilter="Beeline",BRIDGE CLASSIC
@@ -5763,10 +4837,6 @@ https://beeline.tv/PTBYT2tWbU54TWpaM1F6TjNZbVlsRlRPellXT2lWalk0UUdaNVlUTzRRak53M
 https://beeline.tv/PTBYWTBNR09tWkdPMmNqTmxabVowUUROaU5HT3pnVFl3RTJZMWdUTnhRbU1pMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUFUTnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Cartoon Classics.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9930" $ExtFilter="Beeline",Cartoon Classics
 http://beeline.tv/PTBYTzRZbU5oSjJZNVVtTjRRall4a2pONElXWmtWek1pTm1ZNVkyTjNVV05tMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtqTjF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/CCTV-4.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7654" $ExtFilter="Beeline",CCTV-4
-https://beeline.tv/PTBuWjNVRE1rSlRaMGdEWnlnRE1rWjJZNFlHTTFFek53SXpZeWdETzJFV054MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFUT3p3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/CGTN.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7655" $ExtFilter="Beeline",CGTN
-https://beeline.tv/PTBuWWlsRE1pZERPM2NETXdVbU00SVdOM01qTWhWVE9qSm1aeklXTTRNVE1tMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1UT3p3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Cinema.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10409" $ExtFilter="Beeline",Cinema
 https://beeline.tv/PTBYWndBalp3UUdNMFFqWnpBak1rWkdOaWhUTWhSVFowWUdabEpETjNnRE5tMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNUTXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Classic Music.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9673" $ExtFilter="Beeline",Classic Music ᴴᴰ
@@ -5783,8 +4853,6 @@ https://beeline.tv/PTBIWmxWVE54UWpOeGNqWmhsRFptTlRPa05UT3pJRE9rbGpOeEVqTmpGMlkyM
 https://beeline.tv/OUptTW1sRE1raGpZM0lUTjRVbVl5Y2pOaFpqWm1salkxZ0RaMU1qWTFnVFk5a1hacjlsYnZsR2R3bG5jalZHWjcxemN1OVdhMEIzYnRnWGR0VkdaMkZtT1VCMVRrZ1hkdFZHWjJGV0xsTlhkdFVtZHBSSGNoUldZNlFGVVBSQ1p3MW1MaVIzY3RRM2NsWldhdUZXYnZ3V2J6bG1MMWNUTnNWbWJ1RkdhajlDWnZVbWRweDJMMlJuTGw1V2FzVldaaTV5YmxSV2EyOXlMNk1IYzBSSGE
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Europa Plus TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7671" $ExtFilter="Beeline",Europa Plus TV ᴴᴰ
 https://beeline.tv/PTBuTXprelkyTVdNa0ptTW1SVFozSVRNeGNUTmhkRE8yZ2paMmtqWWhKV1lpMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtUT3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Exxxotica HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10044" $ExtFilter="Beeline",Exxxotica ᴴᴰ
-https://beeline.tv/PTBuTTRJVE80Z0RPbEJUTXlFVE1oUkRPeU16TWtabVoxSWpaek1UWmtGRE5tMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlETjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/FAN.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11290" $ExtFilter="Beeline",FAN ᴴᴰ
 https://beeline.tv/PTAzTnlVR00zY2pZMUlXTmpoak5pUmpZeGdET2xGRE54TW1NMUlUWmhKek00MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtUTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Fashion & LifeStyle.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11225" $ExtFilter="Beeline",Fashion&Lifestyle HD
@@ -5797,8 +4865,6 @@ https://beeline.tv/PTBITmhaRFp5Z0RPbFpUTWhKMllqTldPM01UT2pCek0xWVdZd1lETndVRE5oM
 https://beeline.tv/PTAzTTFZVE1saHpNa2hqTXpralp4Y1Raa1pXTzVnVE4wTUdaekFETmhoVE1oMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNqTnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/FoodTime.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9321" $ExtFilter="Beeline",FoodTime ᴴᴰ
 https://beeline.tv/PTBYWnpnVFpqRldZa0ZtTTFVRE8wTVRPMVFtWTNJek0zWXpONE1HT2hSR1p3MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlqTnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/French Lover TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10457" $ExtFilter="Beeline",French Lover TV
-https://beeline.tv/PTBYWTRRVFlqRlRZMlFXT2lWV1o0WVROd1kyTXlVV09tbERaeVFqTjVZVFp6MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlUTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Детские" tvg-logo="https://veranzo.ru/other/icons/Gulli Girl.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7691" $ExtFilter="Beeline",Gulli Girl
 https://beeline.tv/PTBIT2haRE1qUkdaM0lXTWxSVE55Z1ROaVpHT2xCelkwY1RPMVVHTWxoVE00MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUV6TXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Hollywood.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10037" $ExtFilter="Beeline",Hollywood ᴴᴰ
@@ -5817,8 +4883,6 @@ https://beeline.tv/OVZUWWlGbU5qSm1NM0VqWW1CVFoya1RZMEFUWnlJR04wRWpONUVHT2hCRE05a
 https://beeline.tv/OU5UWTBFVE8xY0RPamhqTnpZV01paERaeEkyWWtGV056a1ROekVEWmtOV1k5a1hacjlsYnZsR2R3bG5jalZHWjcxemN1OVdhMEIzYnRnWGR0VkdaMkZtT1VCMVRrZ1hkdFZHWjJGV0xsTlhkdFVtZHBSSGNoUldZNlFGVVBSQ1p3MW1MaVIzY3RRM2NsWldhdUZXYnZ3V2J6bG1MMVlUTnNWbWJ1RkdhajlDWnZVbWRweDJMMlJuTGw1V2FzVldaaTV5YmxSV2EyOXlMNk1IYzBSSGE=
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/KION ХИТ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11092" $ExtFilter="Beeline",KION ХИТ ᴴᴰ
 https://beeline.tv/OUZUTm1SV05pWjJNMFlXTnpJR04yTWpZelFXWXpNMlkyUVdObWR6TXhZR045a1hacjlsYnZsR2R3bG5jalZHWjcxemN1OVdhMEIzYnRnWGR0VkdaMkZtT1VCMVRrZ1hkdFZHWjJGV0xsTlhkdFVtZHBSSGNoUldZNlFGVVBSQ1p3MW1MaVIzY3RRM2NsWldhdUZXYnZ3V2J6bG1MMmNUTnNWbWJ1RkdhajlDWnZVbWRweDJMMlJuTGw1V2FzVldaaTV5YmxSV2EyOXlMNk1IYzBSSGE
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Leomax24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10164" $ExtFilter="Beeline",Leomax24
-https://beeline.tv/PTAzTWxKall5a3pOd1lUWm1SbVp5TXpNM0FUTzBFVE8wa1RNM0lqTjFRbU5pMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVUTXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/MCM Top.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10165" $ExtFilter="Beeline",MCM Top
 https://beeline.tv/PTBuTWtGVFlpRmpZMVltTTNZak5rUlRNMUV6TjBVVE5pUkdOd2N6TmlaMk4yMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVV6TXd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Mezzo.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10040" $ExtFilter="Beeline",Mezzo
@@ -5831,14 +4895,8 @@ https://beeline.tv/PTBuWWlkek56Z1RaNU0yWWlSbVkyRUROeVlHTTRZalppRkdad01XT21CRE14M
 https://beeline.tv/PTAzTWlWVFlpQkRad0kyWTRZbU14a1RPd2dUWTNRMk55Z1RPd1lHTWhSek1rMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVETnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Music Box Russia.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10167" $ExtFilter="Beeline",MUSIC BOX RUSSIAN
 https://beeline.tv/PTAzWWlKalpoVmpOMVVUWWlKVE40WURNM0kyTm1aVFlpZGpOakpHT3hjalkxMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFETnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Playboy TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10050" $ExtFilter="Beeline",Playboy TV
-https://beeline.tv/PTBuWTVnVE01UVROelFXWmhaRE0zSWpabE5UWXhjVFl5RW1ZMFlHTXhBalk1MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNETnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Red Lips.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10051" $ExtFilter="Beeline",Red Lips ᴴᴰ
-https://beeline.tv/PTAzTmpKVE8zTUdNbFJqWXpnVE94SURaeVFXWWpCVFk1Z1RabGRETzNRMk53MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdU1ETjB3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Romance Channel.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10407" $ExtFilter="Beeline",Romance Channel ᴴᴰ
 http://beeline.tv/PTBYTjBnek0wTVdNM0VUWTNJVFlqTlRNbGRqTWpGRE8wRVROd0UyTjJVbVkzMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUF6TjF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/RT.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8956" $ExtFilter="Beeline",RT ᴴᴰ
-https://beeline.tv/PTBuTXpjRE80RURPa1oyTTVnelkwRURNd2dEWm1ORE80UXpNaEJqTmhSV1o1MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWdUTnh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/RTG TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10053" $ExtFilter="Beeline",RTG TV
 https://beeline.tv/PTBYWmtSek1pQlRNaE5HTTJNVFp5TWpZaGhEWmpkVE96UUdPMElUWndFVE00MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWtETnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/RTG HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11242" $ExtFilter="Beeline",RTG ᴴᴰ
@@ -5849,8 +4907,6 @@ https://beeline.tv/PTBYTmpCRE9tUkRPeUlXWm1sRE81QWpNMFV6WW1SVFl4UUdaMWd6TXpRV093M
 https://beeline.tv/PTBuWm1GVE5qZEROeUVqWndRalp5TWpZNVlHTmxSak16UW1ObGhUWXhFellpMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWdETnd3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Russian Extreme HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8740" $ExtFilter="Beeline",Russian Extreme ᴴᴰ
 https://beeline.tv/PTBYTW1KV04zVXpNaUpXTjVFbU5sZHpOeklETjBFRFpsRldPMGN6TjRBVFppMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNUTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Shopping live.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10054" $ExtFilter="Beeline",Shopping live
-https://beeline.tv/PTAzTWhKek14VW1NbVZqWWxkVE8wVUdPelVUTTRNVFlpUlROaWhEWjBRek54MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWNETXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Saga TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11234" $ExtFilter="Beeline",Saga TV
 https://beeline.tv/MDNNMEVqTmtsVE5oaERNNVlHWjRrRFpoTlRaeFFHTWxObVowTWpaaVZETzEwVGVsdDJYdTlXYTBCWGV5Tldaa3RYUHo1MmJwUkhjdjFDZTExV1prWlhZNlFGVVBSQ2UxMVdaa1pYWXRVMmMxMVNaMmxHZHdGR1pocERWUTlFSmtCWGJ1SUdkejFDZHpWbVpwNVdZdDlDYnROWGF1VVRPMXdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/START Air.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11095" $ExtFilter="Beeline",START Air ᴴᴰ
@@ -5921,8 +4977,6 @@ https://beeline.tv/PTBITWhSV09sUkdPMklHT3hZRE41UWpaMk16WWpOV094VVdaeGNUTWxoVFkyM
 https://beeline.tv/PTBYWjFZV04xWURPME1HTXhnak41UWpabFpXT3lVall6Z3pOaFpETWhkVE00MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVETzF3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Арсенал.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8767" $ExtFilter="Beeline",Арсенал ᴴᴰ
 https://beeline.tv/PTBuTTBZV015Y1RaMWtETzBNMk1tVm1NaGxqWjRrRE0xRW1Zek1qWW1oVFo1MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVl6Tnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 group-title="Иностранные" tvg-logo="https://veranzo.ru/other/icons/Беларусь 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10061" $ExtFilter="Beeline",Беларусь 24
-https://beeline.tv/PTBYTzJVV08xVUdOeU16Tm1kalk1a0RNNUlUTWtOMk13RXpNaFJXTjJjek0zMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdWdETnp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/БелРос.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10131" $ExtFilter="Beeline",БелРос
 https://beeline.tv/PTBYTjNFak1pVkRPd0FqTWtkek01TW1Od0F6TWxGalp5SVdad01XT21oVFpoMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUlqTXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Бобёр.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7785" $ExtFilter="Beeline",Бобёр
@@ -6069,8 +5123,6 @@ https://beeline.tv/PTAzWTBVVFpsTkRPaWx6TTJRMk0zTW1aeVFXTTRJell5SVRPaFpqTWlOek1pM
 https://beeline.tv/PTBYWTRZVFk1TURaMFVtTW1aVE95RUdObGR6TnhJbVoyQVRZMklUWmtGR05rMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVETnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11133" $ExtFilter="Beeline",Мир ᴴᴰ
 https://beeline.tv/PT1RZndnalpqUkROd1FETXdRVE1sSkdNNFFUTXhJR05oSlRPMk1qWmtSV05tZFRQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1TURNMXdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Мой Мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11118" $ExtFilter="Beeline",Мой мир
-https://beeline.tv/MFhNd0lHT2hCRE0wVVRabFZtTWhWR1p5VWpOd1FXTTVBRFpoUldNMUVEWjAwVGVsdDJYdTlXYTBCWGV5Tldaa3RYUHo1MmJwUkhjdjFDZTExV1prWlhZNlFGVVBSQ2UxMVdaa1pYWXRVMmMxMVNaMmxHZHdGR1pocERWUTlFSmtCWGJ1SUdkejFDZHpWbVpwNVdZdDlDYnROWGF1TXpNMHdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ
 #EXTINF:-1 group-title="Информационные" tvg-logo="https://veranzo.ru/other/icons/Москва 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11280" $ExtFilter="Beeline",Москва 24
 https://beeline.tv/PTBIWjVRMllsUkdOd1VHWjJJak16RVdZM1lXWXpFRE55QVROek1UTWtSMk13MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVUT3d3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Мосфильм. Золотая коллекция.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11134" $ExtFilter="Beeline",Мосфильм. Золотая коллекция ᴴᴰ
@@ -6169,8 +5221,6 @@ https://beeline.tv/PT1RZjNNbVowa0Raa0pXTWpKMk5pRlRPNE1ETjVRbU00UW1abFJUTW1aek0wU
 https://beeline.tv/PT1RZmpORE9rUnpNa0JETjBZR1o1VXpOMU1ETW1kek5tSm1aM0FUWnpJMk53VVRQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1UVRPMHdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
 #EXTINF:-1 group-title="Федеральные" tvg-logo="https://veranzo.ru/other/icons/Россия К.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9173" $ExtFilter="Beeline",Россия К
 https://beeline.tv/PT1RZmlKbVk0WVRZaEZ6WTVVRE1oSkdNaVZXTjBNR08zUURNa05tTXlJRE5taFRQNVYyYWY1MmJwUkhjNUozWWxSMmU5TW5idmxHZHc5V0w0VlhibFJtZGhwRFZROUVKNFZYYmxSbWRoMVNaelZYTGxaWGEwQlhZa0ZtT1VCMVRrUUdjdDVDZHpWbVpwNVdZdDlDYnROWGF1VVRPMHdXWnU1V1lvTjJMazlTWjJsR2J2WUhkdVVtYnB4V1psSm1MdlZHWnBaM0x2b0RjMFJIYQ==
-#EXTINF:-1 group-title="Взрослые" tvg-logo="https://veranzo.ru/other/icons/Русская ночь.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10052" $ExtFilter="Beeline",Русская ночь ᴴᴰ
-https://beeline.tv/PTBuWTFFak5tSlRaM2t6WXlJVFkxWTJNMFV6TmpORE1sUm1NMVlETTVNV041MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlUTnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Русский бестселлер.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11111" $ExtFilter="Beeline",Русский бестселлер
 https://beeline.tv/PTBYTnlFRE4xRW1Oa2hUWW1sVE1pTjJNeVFUTXdZR053UXpOa0pHTjNNMk54MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdUVUTXh3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Русский детектив.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11112" $ExtFilter="Beeline",Русский детектив
@@ -6251,5 +5301,3 @@ https://beeline.tv/PTBYTzFVRFp5WVROeFlUTjBVRFppTjJZNWtUT3pFRE4zSUdOMFl6WWxObU1pM
 https://beeline.tv/PTBYTzVBVFprUlRPaUZUWmpabU4ySTJZNVEyTjJRaloyVUdNaloyWXpBellpMVRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVFETnl3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://veranzo.ru/other/icons/Ю.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11061" $ExtFilter="Beeline",Ю
 https://beeline.tv/PTBuWXpBRFppUlRPNVlETzJJelkyUVRPMVF6TmhOMk4zRVdZMVkyTnpjVE14MFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVlET3p3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
-#EXTINF:-1 group-title="Телемагазины" tvg-logo="https://veranzo.ru/other/icons/Ювелирочка.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9961" $ExtFilter="Beeline",Ювелирочка
-https://beeline.tv/PTBuTjJnell4VTJOMEVUWWpkek13UXpNemNqTTBVR1owRVRaMlVXWTNrVE4zMFRlbHQyWHU5V2EwQlhleU5XWmt0WFB6NTJicFJIY3YxQ2UxMVdaa1pYWTZRRlVQUkNlMTFXWmtaWFl0VTJjMTFTWjJsR2R3RkdaaHBEVlE5RUprQlhidUlHZHoxQ2R6Vm1acDVXWXQ5Q2J0TlhhdVVETXp3V1p1NVdZb04yTGs5U1oybEdidllIZHVVbWJweFdabEptTHZWR1pwWjNMdm9EYzBSSGE=
