@@ -5,6 +5,224 @@ https://vod.splay.uz/live_splay/cinema/playlist.m3u8
 https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
 #EXTINF:10 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Makon TV
 https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//379d07323f571965a4dc44b456a14530-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Узбекистан
+https://iptv.itv.uz/hls/live/t/8RQCHpnd-WdyxG86iDjuiQ/e/1750143472/1001/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM 007 HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13009/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/08/23//105c61567d1ca0420d2ff99256054af6-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Ёшлар
+https://iptv.itv.uz/hls/live/t/B7Ekm72v_U-2J-MR01ZW9g/e/1750143472/1002/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Honey HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13026/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//96e9b1e79d2d9442b778115079e09d21-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Ташкент
+https://iptv.itv.uz/hls/live/t/wMWVLiukkrXUnmXFL6_7bA/e/1750143472/1003/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Live Planet HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13095/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//f79dce2ae2bd9ef84b6888f226fbb293-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Sport UZ HD
+https://iptv.itv.uz/hls/live/t/0vyprjaxtbR5xe7wVJeD1A/e/1750143473/1004/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Love HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13010/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/01/07//20d9335019d646e341e84482f3b5679b-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Futbol TV
+https://iptv.itv.uz/hls/live/t/6hZzafyywIQGSMRYdThbZQ/e/1750143473/1010/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM NewFilm 1 HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13011/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//4091c27ad1899f00d8f900e4a1243611-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",O'zbekiston 24 HD
+https://iptv.itv.uz/hls/live/t/YPxOgvTILY_2XEiDwuHBog/e/1750143473/1011/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM NewFilm 2 HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13012/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/01/15//c78b4b29689e79a2d7e1cd3fefe6300d-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",ZO'R TV HD
+https://iptv.itv.uz/hls/live/t/Fv_nYcut5WAqvSyk-yLtew/e/1750143473/1016/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM NewFilm 3 HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13013/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/02/10//0468ff22219c4d1b9cb00666ba2b2e60-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",ZO'R TV FHD
+https://iptv.itv.uz/hls/live/t/RUXw30vDbHd9u25qKgvBSA/e/1750143473/1286/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM NewFilm RU HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13014/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//91c58d573e4a8e351e68a0ebcbe724ab-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",iTV Cinema
+https://iptv.itv.uz/hls/live/t/b26Cp3F-1TNNJNnJBxhh6g/e/1750143473/4000/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-logo="https://veranzo.ru/other/icons/минимакс-rock HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10391",MM Rock HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13015/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//fa77872772e7f7406369bd0fe4e48e47-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Milliy TV HD
+https://iptv.itv.uz/hls/live/t/VW4xM2dWVopG7-Q-X4YZVQ/e/1750143473/1014/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM UFO HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13017/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/06/02//15db9906a0f50fb5ccadc0c30f1e532d-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Milliy SD
+https://iptv.itv.uz/hls/live/t/DNjbK3mhSk7ci9syh6zEoA/e/1750143474/1216/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM USSR 1941-1945 HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13018/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//27d9324713264f6d8c4cc6986cf4ae86-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",iTV Music
+https://iptv.itv.uz/hls/live/t/99-GI_3VSd1TKkLKqp82Lw/e/1750143474/4001/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM USSR Комедия HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13019/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/11/03//5a52a0580d30e504a5dbf424962bed82-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",MY5 HD
+https://iptv.itv.uz/hls/live/t/jhdzX-JonPdk8ZPu-agdjg/e/1750143474/1012/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM USSR Приключения HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13060/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/11/03//2675cdc82b452ba3267237a976d173fc-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",MY5 SD
+https://iptv.itv.uz/hls/live/t/AP8mC9zjZOVMYj7EwT2hmQ/e/1750143474/1217/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM USSR Сказки HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13021/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/01/24//4a4b31ebb4248789549263ad774c2c61-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Renessans TV
+https://iptv.itv.uz/hls/live/t/AjsouWdi4yhwC9WMQJI20A/e/1750143474/1221/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Walt Disney HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13064/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/04/26//d130432ae16fe60b68f22d3874a4493d-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",DasturxonTV
+https://iptv.itv.uz/hls/live/t/5DR4OsnmXEVPWXqG5fHr3w/e/1750143474/1206/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM World Hits HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13023/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//6184bdb718f893d4c4480ed8db4aeaa3-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Bolajon
+https://iptv.itv.uz/hls/live/t/Vzu1GeWjjbnP4LGyv38r3w/e/1750143475/1007/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Агата Кристи HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13024/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2021/03/23//bc4fba2dcb3166bd9aaa3d73229f6ef0-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Aqlvoy
+https://iptv.itv.uz/hls/live/t/-TcaG1N9lOueNoJsKIV4jQ/e/1750143475/1205/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Боевик Classic HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13027/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/08/23//2b3a36d6b5ad122598ce23f472f908ce-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Navo
+https://iptv.itv.uz/hls/live/t/mMLEwffL5xdrVQz0cXN31g/e/1750143475/1008/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Боевик HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13028/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//95737b9a2b913a6fadf576f61933a635-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Madaniyat va Marifat
+https://iptv.itv.uz/hls/live/t/qXgH3pJmmzNtKnTs3hSPtQ/e/1750143475/1005/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Вестерн HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13029/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2023/05/31//27e8188e91570f9ccf5c29121c183e6a-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Mahalla
+https://iptv.itv.uz/hls/live/t/2KJhbfuWodi0qF9rA2U78g/e/1750143475/1013/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Грайндхаус HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13025/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//d2e38ec0058f9c217b4c77c88f81404e-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Kinoteatr HD
+https://iptv.itv.uz/hls/live/t/ZRmI3C7nq7WKX-fbfJwEJg/e/1750143475/1009/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM История HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13033/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//58b2e970ecde5f03f461b8fe59550fac-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",O'zbekiston tarixi FHD
+https://iptv.itv.uz/hls/live/t/mg2tKHemqHyBe7xnkYlvpQ/e/1750143475/1209/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Катастрофа HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13034/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//622d1ccb45505a6a0c4a5b231a1664eb-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Dunyo bo`ylab
+https://iptv.itv.uz/hls/live/t/E6CdPiZh2fvB0-dBZ3xfxQ/e/1750143476/1006/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Киберпанк HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13036/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2020/06/17//6f5be573ae591540e132f03c6dd242a5-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Uzreport HD
+https://iptv.itv.uz/hls/live/t/XGotPoKHACuifA5W66ZPNw/e/1750143476/1015/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Крутые 90-е HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13040/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/08/19//ae399dbe120262ce79931f6f22e84ba4-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Taraqqiyot TV
+https://iptv.itv.uz/hls/live/t/wn0bGm05KJWhZWSm8uLjKA/e/1750143476/1204/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Кунг-Фу HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13041/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/03/31//01111699cb98bd366b6fd444ed741801-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Ruxsor TV
+https://iptv.itv.uz/hls/live/t/1x_we2BsOmFeqrKcP0XIWQ/e/1750143476/4008/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Приключения HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13048/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2022/01/22//4a58120210414aef66c88ca130dd3650-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Nurafshon TV
+https://iptv.itv.uz/hls/live/t/QNCNeOXB20Oh9yJ9pBV9Lw/e/1750143476/1220/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Сваты HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13051/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//a413e4713cb517535bb72e3adddfe943-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Fergana MTRK
+https://iptv.itv.uz/hls/live/t/NeUAq3W2yJp4ljZ2JVQdNA/e/1750143476/1458/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Семейный 1 HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13097/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/04/20//7503745371fe9a9778c7111458c5d43e-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Xorazm MTRK
+https://iptv.itv.uz/hls/live/t/hokzlyQBMreOj-jiPk_ZXQ/e/1750143476/1464/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Семейный 2 HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13098/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/10//36d91922645f095fde22cb2b836715be-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Vodiy TV
+https://iptv.itv.uz/hls/live/t/Bd5Id3VNQJUApDXg5abPew/e/1750143477/4012/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Скорость HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13053/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//8707395e931d3bb2ce18579a995d16a7-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Shifo TV
+https://iptv.itv.uz/hls/live/t/UkWb7mIxN0sr6FmE0TNzPw/e/1750143477/1469/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Спорт HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13054/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/07/23//d20bd7900e47c133b4fe42afaff686de-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Mimi TV
+https://iptv.itv.uz/hls/live/t/ZjqcPd0-4apZf58BRRmgTA/e/1750143477/1470/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Стивен Кинг HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13055/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//17af904b28e714551e8396fcc077e11a-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",TTV
+https://iptv.itv.uz/hls/live/t/WtTE13gV5x53TKMW6-FJpQ/e/1750143477/1494/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Супергерои HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13056/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/18//9421425ce5dc3385aac7fd42c2273223-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",TTV Kino
+https://iptv.itv.uz/hls/live/t/twmumq1teaE0isydHu8QRA/e/1750143477/1486/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Триллер HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13058/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/18//4d3cca95cc849ef5cb15e9a397316622-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",TTV Musiqa
+https://iptv.itv.uz/hls/live/t/nLp__7t8p18SWH8LQiOywA/e/1750143477/1485/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Ужастик HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13059/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/15//75b4b090cb1f5663d7eb0373c1fb1a80-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Jizzax TV
+https://iptv.itv.uz/hls/live/t/l8B6MAkYIeFSbwHpniLxZA/e/1750143478/1488/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Ужасы HD
+error
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/15//e4a7c541ecae647033f9a2248b87fb6b-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",ishonch TV
+https://iptv.itv.uz/hls/live/t/kqoibzPkuQMjeFeOByWVtg/e/1750143478/1489/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Фантастика HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13062/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//5e1500c4d1b9595a50ad350cee8cd647-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Ellikqala TV
+https://iptv.itv.uz/hls/live/t/1v0xS1RsQNoyoyIRUpvZAg/e/1750143478/1495/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Fantastic HD
+http://2mp9sv86.ottclub.xyz/iptv/6D7U22DVTSF8B9/11032/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//486ab75fe90f29227f3d114adf7ff3e7-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",8TV
+https://iptv.itv.uz/hls/live/t/bfclA5YfNbaStfzWFDrLRQ/e/1750143478/1496/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-logo="https://veranzo.ru/other/icons/History HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9527",History HD
+http://2mp9sv86.ottclub.xyz/iptv/6D7U22DVTSF8B9/11034/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/16//bffc77f6b96e90ba72634340afe2d28f-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Amudaryo TV
+https://iptv.itv.uz/hls/live/t/OWphkajuE9c9Uo7hULRjvw/e/1750143478/1491/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Kids+ HD
+http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/11036/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/30//4a675cfc1ca9fc523519e8154c67f3a4-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Nasaf TV
+https://iptv.itv.uz/hls/live/t/z51FZ3aMVwkVpv9bLdNBhA/e/1750143478/1492/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",BOX Gangster HD
+http://5732a88e.edemist.com/iptv/6D7U22DVTSF8B9/19277/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/17//1f68774291aa8afc63a9696929ffbbee-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Jaslar TV
+https://iptv.itv.uz/hls/live/t/9tUOfxB72yo9q-AOD49hcg/e/1750143478/1490/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",BOX Oscar HD
+http://5732a88e.edemist.com/iptv/6D7U22DVTSF8B9/19278/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/10/17//c32cb89a20def5498dac66a7a6923399-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Muloqot TV
+https://iptv.itv.uz/hls/live/t/f0Fquk2Y6S75Lzev2UWSZg/e/1750143479/1285/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",BOX Travel HD
+http://5732a88e.edemist.com/iptv/6D7U22DVTSF8B9/19418/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/08/22//42581c5407b1ecfcc533a153c0d3dc19-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",LiveTV
+https://iptv.itv.uz/hls/live/t/s9rJHwP2YpQMnn-8gRsxIw/e/1750143479/1475/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-logo="https://veranzo.ru/other/icons/Epic Drama.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9839",Epic Drama
+http://2mp9sv86.ottclub.xyz/iptv/6D7U22DVTSF8B9/1048/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2024/12/18//e6505a1ed9a0e61a67aa3e7afeb52167-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",MakonTV HD
+https://iptv.itv.uz/hls/live/t/lRDy8Juz9nDAjU-uptVwyA/e/1750143479/1497/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Magic VHS HD
+http://5732a88e.edemist.com/iptv/6D7U22DVTSF8B9/18062/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-logo="https://files.itv.uz/uploads/iptv/channels/2025/03/25//2930662a99d6931a690adbfe650f5e49-q-500x500.jpeg" tvg-id="simpleTVFakeEpgId",Denov TV
+https://iptv.itv.uz/hls/live/t/qiCG1BdSbE45QeJrAQEWZQ/e/1750143479/1499/index.m3u8?ip=104.28.244.141
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Агата Кристи HD
+http://2mp9sv86.ottclub.xyz/iptv/6D7U22DVTSF8B9/13024/index.m3u8
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Tviksel Кино 1 HD
+http://5732a88e.edemist.com/iptv/6D7U22DVTSF8B9/18069/index.m3u8
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Tviksel Кино 1 International
+http://5732a88e.edemist.com/iptv/6D7U22DVTSF8B9/18071/index.m3u8
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Tviksel Кино 2 HD
+http://5732a88e.edemist.com/iptv/6D7U22DVTSF8B9/18070/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Biznes TV
+https://fl.biztv.media/BiznesTV_1080/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Боевики FHD
+http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/15096/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Sevimli kids FHD
+https://vod.splay.uz/live_splay/kids/playlist.m3u8
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="simpleTVFakeEpgId",Кино Микс 4K
+http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/15110/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",My5 International
+https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Комедии FHD
+http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/16054/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Travel TV (O'zbekiston)
+https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Марвел FHD
+http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/15090/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",TTV Musiqa
+https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Сваты FHD
+http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/15164/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Солнечный тв
+https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Южный Парк FHD
+http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/16053/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/983.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055",Первый канал FHD
 http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2402/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1000.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9187",ОТР HD
@@ -1005,18 +1223,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/31151/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/31173/index.m3u8
 #EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3894.png" tvg-id="simpleTVFakeEpgId",NBA TV USA HD TR
 http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/31209/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Biznes TV
-https://fl.biztv.media/BiznesTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Sevimli kids FHD
-https://vod.splay.uz/live_splay/kids/playlist.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",My5 International
-https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Travel TV (O'zbekiston)
-https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",TTV Musiqa
-https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Солнечный тв
-https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Sci-Fi.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8720",.sci-fi
 http://130.193.73.10:8937/play/a02q
 #EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",1FILMAX
@@ -1235,16 +1441,12 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/30007/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/30011/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/8341.png" tvg-id="simpleTVFakeEpgId",[Spectrum] BabyFirst TV HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/30012/index.m3u8
-#EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",Abai TV (720p)
-https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8?checkedby:zunotv
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/7Jo7UAf.png" tvg-id="simpleTVFakeEpgId",Abaza TV
 https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",Akudji tv
 http://195.9.195.3:8080/hls/5346.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5357.png" tvg-id="simpleTVFakeEpgId",Akudji TV HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/14161/index.m3u8
-#EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",Alau TV (576p)
-https://otv.wotom.net/alau/stream.m3u8?checkedby:zunotv
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",Alpha Cinema
 http://195.9.195.3:8080/hls/205072.m3u8
 #EXTINF:-1 group-title="📺 Turkmenistan" tvg-id="simpleTVFakeEpgId",Altyn Asyr
@@ -1291,40 +1493,20 @@ http://82.215.111.227/1043/index.m3u8
 https://stream2.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Animal Planet.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11065",Animal Planet
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/137/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Animated HD
-http://bc093658.edmonst.net/iptv/6D7U22DVTSF8B9/17024/index.m3u8
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Aqlvoy
 https://stream1.cinerama.uz/1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Turkmenistan" tvg-id="simpleTVFakeEpgId",Ascabat
 http://217.174.225.146/hls/ch006_720/index.m3u8
-#EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",Atameken Business
-http://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8?checkedby:zunotv
-#EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",Atameken Business
-https://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8?checkedby:zunotv
-#EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",Atameken Business (1080p) [Not 24/7]
-http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8?checkedby:zunotv
-#EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",Atyraý (720p)
-https://stream.kaztrk.kz/regional/atyrautv/index.m3u8?checkedby:zunotv
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4662.png" tvg-id="simpleTVFakeEpgId",Backus TV Dark HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/10061/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4770.png" tvg-id="simpleTVFakeEpgId",Backus TV Original HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11049/index.m3u8
-#EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",Balapan TV
-https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8?checkedby:zunotv
-#EXTINF:-1 group-title="📺 Кинозалы BCU" tvg-id="simpleTVFakeEpgId",BCU Action HD
-http://vfucks.akadatel.com/iptv/6D7U22DVTSF8B9/11027/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4748.png" tvg-id="simpleTVFakeEpgId",BCU Action HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11027/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU" tvg-id="simpleTVFakeEpgId",BCU Catastrophe HD
-http://vfucks.akadatel.com/iptv/6D7U22DVTSF8B9/11028/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4749.png" tvg-id="simpleTVFakeEpgId",BCU Catastrophe HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11028/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU" tvg-id="simpleTVFakeEpgId",BCU Cinema HD
-http://vfucks.akadatel.com/iptv/6D7U22DVTSF8B9/11029/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4750.png" tvg-id="simpleTVFakeEpgId",BCU Cinema HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11029/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU" tvg-id="simpleTVFakeEpgId",BCU Cinema+ HD
-http://vfucks.akadatel.com/iptv/6D7U22DVTSF8B9/11030/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4751.png" tvg-id="simpleTVFakeEpgId",BCU Cinema+ HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11030/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5515.png" tvg-id="simpleTVFakeEpgId",BCU Comedy HD
@@ -1341,12 +1523,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11032/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11033/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4755.png" tvg-id="simpleTVFakeEpgId",BCU History HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11034/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU" tvg-id="simpleTVFakeEpgId",BCU Kinorating HD
-http://vfucks.akadatel.com/iptv/6D7U22DVTSF8B9/11037/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4758.png" tvg-id="simpleTVFakeEpgId",BCU Kinorating HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11037/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU" tvg-id="simpleTVFakeEpgId",BCU Little HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/19425/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5514.png" tvg-id="simpleTVFakeEpgId",BCU Marvel HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/15025/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/8964.png" tvg-id="simpleTVFakeEpgId",BCU Marvel HDR
@@ -1363,16 +1541,12 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/15023/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/16082/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6067.png" tvg-id="simpleTVFakeEpgId",BCU Reality OLD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/16083/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU" tvg-id="simpleTVFakeEpgId",BCU Romantic HD
-http://vfucks.akadatel.com/iptv/6D7U22DVTSF8B9/11040/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4761.png" tvg-id="simpleTVFakeEpgId",BCU Romantic HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11040/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4761.png" tvg-id="simpleTVFakeEpgId",BCU Romantic OLD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18052/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4767.png" tvg-id="simpleTVFakeEpgId",BCU RuSerial HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11046/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU" tvg-id="simpleTVFakeEpgId",BCU Russia 90s HD
-http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/31658/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4762.png" tvg-id="simpleTVFakeEpgId",BCU Russian HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11041/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4765.png" tvg-id="simpleTVFakeEpgId",BCU Stars HD
@@ -1395,8 +1569,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11016/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11017/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4768.png" tvg-id="simpleTVFakeEpgId",BCU Сваты HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11047/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU" tvg-id="simpleTVFakeEpgId",BCU СССР HD
-http://vfucks.akadatel.com/iptv/6D7U22DVTSF8B9/11026/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4747.png" tvg-id="simpleTVFakeEpgId",BCU СССР HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11026/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4771.png" tvg-id="simpleTVFakeEpgId",BEST Films HD
@@ -1433,8 +1605,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/20156/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19274/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6704.png" tvg-id="simpleTVFakeEpgId",BOX Game HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19284/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",BOX Gangster HD
-http://5732a88e.edemist.com/iptv/6D7U22DVTSF8B9/19277/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6699.png" tvg-id="simpleTVFakeEpgId",BOX Gangster HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19277/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/7488.png" tvg-id="simpleTVFakeEpgId",BOX Ghost HD
@@ -1447,8 +1617,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19280/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/20159/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6701.png" tvg-id="simpleTVFakeEpgId",BOX Memory HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19279/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",BOX Oscar HD
-http://5732a88e.edemist.com/iptv/6D7U22DVTSF8B9/19278/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6700.png" tvg-id="simpleTVFakeEpgId",BOX Oscar HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19278/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/7491.png" tvg-id="simpleTVFakeEpgId",BOX Premiere 4K
@@ -1461,8 +1629,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/20158/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19281/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6705.png" tvg-id="simpleTVFakeEpgId",BOX Spy HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19285/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",BOX Travel HD
-http://5732a88e.edemist.com/iptv/6D7U22DVTSF8B9/19418/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6832.png" tvg-id="simpleTVFakeEpgId",BOX Western HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19419/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6833.png" tvg-id="simpleTVFakeEpgId",BOX Zombie HD
@@ -1533,8 +1699,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/16151/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18139/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6137.png" tvg-id="simpleTVFakeEpgId",Citrus Inquest
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/16152/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Citrus Marvel
-http://drmobi.ottrast.com/iptv/6D7U22DVTSF8B9/16051/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6007.png" tvg-id="simpleTVFakeEpgId",Citrus Marvel
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/16051/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Classic Music.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9673",Classic Music
@@ -1625,8 +1789,6 @@ https://stream1.cinerama.uz/1006/tracks-v1a1/mono.m3u8
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Eliqqala TV
 https://stream8.cinerama.uz/1495/tracks-v1a1/mono.m3u8?token=Fgyo2fngwmxRaLPc8YATOQMKA
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-logo="https://veranzo.ru/other/icons/Epic Drama.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9839",Epic Drama
-http://2mp9sv86.ottclub.xyz/iptv/6D7U22DVTSF8B9/1048/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2229.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9839",Epic Drama
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/1048/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",ESPN U
@@ -1655,12 +1817,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/17066/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/20217/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6207.png" tvg-id="simpleTVFakeEpgId",Eye Media HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/17064/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Eye Modern HD
-http://drmobi.ottrast.com/iptv/6D7U22DVTSF8B9/17068/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6211.png" tvg-id="simpleTVFakeEpgId",Eye Modern HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/17068/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Eye Oscar HD
-http://drmobi.ottrast.com/iptv/6D7U22DVTSF8B9/17065/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6208.png" tvg-id="simpleTVFakeEpgId",Eye Oscar HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/17065/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/7910.png" tvg-id="simpleTVFakeEpgId",Eye Western HD
@@ -1671,8 +1829,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/734/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/16021/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2359.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11290",FAN orig
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9145/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU" tvg-id="simpleTVFakeEpgId",Fantastic HD
-http://2mp9sv86.ottclub.xyz/iptv/6D7U22DVTSF8B9/11032/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",FantasticMistyc
 http://195.9.195.3:8080/hls/187741.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",Fantom
@@ -1705,8 +1861,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9311/index.m3u8
 https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6719.png" tvg-id="simpleTVFakeEpgId",Fresh Adventure
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19297/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Fresh Cinema
-http://drmobi.ottrast.com/iptv/6D7U22DVTSF8B9/19287/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6105.png" tvg-id="simpleTVFakeEpgId",Fresh Cinema
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19287/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6711.png" tvg-id="simpleTVFakeEpgId",Fresh Comedy
@@ -1719,8 +1873,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19294/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19296/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Fresh Music
 https://freshtv-live.ru/FreshTV/index.m3u8?token=livestream
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Fresh Premiere
-http://drmobi.ottrast.com/iptv/6D7U22DVTSF8B9/19290/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6712.png" tvg-id="simpleTVFakeEpgId",Fresh Premiere
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19290/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6714.png" tvg-id="simpleTVFakeEpgId",Fresh Rating
@@ -1773,8 +1925,6 @@ http://iptv.prosto.tv:7000/ch74/video.m3u8
 https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/ТочкаРФ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7693",HD Life
 https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU" tvg-logo="https://veranzo.ru/other/icons/History HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9527",History HD
-http://2mp9sv86.ottclub.xyz/iptv/6D7U22DVTSF8B9/11034/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Histoty
 http://iptv.prosto.tv:7000/ch87/video.m3u8
 #EXTINF:-1 group-title="%F0%9F%93%BA%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20%D0%A2%D0%92%20%28https%3A%2F%2Ft.me%2Fzunotv%29" tvg-logo="https://veranzo.ru/other/icons/Hollywood.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10037",Hollywood
@@ -1817,8 +1967,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=4
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",J Sports4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=4
-#EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",Jambyl (360p) [Not 24/7]
-https://stream.kaztrk.kz/regional/taraztv/index.m3u8?checkedby:zunotv
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/9172.png" tvg-id="simpleTVFakeEpgId",Jambyl KZ
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/14232/index.m3u8
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",JaslarTV
@@ -1827,8 +1975,6 @@ https://stream8.cinerama.uz/1490/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1488/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",KatastrOFF
 http://195.9.195.3:8080/hls/208789.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы BCU" tvg-id="simpleTVFakeEpgId",Kids+ HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/11036/index.m3u8
 #EXTINF:-1 group-title="%F0%9F%93%BA%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20%D0%A2%D0%92%20%28https%3A%2F%2Ft.me%2Fzunotv%29" tvg-id="simpleTVFakeEpgId",Kino Kazka HD
 http://iptv.prosto.tv:7000/ch79/video.m3u8
 #EXTINF:-1 group-title="%F0%9F%93%BA%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20%D0%A2%D0%92%20%28https%3A%2F%2Ft.me%2Fzunotv%29" tvg-logo="https://veranzo.ru/other/icons/KinoLiving.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8401",Kino Living
@@ -1849,8 +1995,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18059/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18117/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6246.png" tvg-id="simpleTVFakeEpgId",Kinoshka Russian HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18058/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Kinoshka Thriller HD
-http://drmobi.ottrast.com/iptv/6D7U22DVTSF8B9/18055/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6243.png" tvg-id="simpleTVFakeEpgId",Kinoshka Thriller HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18055/index.m3u8
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Kinoteatr
@@ -1859,16 +2003,8 @@ https://stream1.cinerama.uz/1009/tracks-v1a1/mono.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/20211/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/7172.png" tvg-id="simpleTVFakeEpgId",KLI Action FHD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/20051/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы KLI" tvg-id="simpleTVFakeEpgId",KLI Cinema HD
-http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/16078/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",KLI Cinema HD
-http://drmobi.ottrast.com/iptv/6D7U22DVTSF8B9/16078/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6106.png" tvg-id="simpleTVFakeEpgId",KLI Cinema HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/16078/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы KLI" tvg-id="simpleTVFakeEpgId",KLI Club FHD
-http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/19319/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы KLI" tvg-id="simpleTVFakeEpgId",KLI Comedy HD
-http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/16080/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6107.png" tvg-id="simpleTVFakeEpgId",KLI Comedy HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/16080/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/7177.png" tvg-id="simpleTVFakeEpgId",KLI Concert FHD
@@ -1877,18 +2013,12 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/20049/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/20143/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/7174.png" tvg-id="simpleTVFakeEpgId",KLI Drama FHD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/20053/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы KLI" tvg-id="simpleTVFakeEpgId",KLI Family HD
-http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/18176/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6398.png" tvg-id="simpleTVFakeEpgId",KLI Family HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18176/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы KLI" tvg-id="simpleTVFakeEpgId",KLI Fantastic HD
-http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/18050/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6236.png" tvg-id="simpleTVFakeEpgId",KLI Fantastic HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18050/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/7175.png" tvg-id="simpleTVFakeEpgId",KLI Fantasy FHD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/20054/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы KLI" tvg-id="simpleTVFakeEpgId",KLI History HD
-http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/18047/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6233.png" tvg-id="simpleTVFakeEpgId",KLI History HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18047/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/7229.png" tvg-id="simpleTVFakeEpgId",KLI Horror FHD
@@ -1899,42 +2029,26 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/20052/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/20047/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/7898.png" tvg-id="simpleTVFakeEpgId",KLI Netflix HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/20177/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы KLI" tvg-id="simpleTVFakeEpgId",KLI Premium HD
-http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/18048/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6234.png" tvg-id="simpleTVFakeEpgId",KLI Premium HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18048/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы KLI" tvg-id="simpleTVFakeEpgId",KLI Retro HD
-http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/18177/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6399.png" tvg-id="simpleTVFakeEpgId",KLI Retro HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18177/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы KLI" tvg-id="simpleTVFakeEpgId",KLI Russian HD
-http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/18049/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6235.png" tvg-id="simpleTVFakeEpgId",KLI Russian HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18049/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы KLI" tvg-id="simpleTVFakeEpgId",KLI Thriller HD
-http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/18174/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6396.png" tvg-id="simpleTVFakeEpgId",KLI Thriller HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18174/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы KLI" tvg-id="simpleTVFakeEpgId",KLI VHS HD
-http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/18173/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6395.png" tvg-id="simpleTVFakeEpgId",KLI VHS HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18173/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы KLI" tvg-id="simpleTVFakeEpgId",KLI Киносерия FHD
-http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/19400/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6830.png" tvg-id="simpleTVFakeEpgId",KLI Киносерия FHD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19400/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/7179.png" tvg-id="simpleTVFakeEpgId",KLI Мультики FHD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/20048/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы KLI" tvg-id="simpleTVFakeEpgId",KLI СССР HD
-http://4da88164.edemist.com/iptv/TQTGTV6WW58X62U7LLRM5DM4/18175/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6397.png" tvg-id="simpleTVFakeEpgId",KLI СССР HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18175/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/7590.png" tvg-id="simpleTVFakeEpgId",KLI Шансон HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/20142/index.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Kpop Play TV
 https://fl1001.bozztv.com/ushba-m4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",Kókshe (720p) [Not 24/7]
-https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8?checkedby:zunotv
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/qU9ohQu.png" tvg-id="simpleTVFakeEpgId",Leomax 24 (1080p)
 https://tvshops.bonus-tv.ru/cdn/shop24/playlist.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5516.png" tvg-id="simpleTVFakeEpgId",Liberty DC FHD
@@ -2017,20 +2131,14 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18063/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18170/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6254.png" tvg-id="simpleTVFakeEpgId",Magic Galaxy HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18067/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Magic Horror HD
-http://5732a88e.edemist.com/iptv/6D7U22DVTSF8B9/18068/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6255.png" tvg-id="simpleTVFakeEpgId",Magic Horror HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18068/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Magic Karate HD
-http://drmobi.ottrast.com/iptv/6D7U22DVTSF8B9/18061/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6248.png" tvg-id="simpleTVFakeEpgId",Magic Karate HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18061/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6338.png" tvg-id="simpleTVFakeEpgId",Magic Love HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18171/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6252.png" tvg-id="simpleTVFakeEpgId",Magic Thriller HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18065/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Magic VHS HD
-http://5732a88e.edemist.com/iptv/6D7U22DVTSF8B9/18062/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6249.png" tvg-id="simpleTVFakeEpgId",Magic VHS HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18062/index.m3u8
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Mahalla
@@ -2039,8 +2147,6 @@ https://stream1.cinerama.uz/1013/tracks-v1a1/mono.m3u8
 https://stream2.cinerama.uz/1497/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/PruXLqS.png" tvg-id="simpleTVFakeEpgId",Maná Tserkov' Onlayn (1080p) [Not 24/7]
 https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",Mańǵystaý (540p) [Not 24/7]
-https://stream.kaztrk.kz/regional/mangystautv/index.m3u8?checkedby:zunotv
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/9JfLseu.png" tvg-id="simpleTVFakeEpgId",Mańǵystaý (540p) [Not 24/7]
 https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/MCM Top.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10165",MCM Top
@@ -2051,8 +2157,6 @@ https://stream1.cinerama.uz/1014/tracks-v1a1/mono.m3u8
 https://stream8.cinerama.uz/1470/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Turkmenistan" tvg-id="simpleTVFakeEpgId",Miras
 http://217.174.225.146/hls/ch003_720/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM 007 HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13009/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5122.png" tvg-id="simpleTVFakeEpgId",MM 007 HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13009/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6063.png" tvg-id="simpleTVFakeEpgId",MM Celebrity HD
@@ -2063,100 +2167,52 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/16085/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19414/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5170.png" tvg-id="simpleTVFakeEpgId",MM Flip UHD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13057/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Honey HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13026/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Live Planet HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13095/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Love HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13010/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5123.png" tvg-id="simpleTVFakeEpgId",MM Love HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13010/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM NewFilm 1 HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13011/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5124.png" tvg-id="simpleTVFakeEpgId",MM NewFilm 1 HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13011/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM NewFilm 2 HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13012/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5125.png" tvg-id="simpleTVFakeEpgId",MM NewFilm 2 HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13012/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM NewFilm 3 HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13013/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5126.png" tvg-id="simpleTVFakeEpgId",MM NewFilm 3 HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13013/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM NewFilm RU HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13014/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5127.png" tvg-id="simpleTVFakeEpgId",MM NewFilm RU HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13014/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6842.png" tvg-id="simpleTVFakeEpgId",MM OldSchool HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19413/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-logo="https://veranzo.ru/other/icons/минимакс-rock HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10391",MM Rock HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13015/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6413.png" tvg-id="simpleTVFakeEpgId",MM Translation HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18196/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM UFO HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13017/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5130.png" tvg-id="simpleTVFakeEpgId",MM UFO HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13017/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM USSR 1941-1945 HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13018/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5131.png" tvg-id="simpleTVFakeEpgId",MM USSR 1941-1945 HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13018/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5209.png" tvg-id="simpleTVFakeEpgId",MM USSR Детектив HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13096/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/8001.png" tvg-id="simpleTVFakeEpgId",MM USSR Драма HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13022/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM USSR Комедия HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13019/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5132.png" tvg-id="simpleTVFakeEpgId",MM USSR Комедия HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13019/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM USSR Приключения HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13060/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5570.png" tvg-id="simpleTVFakeEpgId",MM USSR Приключения HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13060/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM USSR Сказки HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13021/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Walt Disney HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13064/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM World Hits HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13023/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Агата Кристи HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13024/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Агата Кристи HD
-http://2mp9sv86.ottclub.xyz/iptv/6D7U22DVTSF8B9/13024/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5137.png" tvg-id="simpleTVFakeEpgId",MM Агата Кристи HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13024/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Боевик Classic HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13027/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5140.png" tvg-id="simpleTVFakeEpgId",MM Боевик Classic HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13027/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Боевик HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13028/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5141.png" tvg-id="simpleTVFakeEpgId",MM Боевик HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13028/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Вестерн HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13029/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5142.png" tvg-id="simpleTVFakeEpgId",MM Вестерн HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13029/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5144.png" tvg-id="simpleTVFakeEpgId",MM Воронины HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13031/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Грайндхаус HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13025/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5138.png" tvg-id="simpleTVFakeEpgId",MM Грайндхаус HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13025/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6065.png" tvg-id="simpleTVFakeEpgId",MM Драма HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/16086/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5145.png" tvg-id="simpleTVFakeEpgId",MM Затмение HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13032/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM История HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13033/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5146.png" tvg-id="simpleTVFakeEpgId",MM История HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13033/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Катастрофа HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13034/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5147.png" tvg-id="simpleTVFakeEpgId",MM Катастрофа HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13034/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Киберпанк HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13036/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5149.png" tvg-id="simpleTVFakeEpgId",MM Киберпанк HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13036/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5150.png" tvg-id="simpleTVFakeEpgId",MM Комедия Classic HD
@@ -2165,12 +2221,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13037/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13038/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5152.png" tvg-id="simpleTVFakeEpgId",MM Криминал HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13039/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Крутые 90-е HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13040/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5153.png" tvg-id="simpleTVFakeEpgId",MM Крутые 90-е HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13040/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Кунг-Фу HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13041/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5154.png" tvg-id="simpleTVFakeEpgId",MM Кунг-Фу HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13041/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6411.png" tvg-id="simpleTVFakeEpgId",MM Макромир HD
@@ -2185,22 +2237,14 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13045/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13047/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5162.png" tvg-id="simpleTVFakeEpgId",MM Полицейский с Рублёвки HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13049/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Приключения HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13048/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5161.png" tvg-id="simpleTVFakeEpgId",MM Приключения HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13048/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5163.png" tvg-id="simpleTVFakeEpgId",MM Роскино HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13050/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Сваты HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13051/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5164.png" tvg-id="simpleTVFakeEpgId",MM Сваты HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13051/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Семейный 1 HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13097/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5210.png" tvg-id="simpleTVFakeEpgId",MM Семейный 1 HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13097/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Семейный 2 HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13098/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5211.png" tvg-id="simpleTVFakeEpgId",MM Семейный 2 HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13098/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5174.png" tvg-id="simpleTVFakeEpgId",MM Синематограф HD
@@ -2209,38 +2253,22 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13061/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13046/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5165.png" tvg-id="simpleTVFakeEpgId",MM Ситком HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13052/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Скорость HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13053/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5166.png" tvg-id="simpleTVFakeEpgId",MM Скорость HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13053/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Спорт HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13054/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5167.png" tvg-id="simpleTVFakeEpgId",MM Спорт HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13054/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Стивен Кинг HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13055/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5168.png" tvg-id="simpleTVFakeEpgId",MM Стивен Кинг HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13055/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Супергерои HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13056/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5169.png" tvg-id="simpleTVFakeEpgId",MM Супергерои HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13056/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Триллер HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13058/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5171.png" tvg-id="simpleTVFakeEpgId",MM Триллер HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13058/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Ужастик HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13059/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5172.png" tvg-id="simpleTVFakeEpgId",MM Ужастик HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13059/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5215.png" tvg-id="simpleTVFakeEpgId",MM Ужасы Classic HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/14128/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Ужасы HD
-error
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5212.png" tvg-id="simpleTVFakeEpgId",MM Ужасы HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13099/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы MM" tvg-id="simpleTVFakeEpgId",MM Фантастика HD
-http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13062/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5175.png" tvg-id="simpleTVFakeEpgId",MM Фантастика HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13062/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5176.png" tvg-id="simpleTVFakeEpgId",MM Фобия HD
@@ -2253,14 +2281,10 @@ http://82.215.111.227/1226/index.m3u8
 http://62.233.57.226:8001/play/a00a
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5605.png" tvg-id="simpleTVFakeEpgId",MS Crime HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/15136/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MS Magic 4K
-http://bc093658.edmonst.net/iptv/6D7U22DVTSF8B9/16143/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6140.png" tvg-id="simpleTVFakeEpgId",MS Magic HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/16143/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5593.png" tvg-id="simpleTVFakeEpgId",MS Prisons HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/15137/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MS Toons HD
-http://bc093658.edmonst.net/iptv/6D7U22DVTSF8B9/15138/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5594.png" tvg-id="simpleTVFakeEpgId",MS Toons HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/15138/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5595.png" tvg-id="simpleTVFakeEpgId",MS Young Blood HD
@@ -2391,8 +2415,6 @@ http://62.233.57.226:8001/play/a009
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11094/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4720.png" tvg-id="simpleTVFakeEpgId",Premium HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11095/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Prisons HD
-http://bc093658.edmonst.net/iptv/6D7U22DVTSF8B9/15137/index.m3u8
 #EXTINF:-1 group-title="%F0%9F%93%BA%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20%D0%A2%D0%92%20%28https%3A%2F%2Ft.me%2Fzunotv%29" tvg-id="simpleTVFakeEpgId",Pro Kino
 http://iptv.prosto.tv:7000/ch145/video.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6734.png" tvg-id="simpleTVFakeEpgId",Prokop TV Cinema 60 fps
@@ -2425,12 +2447,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19316/index.m3u8
 https://stream1.cinerama.uz/1467/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Qazaqstan
 https://stream2.cinerama.uz/1431/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",Qazaqstan TV International (1080p)
-https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8?checkedby:zunotv
-#EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",Qyzyljar (720p)
-https://stream.kaztrk.kz/regional/petropavltv/index.m3u8?checkedby:zunotv
-#EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",Qyzylorda (720p)
-https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8?checkedby:zunotv
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Relaxon
 https://iptv.prosto.tv/ch317/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Retrovision
@@ -2633,12 +2649,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9130/index.m3u8
 https://6065d3147e895.streamlock.net:4444/npcl/live/playlist.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/Mti9t9C.png" tvg-id="simpleTVFakeEpgId",TV1 KG (1080p)
 http://212.2.225.30:1935/live/site.stream/playlist.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Tviksel Кино 1 HD
-http://5732a88e.edemist.com/iptv/6D7U22DVTSF8B9/18069/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Tviksel Кино 1 International
-http://5732a88e.edemist.com/iptv/6D7U22DVTSF8B9/18071/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Tviksel Кино 2 HD
-http://5732a88e.edemist.com/iptv/6D7U22DVTSF8B9/18070/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/kKAM7dP.png" tvg-id="simpleTVFakeEpgId",Tvoe TV HD
 http://tvoetv.space:8080/tvoetv/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",U-Travel
@@ -2987,8 +2997,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/14175/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19435/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5434.png" tvg-id="simpleTVFakeEpgId",Yosso TV Трагичное
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/14219/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Young Blood HD
-http://bc093658.edmonst.net/iptv/6D7U22DVTSF8B9/16147/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/1113.png" tvg-id="simpleTVFakeEpgId",Z! Channel HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/14134/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/1114.png" tvg-id="simpleTVFakeEpgId",Z! Comedy HD
@@ -3065,8 +3073,6 @@ http://dmi3y-tv.ru/hls/blrus/CH_BELROS.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/2436/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2832.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11053",Блокбастер HD orig
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9087/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Боевики FHD
-http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/15096/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/vruuPKF.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10924",Большая Азия
 http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/IDotHmQ.png" tvg-id="simpleTVFakeEpgId",БСТ (Башкирское спутниковое телевидение) (576p)
@@ -3083,8 +3089,6 @@ http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2089/index.m3u8
 http://serv24.vintera.tv:8081/vetta/vetta_office/playlist.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",ВИДЕОКАССЕТА
 http://195.9.195.3:8080/hls/176975.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Видеокассета VHS
-http://drmobi.ottrast.com/iptv/6D7U22DVTSF8B9/16049/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6005.png" tvg-id="simpleTVFakeEpgId",Видеокассета VHS
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/16049/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/KI1qZNc.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7790",Вместе РФ
@@ -3281,8 +3285,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18071/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18070/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2804.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9512",Кино UHD 4K
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/5004/index.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="simpleTVFakeEpgId",Кино Микс 4K
-http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/15110/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/1037.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8124",Кино ТВ
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/732/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/1037.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8124",Кино ТВ HD
@@ -3493,8 +3495,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/7250/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9128/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",Коломбо
 http://195.9.195.3:8080/hls/3592.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Комедии FHD
-http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/16054/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/138.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9513",Комедийное HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/912/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/138.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9513",Комедийное HD orig
@@ -3509,8 +3509,6 @@ http://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/index.m3u8
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/7844.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9514",Криминальное HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/14033/index.m3u8
-#EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",КТК (1080p) [Not 24/7]
-https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8?checkedby:zunotv
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/BurrNTo.png" tvg-id="simpleTVFakeEpgId",КТК (360p) [Not 24/7]
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/hZXBD9F.png" tvg-id="simpleTVFakeEpgId",Курай (Уфа) (576p)
@@ -3537,8 +3535,6 @@ https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 http://82.215.111.227/1244/index.m3u8
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Мама.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7860",Мама
 https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Марвел FHD
-http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/15090/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/Pg7K7eV.png" tvg-id="simpleTVFakeEpgId",Матур ТВ (1080p)
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Планета.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11272",Матч! Планета
@@ -3571,18 +3567,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/856/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9151/index.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Мистер Бин
 https://fl1001.bozztv.com/ushba45/index.m3u8
-#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Мода 1
-https://fl1001.bozztv.com/ushba-t8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Мода 2
-https://fl1001.bozztv.com/ushba-m6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Мода 3
-https://fl1001.bozztv.com/ushba-m7/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Мода 4
-https://fl1001.bozztv.com/ushba-m8/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Мода 5
-https://fl1001.bozztv.com/ushba-m9/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Мода 6
-https://fl1001.bozztv.com/ushba-m1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/gXbUMVy.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11280",Москва 24
 https://player.smotrim.ru/iframe/stream/live_id/efab3cbe-a29c-45f0-9596-5cb4f1ce7fbe
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/3357.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11134",Мосфильм. Золотая коллекция
@@ -3601,8 +3585,6 @@ https://stream2.cinerama.uz/1247/tracks-v1a1/mono.m3u8
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2090/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" tvg-id="simpleTVFakeEpgId",МТВ (Волгоград) (720p) [Not 24/7]
 http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="📺 Казакстан" tvg-id="simpleTVFakeEpgId",МТРК (576p) [Not 24/7]
-https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8?checkedby:zunotv
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/XMyRwDk.png" tvg-id="simpleTVFakeEpgId",МТРК (576p) [Not 24/7]
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 #EXTINF:-1 group-title="%F0%9F%93%BA%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20%D0%A2%D0%92%20%28https%3A%2F%2Ft.me%2Fzunotv%29" tvg-logo="https://veranzo.ru/other/icons/Мужское кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7882",Мужское кино
@@ -3905,8 +3887,6 @@ http://82.215.111.227/1249/index.m3u8
 https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Сварожичи
 http://iptv.prosto.tv:7000/ch168/video.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Сваты FHD
-http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/15164/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Свитло
 http://iptv.prosto.tv:7000/ch91/video.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/3cP2fmX.png" tvg-id="simpleTVFakeEpgId",Своё HD
@@ -3945,12 +3925,6 @@ https://stream2.cinerama.uz/1437/tracks-v2a1/mono.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/15099/index.m3u8
 #EXTINF:-1 group-title="%F0%9F%93%BA%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20%D0%A2%D0%92%20%28https%3A%2F%2Ft.me%2Fzunotv%29" tvg-logo="https://veranzo.ru/other/icons/Т24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9326",Т24
 http://82.215.111.227/1037/index.m3u8
-#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Танцы 1
-https://fl1001.bozztv.com/ushba17/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Танцы 2
-https://fl1001.bozztv.com/ushba15/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Танцы 3
-https://fl1001.bozztv.com/ushba56/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/ТВ-3.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10972",ТВ-3
 https://stream2.cinerama.uz/1435/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/rW1BeJC.png" tvg-id="simpleTVFakeEpgId",ТВК 24 (576p)
@@ -3975,8 +3949,6 @@ http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2051/index.m3u8
 https://streaming.astrakhan.ru/telplushd/playlist.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/qcJ4EBl.png" tvg-id="simpleTVFakeEpgId",Тивиком (Улан-Удэ) (1080p) [Not 24/7]
 http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
-#EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Тик Ток
-https://fl1001.bozztv.com/ushba61/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/zErXTdF.png" tvg-id="simpleTVFakeEpgId",ТК Алмазный край (576p)
 https://stream.almaz-media.tv:8080/hls/576.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/VqtPB7L.png" tvg-id="simpleTVFakeEpgId",ТКР (Рязань) (1080p) [Not 24/7]
@@ -4037,8 +4009,6 @@ https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/561FRwI.png" tvg-id="simpleTVFakeEpgId",Югра
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
-#EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",Южный Парк FHD
-http://f0ebd133.ucomist.net/iptv/6D7U22DVTSF8B9/16053/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju+ Megahit.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9385" $ExtFilter="TVSources",viju+ Megahit ᴴᴰ
 TVSources &id='viju+ megahit 180?180?_00'
 #EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/.black.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8717" $ExtFilter="TVSources",.black
