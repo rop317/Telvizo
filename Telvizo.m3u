@@ -13,6 +13,342 @@ https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
 https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
 #EXTINF:10 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Makon TV
 https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Uzreport HD
+http://213.230.65.254:8000/play/a009
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Toshkent SD
+http://213.230.65.254:8000/play/a00m
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",O'zbekiston 24 HD
+http://213.230.65.254:8100/play/a00j
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Uzbekiston SD
+http://213.230.65.254:8000/play/a00n
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Yoshlar SD
+http://213.230.65.254:8100/play/a00o
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",ZO'R TV HD
+http://213.230.65.254:8100/play/a00z
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",BIZ TV HD
+http://213.230.65.254:8100/play/a008
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Biz Music HD
+http://213.230.65.254:8100/play/a009
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Biz Cinema HD
+http://213.230.65.254:8100/play/a00a
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",ITV cinema HD
+http://213.230.65.254:8100/play/a00d
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Kinoteatr HD
+http://213.230.65.254:8100/play/a00t
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Sevimli TV HD
+http://213.230.65.254:8100/play/a00x
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Mening Yurtim HD
+http://213.230.65.254:8000/play/a005
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Milliy TV HD
+http://213.230.65.254:8100/play/a012
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",AQLVOY SD
+http://213.230.65.254:8100/play/a00p
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Bolajon SD
+http://213.230.65.254:8100/play/a00q
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",DasturxonTV HD
+http://213.230.65.254:8100/play/a006
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Dunyo Boylab HD
+http://213.230.65.254:8100/play/a00r
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",FTV HD
+http://213.230.65.254:8100/play/a00e
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Futbol TV
+http://213.230.65.254:8000/play/a00e
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Futbol TV SD
+http://213.230.65.254:8100/play/a00s
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Sport UZ HD
+http://213.230.65.254:8000/play/a00l
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Madaniyat va Marifat SD
+http://213.230.65.254:8100/play/a00u
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Mahalla SD
+http://213.230.65.254:8000/play/a01d
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",LUX TV HD
+http://213.230.65.254:8100/play/a013
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Makon TV HD
+http://213.230.65.254:8100/play/a00h
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",O'zbekiston Tarixi HD
+http://213.230.65.254:8000/play/a00k
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",MuzTV_UZB HD
+http://213.230.65.254:8100/play/a007
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",MiMi TV HD
+http://213.230.65.254:8100/play/a00i
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",S_Music HD
+http://213.230.65.254:8100/play/a00g
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Nurafshon TV
+http://213.230.65.254:8100/play/a011
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Navo SD
+http://213.230.65.254:8000/play/a00h
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Shifo TV HD
+http://213.230.65.254:8100/play/a00f
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Renessans TV HD
+http://213.230.65.254:8000/play/a007
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",My Day HD
+http://213.230.65.254:8100/play/a00c
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",8 Канал SD
+http://213.230.65.254:8100/play/a03f
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",365 Дней ТВ SD
+http://213.230.65.254:8100/play/a01z
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Animal Planet.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11065",Animal Planet HD
+http://213.230.65.254:8100/play/a01d
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Animal Planet SD
+http://213.230.65.254:8100/play/a01w
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Bollywood HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11045",Bollywood HD
+http://213.230.65.254:8100/play/a04l
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",BRIDGE TV Classic SD
+http://213.230.65.254:8100/play/a048
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Da Vinci SD
+http://213.230.65.254:8100/play/a04k
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Deutsche Welle HD
+http://213.230.65.254:8100/play/a03i
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Discovery Channel.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10038",Discovery Channel HD
+http://213.230.65.254:8100/play/a01e
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Discovery Channel SD
+http://213.230.65.254:8100/play/a01x
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Euro News SD
+http://213.230.65.254:8100/play/a03q
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Eurosport 1 HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7672",Eurosport 1 HD
+http://213.230.65.254:8100/play/a04g
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Eurosport 2.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7673",Eurosport 2 HD
+http://213.230.65.254:8100/play/a04j
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Fashion HD
+http://213.230.65.254:8100/play/a04o
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",France 24 HD
+http://213.230.65.254:8100/play/a03r
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/FX.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11291",FX HD
+http://213.230.65.254:8100/play/a05e
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/FX Life.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11042",FX Life HD
+http://213.230.65.254:8100/play/a05f
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Gulli Girl SD
+http://213.230.65.254:8100/play/a046
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/ТочкаРФ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7693",HDL HD
+http://213.230.65.254:8100/play/a021
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Hollywood.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10037",Hollywood HD
+http://213.230.65.254:8100/play/a02f
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",KBS WORLD HD
+http://213.230.65.254:8100/play/a03s
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Khabar 24 SD
+http://213.230.65.254:8100/play/a03c
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/MMA-TV.com.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9322",MMA-TV.com HD
+http://213.230.65.254:8100/play/a04f
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/MTV Live.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10946",MTV Live HD
+http://213.230.65.254:8100/play/a049
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/National Geographic Wild.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9613",Nat Geo Wild HD
+http://213.230.65.254:8100/play/a01m
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/National Geographic.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9535",National Geographic HD
+http://213.230.65.254:8100/play/a01l
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Nickelodeon.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9502",Nickelodeon HD
+http://213.230.65.254:8100/play/a041
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",OKEAN TV HD
+http://213.230.65.254:8100/play/a022
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Qazaqstan Int HD
+http://213.230.65.254:8100/play/a04p
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",QAZAQSTAN SD
+http://213.230.65.254:8100/play/a03u
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",RED Premium HD
+http://213.230.65.254:8100/play/a05g
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",RED THRILLER HD
+http://213.230.65.254:8100/play/a05h
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",REN-TV
+http://213.230.65.254:8100/play/a05n
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/RU.TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8111",RU.TV HD
+http://213.230.65.254:8100/play/a04a
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Russia Today SD
+http://213.230.65.254:8000/play/a01h
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Setanta 1 HD
+http://213.230.65.254:8100/play/a04h
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Setanta 2 HD
+http://213.230.65.254:8100/play/a04i
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Star Cinema SD
+http://213.230.65.254:8100/play/a036
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",STS Kids HD
+http://213.230.65.254:8100/play/a044
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",TiJi SD
+http://213.230.65.254:8100/play/a045
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Tojikiston HD
+http://213.230.65.254:8100/play/a03x
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/viju Explore.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9377",viju Explore HD
+http://213.230.65.254:8100/play/a01f
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",viju Explore SD
+http://213.230.65.254:8100/play/a01s
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/viju History.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9378",viju History HD
+http://213.230.65.254:8100/play/a01g
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",viju History SD
+http://213.230.65.254:8100/play/a01t
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/viju Nature.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9379",viju Nature HD
+http://213.230.65.254:8100/play/a04r
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",viju Nature SD
+http://213.230.65.254:8100/play/a01u
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",viju Sport HD
+http://213.230.65.254:8100/play/a04e
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",viju TV 1000 action SD
+http://213.230.65.254:8100/play/a02v
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/viju TV1000 action.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9382",viju TV1000 Action HD
+http://213.230.65.254:8100/play/a02g
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/viju TV1000.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11294",viju TV1000 HD
+http://213.230.65.254:8100/play/a02p
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Viju TV1000 Rus HD
+http://213.230.65.254:8100/play/a02h
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",viju TV1000 russkoe SD
+http://213.230.65.254:8100/play/a02z
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",viju TV1000 SD
+http://213.230.65.254:8100/play/a02y
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/viju+ Comedy.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9384",viju+ Comedy HD
+http://213.230.65.254:8100/play/a054
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/viju+ Premiere.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9386",viju+ Premiere HD
+http://213.230.65.254:8100/play/a037
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/viju+ Serial.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9376",viju+ Serial HD
+http://213.230.65.254:8100/play/a055
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",VijuMegahit_HD
+http://213.230.65.254:8100/play/a02i
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Авто 24 SD
+http://213.230.65.254:8100/play/a01h
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Авто Плюс SD
+http://213.230.65.254:8100/play/a01q
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Бобёр SD
+http://213.230.65.254:8100/play/a024
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/В гостях у сказки.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7788",В гостях у сказки HD
+http://213.230.65.254:8100/play/a03y
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Детский Мир SD
+http://213.230.65.254:8100/play/a042
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Дикая охота HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7796",Дикая охота HD
+http://213.230.65.254:8100/play/a025
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Дикая рыбалка HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7797",Дикая рыбалка HD
+http://213.230.65.254:8100/play/a026
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Дикий.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10064",Дикий
+http://213.230.65.254:8100/play/a05p
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Доктор.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7800",Доктор HD
+http://213.230.65.254:8100/play/a027
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Дом кино SD R
+http://213.230.65.254:8100/play/a01a
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Домашний int SD
+http://213.230.65.254:8100/play/a038
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Домашний SD R
+http://213.230.65.254:8100/play/a01b
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Дорама.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7804",Дорама HD
+http://213.230.65.254:8100/play/a03b
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Живая Планета SD
+http://213.230.65.254:8100/play/a01i
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Живая природа.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9052",Живая Природа HD
+http://213.230.65.254:8100/play/a01j
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Живи.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10065",ЖИВИ
+http://213.230.65.254:8100/play/a05u
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Живи активно.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7603",Живи активно HD
+http://213.230.65.254:8100/play/a01k
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Загородная жизнь SD
+http://213.230.65.254:8100/play/a028
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Звезда SD R
+http://213.230.65.254:8100/play/a015
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Зоопарк SD
+http://213.230.65.254:8100/play/a01o
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",ИНДИЙСКОЕ КИНО SD
+http://213.230.65.254:8100/play/a030
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",История SD
+http://213.230.65.254:8100/play/a01y
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Карусель SD
+http://213.230.65.254:8100/play/a03z
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9172",Кинеко HD
+http://213.230.65.254:8100/play/a05i
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Кинокомедия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7834",Кинокомедия HD
+http://213.230.65.254:8100/play/a02j
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7835",Киномикс HD
+http://213.230.65.254:8100/play/a034
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7837",Кинопремьера HD
+http://213.230.65.254:8100/play/a031
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Киносвидание.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7839",Киносвидание HD
+http://213.230.65.254:8100/play/a02m
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Киносвидание SD
+http://213.230.65.254:8100/play/a032
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7840",Киносемья HD
+http://213.230.65.254:8100/play/a02k
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="simpleTVFakeEpgId",Киносемья SD
+http://213.230.65.254:8100/play/a02r
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11099",Киносерия HD
+http://213.230.65.254:8100/play/a02l
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7843",Кинохит HD
+http://213.230.65.254:8100/play/a02n
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="simpleTVFakeEpgId",Кинохит SD
+http://213.230.65.254:8100/play/a033
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Кухня ТВ SD
+http://213.230.65.254:8100/play/a01n
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",ЛЯ-МИНОР ТВ SD
+http://213.230.65.254:8100/play/a04c
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Мама SD
+http://213.230.65.254:8100/play/a04q
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Матч ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11254",Матч ТВ
+http://213.230.65.254:8100/play/a05b
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Мир 24 SD
+http://213.230.65.254:8100/play/a03d
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Мир SD
+http://213.230.65.254:8100/play/a03e
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Мир сериала.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7875",Мир сериала
+http://213.230.65.254:8100/play/a05c
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Моя планета.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7880",Моя планета HD
+http://213.230.65.254:8100/play/a029
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Мужское кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7882",МУЖСКОЕ КИНО HD
+http://213.230.65.254:8100/play/a02q
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",МУЗ ТВ SD
+http://213.230.65.254:8100/play/a04b
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Музыка Первого SD
+http://213.230.65.254:8100/play/a04d
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Мульт HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11054",Мульт HD
+http://213.230.65.254:8100/play/a040
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Мультиландия SD
+http://213.230.65.254:8100/play/a043
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Наука.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7890",Наука HD
+http://213.230.65.254:8100/play/a02a
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Наша Тема SD
+http://213.230.65.254:8100/play/a02b
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Наше новое кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7897",Наше новое кино HD
+http://213.230.65.254:8100/play/a02o
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Наше новое кино SD
+http://213.230.65.254:8100/play/a02s
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",НТВ SD R
+http://213.230.65.254:8100/play/a019
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Охота и Рыбалка SD
+http://213.230.65.254:8100/play/a020
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Первый канал HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055",Первый канал HD
+http://213.230.65.254:8100/play/a04s
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Первый канал SD R
+http://213.230.65.254:8100/play/a018
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/РБК.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7932",РБК HD
+http://213.230.65.254:8100/play/a03w
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Ретро SD
+http://213.230.65.254:8100/play/a02t
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Родное кино SD
+http://213.230.65.254:8100/play/a02u
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Россия 1 SD R
+http://213.230.65.254:8100/play/a016
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Россия 24 SD R
+http://213.230.65.254:8100/play/a017
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Россия К SD
+http://213.230.65.254:8100/play/a01v
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Русский Бестселлер SD
+http://213.230.65.254:8100/play/a039
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Русский Детектив SD
+http://213.230.65.254:8100/play/a03a
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Русский Роман.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8127",Русский Роман
+http://213.230.65.254:8100/play/a05d
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/САПФИР.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9189",Сапфир HD
+http://213.230.65.254:8100/play/a05j
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Cinema.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10409",Синема HD
+http://213.230.65.254:8100/play/a035
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",СТС I
+http://213.230.65.254:8100/play/a05k
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Тайны Галактики.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7962",Тайны Галактики HD
+http://213.230.65.254:8100/play/a023
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",ТВ-3 SD R
+http://213.230.65.254:8100/play/a01c
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Телекафе SD
+http://213.230.65.254:8000/play/a011
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Техно 24 SD
+http://213.230.65.254:8100/play/a01r
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",ТНВ Планета SD
+http://213.230.65.254:8100/play/a02e
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/ТНТ HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11208",ТНТ
+http://213.230.65.254:8100/play/a05l
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/ТНТ4.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7979",ТНТ4
+http://213.230.65.254:8100/play/a05m
+#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Уникум.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11058",Уникум HD
+http://213.230.65.254:8100/play/a01p
 #EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM 007 HD
 http://4c66041f.tvclub.xyz/iptv/E3TZUWKUS8PTA7/13009/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозалы All" tvg-id="simpleTVFakeEpgId",MM Honey HD
@@ -1321,8 +1657,6 @@ http://195.9.195.3:8080/hls/204708.m3u8
 http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",2 FILMAX
 http://195.9.195.3:8080/hls/204717.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",24KZ
-https://stream2.cinerama.uz/1408/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.ibb.co/3m9LrLj/k7gIibH.png" tvg-id="simpleTVFakeEpgId",312 Кино (406p)
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.ibb.co/S6sZvqk/iLSGi6c.png" tvg-id="simpleTVFakeEpgId",312 ТВ (406p)
@@ -1389,18 +1723,12 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/229/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9022/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/1372.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11289",Amedia Premium orig
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9233/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Amudaryo TV
-https://stream1.cinerama.uz/1491/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/i2AP0hp.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7636",Ani
 http://31.148.48.15/Ani/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Animal Planet.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11065",Animal Planet
 http://82.215.111.227/1043/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Animal Planet.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11065",Animal Planet
-https://stream2.cinerama.uz/1043/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Animal Planet.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11065",Animal Planet
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/137/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Aqlvoy
-https://stream1.cinerama.uz/1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Turkmenistan" tvg-id="simpleTVFakeEpgId",Ascabat
 http://217.174.225.146/hls/ch006_720/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4662.png" tvg-id="simpleTVFakeEpgId",Backus TV Dark HD
@@ -1481,20 +1809,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11026/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11050/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/BIG PLANET.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9761",Big Planet
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/14027/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",BIZ Cinema
-https://stream1.cinerama.uz/1213/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",BIZ TV
-https://stream8.cinerama.uz/1211/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Biznes TV
-https://fl.biztv.media/BiznesTV_1080/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",Bogul TV
 http://195.9.195.3:8080/hls/132451.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Bolajon
-https://stream1.cinerama.uz/1007/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Bollywood HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11045",Bollywood
 http://iptv.prosto.tv:7000/ch61/video.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Bollywood HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11045",Bollywood
-https://stream8.cinerama.uz/1444/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/1395.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11045",Bollywood HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/239/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/1395.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11045",Bollywood HD orig
@@ -1551,12 +1869,8 @@ http://iptv.prosto.tv:7000/ch40/video.m3u8
 http://iptv.prosto.tv:7000/ch34/video.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Cinema.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10409",Cinema
 http://82.215.111.227/1227/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Cinema.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10409",Cinema
-https://stream2.cinerama.uz/1227/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2754.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10409",Cinema
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/5051/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Cinema (uzb)
-https://stream1.cinerama.uz/1498/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/twNYF1W.png" tvg-id="simpleTVFakeEpgId",Cinema 1 (1080p)
 http://62.233.57.226:8001/play/a00l00
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2754.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10409",Cinema HD
@@ -1623,10 +1937,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/157/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/6000/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Da Vinci.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7660",Da Vinci
 http://iptv.prosto.tv:7000/ch78/video.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Da Vinci.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7660",Da Vinci
-https://stream2.cinerama.uz/1231/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Dasturxon
-https://stream1.cinerama.uz/1206/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Dazn 1
 http://laranjatv.ddns.net:8080/bbrito19812/bZ4D7XPy/7289
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Dazn 2
@@ -1683,18 +1993,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/14227/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/14218/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5438.png" tvg-id="simpleTVFakeEpgId",Dosug TV Ходячие мертвецы
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/14226/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Drive
-https://stream2.cinerama.uz/1421/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Duck TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9702",Duck TV
 http://82.215.111.227/1271/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Duck TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9702",Ducktv HD
-https://stream2.cinerama.uz/1271/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Dunyo Bo'ylab
-https://stream1.cinerama.uz/1006/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://epg.iptvx.one/picons/deutsche-welle-ru.png" tvg-id="simpleTVFakeEpgId",DW Russian (1080p)
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Eliqqala TV
-https://stream8.cinerama.uz/1495/tracks-v1a1/mono.m3u8?token=Fgyo2fngwmxRaLPc8YATOQMKA
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2229.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9839",Epic Drama
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/1048/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",ESPN U
@@ -1703,10 +2005,6 @@ http://fl2.moveonjoy.com/ESPN_U/index.m3u8
 http://iptv.prosto.tv:7000/ch134/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Euronews.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9521",Euronews
 http://82.215.111.227/1024/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Euronews.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9521",Euronews
-https://stream2.cinerama.uz/1024/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Eurosport 1 HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7672",Eurosport 1
-https://stream8.cinerama.uz/1439/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/5OhE6N8.png" tvg-id="simpleTVFakeEpgId",Exclusiv TV (1080p)
 http://62.233.57.226:8001/play/a00f
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6210.png" tvg-id="simpleTVFakeEpgId",Eye Criminal HD
@@ -1739,12 +2037,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9145/index.m3u8
 http://195.9.195.3:8080/hls/187741.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",Fantom
 http://195.9.195.3:8080/hls/204722.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Farg'ona
-https://stream1.cinerama.uz/1458/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Fashion Channel
 https://fl1001.bozztv.com/ushba19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/FashionTV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11226",Fashion TV
-https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Fast & FunBOX HD
 http://iptv.prosto.tv:7000/ch120/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/FightBox.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9563",FightBOX
@@ -1795,20 +2089,14 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19301/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19300/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6715.png" tvg-id="simpleTVFakeEpgId",Fresh VHS
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19293/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",FTV
-https://stream8.cinerama.uz/1018/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Fuel TV
 http://82.215.111.227/1280/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Fuel TV HD
-https://stream2.cinerama.uz/1280/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Futbol 1
 http://flu.ttk.mx:90/Football_1HD/mono.m3u8?token=hs10e
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Futbol 3
 http://flu.ttk.mx:90/Football_2HD/mono.m3u8?token=hs10e
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Futbol TV
 http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Futbol TV
-https://stream8.cinerama.uz/1010/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/1031.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11291",FX
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/6516/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/1031.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11291",FX HD orig
@@ -1823,20 +2111,12 @@ http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2010/index.m3u8
 https://fl1001.bozztv.com/ushba31/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Gameplay трейлеры
 https://fl1001.bozztv.com/ushba44/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Gold TV
-https://stream8.cinerama.uz/4007/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Gulli Girl.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7691",Gulli
 http://iptv.prosto.tv:7000/ch74/video.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Gulli Girl.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7691",Gulli Girl
-https://stream8.cinerama.uz/1445/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/ТочкаРФ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7693",HD Life
-https://stream8.cinerama.uz/1222/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Histoty
 http://iptv.prosto.tv:7000/ch87/video.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Hollywood.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10037",Hollywood
 http://iptv.prosto.tv:7000/ch50/video.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Hollywood.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10037",Hollywood
-https://stream2.cinerama.uz/1443/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/608.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10037",Hollywood
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/557/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/934.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10037",Hollywood HD
@@ -1849,22 +2129,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9236/index.m3u8
 https://m3u.usite.pro/27/intro.mp4
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",https://t.me/zunotv
 https://m3u.usite.pro/27/intro.mp4
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",I-kbol
-https://stream1.cinerama.uz/1282/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Insight Ultra HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9530",Insight TV
-https://stream2.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6836.png" tvg-id="simpleTVFakeEpgId",Insomnia HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19398/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",iptv-play.ru
 https://playlist.nuum.ru/live/86709/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Ishonch TV
-https://stream2.cinerama.uz/1489/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Istiqlol TV
-https://stream1.cinerama.uz/1283/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Itv Cinema
-https://stream2.cinerama.uz/4000/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",iTV Music
-https://stream8.cinerama.uz/4001/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",J Sports1
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=4
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",J Sports2
@@ -1875,10 +2143,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=4
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/9172.png" tvg-id="simpleTVFakeEpgId",Jambyl KZ
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/14232/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",JaslarTV
-https://stream8.cinerama.uz/1490/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",JTV
-https://stream8.cinerama.uz/1488/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",KatastrOFF
 http://195.9.195.3:8080/hls/208789.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-id="simpleTVFakeEpgId",Kino Kazka HD
@@ -1903,8 +2167,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18117/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18058/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6243.png" tvg-id="simpleTVFakeEpgId",Kinoshka Thriller HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18055/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Kinoteatr
-https://stream1.cinerama.uz/1009/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/7903.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11092",KION Хит HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/20211/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/7172.png" tvg-id="simpleTVFakeEpgId",KLI Action FHD
@@ -2015,18 +2277,12 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/15088/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19403/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/JhrTB82.png" tvg-id="simpleTVFakeEpgId",Life TV (432p) [Not 24/7]
 http://lifetv.bitflip.ee/live/stream1_1/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Live TV
-https://stream1.cinerama.uz/1475/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4772.png" tvg-id="simpleTVFakeEpgId",Lost HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11053/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",LuxTV
-https://stream1.cinerama.uz/1210/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",M1
 http://iptv.prosto.tv:7000/ch122/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",M2
 https://iptv.prosto.tv/id118/video.m3u8?secret=xws6dla3
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Madaniyat va ma'rifat
-https://stream1.cinerama.uz/1005/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6253.png" tvg-id="simpleTVFakeEpgId",Magic Action HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18066/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/7487.png" tvg-id="simpleTVFakeEpgId",Magic Adventure HD
@@ -2047,20 +2303,12 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18171/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18065/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6249.png" tvg-id="simpleTVFakeEpgId",Magic VHS HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18062/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Mahalla
-https://stream1.cinerama.uz/1013/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Makon TV
-https://stream2.cinerama.uz/1497/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/PruXLqS.png" tvg-id="simpleTVFakeEpgId",Maná Tserkov' Onlayn (1080p) [Not 24/7]
 https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/9JfLseu.png" tvg-id="simpleTVFakeEpgId",Mańǵystaý (540p) [Not 24/7]
 https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/MCM Top.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10165",MCM Top
 http://iptv.prosto.tv:7000/ch137/video.m3u8?secret=xws6dla3
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Milliy TV
-https://stream1.cinerama.uz/1014/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",MiMi
-https://stream8.cinerama.uz/1470/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Turkmenistan" tvg-id="simpleTVFakeEpgId",Miras
 http://217.174.225.146/hls/ch003_720/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5122.png" tvg-id="simpleTVFakeEpgId",MM 007 HD
@@ -2179,8 +2427,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13099/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13062/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5176.png" tvg-id="simpleTVFakeEpgId",MM Фобия HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13063/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",MMA TV
-https://stream8.cinerama.uz/1226/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/MMA-TV.com.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9322",MMA-TV
 http://82.215.111.227/1226/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/Hv6Nk8A.png" tvg-id="simpleTVFakeEpgId",Moldova 2 (1080p)
@@ -2207,8 +2453,6 @@ https://iptv.prosto.tv/id311/video.m3u8?secret=xws6dla3
 http://iptv.prosto.tv:7000/ch126/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/MTV Live.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10946",MTV Live
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8?secret=xws6dla3
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Muloqot TV
-https://82.215.111.228/1285/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Music Japan
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",MUZVER TV HD
@@ -2229,12 +2473,6 @@ https://muzzik-live.morescreens.com/mts-7/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-a5/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Muzzik ZZ
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",My5
-https://stream1.cinerama.uz/1012/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",My5 International
-https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",MYDAYTV
-https://stream1.cinerama.uz/1265/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/104.png" tvg-id="simpleTVFakeEpgId",MYTV
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19407/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/105.png" tvg-id="simpleTVFakeEpgId",MYTV 2
@@ -2245,22 +2483,14 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19411/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19410/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/fIi8o0C.png" tvg-id="simpleTVFakeEpgId",MyZen TV (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Nasaf TV
-https://stream8.cinerama.uz/2025/tracks-a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/National Geographic Wild.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9613",Nat Geo Wild
 http://82.215.111.227/1042/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/National Geographic Wild.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9613",Nat Geo Wild
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/216/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/National Geographic Wild.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9613",Nat Geo Wild HD
-https://stream2.cinerama.uz/1042/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/National Geographic.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9535",National Geographic
 http://82.215.111.227/1041/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/National Geographic.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9535",National Geographic
-https://stream2.cinerama.uz/1041/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/National Geographic.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9535",National Geographic
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/14000/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Navo
-https://stream8.cinerama.uz/1008/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/64pv0lW.png" tvg-id="simpleTVFakeEpgId",Next TV (1080p)
 http://62.233.57.226:8001/play/a00h
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-id="simpleTVFakeEpgId",Nick junior
@@ -2289,20 +2519,10 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/LL2gMNF.png" tvg-id="simpleTVFakeEpgId",NTS TV (1080p)
 http://62.233.57.226:8001/play/a00d
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",ntv (o'zbekiston)
-https://stream1.cinerama.uz/1284/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Number1 Damar
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e198784bdc_1/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Number1 TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e17cd59e8b.smil/playlist.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Nurafshon
-https://stream1.cinerama.uz/1220/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",O'zbekiston
-https://stream1.cinerama.uz/1001/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",O'zbekiston tarixi
-https://stream1.cinerama.uz/1209/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",O'zbekiston-24
-https://stream1.cinerama.uz/1011/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Ocean-TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11044",Ocean TV
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/703/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",OnFM
@@ -2349,10 +2569,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19395/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19399/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/7479.png" tvg-id="simpleTVFakeEpgId",Prokop TV Вторая Мировая
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19316/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Qaraqalpaqstan
-https://stream1.cinerama.uz/1467/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Qazaqstan
-https://stream2.cinerama.uz/1431/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Relaxon
 https://iptv.prosto.tv/ch317/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Retrovision
@@ -2369,40 +2585,22 @@ https://fl1001.bozztv.com/ushba-rvisionkinopanorama/tracks-v1a1/mono.m3u8
 https://hls.rt.com/hls/rtdru.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/RTG HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11242",RTG HD
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/210/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",RTV
-https://stream8.cinerama.uz/1221/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/Z7HUU7V.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8111",RU TV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-id="simpleTVFakeEpgId",Ru-TV
 http://82.215.111.227/1202/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Ru-TV
-https://stream2.cinerama.uz/1202/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Music Box Russia.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10167",Russian MusicBox
 https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/ZkJ3Rh9.png" tvg-id="simpleTVFakeEpgId",Russian MusicBox (1080p)
 https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Ruxsor TV
-https://stream1.cinerama.uz/1260/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",S-Music
-https://stream2.cinerama.uz/1476/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",SelecaOTV
 http://195.9.195.3:8080/hls/163253.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4726.png" tvg-id="simpleTVFakeEpgId",Serial HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11101/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Setanta Sports 1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9495",Setanta Sports 1
 http://82.215.111.227/1263/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Setanta Sports 1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9495",Setanta Sports 1
-https://stream8.cinerama.uz/1263/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Setanta Sports 2.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9496",Setanta Sports 2
 http://82.215.111.227/1264/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Setanta Sports 2.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9496",Setanta Sports 2
-https://stream8.cinerama.uz/1264/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Sevimli
-https://stream1.cinerama.uz/1017/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Sevimlijon
-https://stream1.cinerama.uz/1477/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Shifo TV
-https://stream2.cinerama.uz/1469/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/EMmGnjV.png" tvg-id="simpleTVFakeEpgId",Shopping Live (576p) [Not 24/7]
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/431.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7742",Shot TV
@@ -2467,8 +2665,6 @@ https://songtv.hls.iptvdc.com/web-armenia/index.m3u8
 https://songtv.hls.iptvdc.com/web-russia/index.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Sport tv+
 http://laranjatv.ddns.net:8080/bbrito19812/bZ4D7XPy/7300
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Sport uz
-https://stream1.cinerama.uz/1004/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Star Cinema HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11093",Star Cinema
 http://iptv.prosto.tv:7000/ch56/video.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Star Family HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11094",Star Family
@@ -2483,10 +2679,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/18036/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19248/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Super TV
 http://iptv.supertv.ro:8000/play/a001/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Taraqqiyot tv
-https://stream1.cinerama.uz/1204/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",tasix-media kino
-https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/rKBaK56.png" tvg-id="simpleTVFakeEpgId",TBN Baltia (1080p)
 http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4693.png" tvg-id="simpleTVFakeEpgId",The X-Files
@@ -2495,8 +2687,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11055/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11099/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Tiji.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7747",Tiji
 http://iptv.prosto.tv:7000/ch73/video.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Tiji.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7747",TiJi
-https://stream2.cinerama.uz/1441/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/6724.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10179",Timeless Dizi Channel
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/14006/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5114.png" tvg-id="simpleTVFakeEpgId",TOP 80 S HD
@@ -2511,10 +2701,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13006/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13005/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5113.png" tvg-id="simpleTVFakeEpgId",TOP Великолепный Век HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/13001/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Toshkent
-https://stream1.cinerama.uz/1003/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Trace Sport Starts HD
-https://stream2.cinerama.uz/1274/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Trace Sports
 http://82.215.111.227/1274/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/3361.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9046",Trash HD
@@ -2523,18 +2709,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/6396/index.m3u8
 http://iptv.prosto.tv:7000/ch100/video.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Travel+ adventure.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10923",Travel+Adventure
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/850/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Travel-tv (O'zbekiston)
-https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",TRT Music
-https://stream8.cinerama.uz/1208/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-id="simpleTVFakeEpgId",TRT Muzik
 http://82.215.111.227/1208/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",TTV Kino
-https://stream2.cinerama.uz/1486/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",TTV Musiqa
-https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",TTV Telekanal
-https://stream2.cinerama.uz/1494/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4030.png" tvg-id="simpleTVFakeEpgId",Turkish Dramas 3 HD IL
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/14220/index.m3u8
 #EXTINF:-1 group-title="📺 Turkmenistan" tvg-id="simpleTVFakeEpgId",Turkmen owazy
@@ -2569,8 +2745,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/4000/index.m3u8
 https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4727.png" tvg-id="simpleTVFakeEpgId",USSR
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11102/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Uzreport
-https://stream1.cinerama.uz/1015/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/7151.png" tvg-id="simpleTVFakeEpgId",VB VHS Classic
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19429/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/7221.png" tvg-id="simpleTVFakeEpgId",VB Контент Моего Детства
@@ -2763,16 +2937,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/17012/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/14222/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5462.png" tvg-id="simpleTVFakeEpgId",VHS HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/15000/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/viju Explore.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9377",Viasat Explore
-https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/viju History.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9378",Viasat History
-https://stream2.cinerama.uz/1046/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/7944.png" tvg-id="simpleTVFakeEpgId",Viasat Kino Action HD LV
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/12024/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/viju Nature.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9379",Viasat Nature
-https://stream2.cinerama.uz/1228/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/viju+ Sport.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9387",Viasat Sport HD
-https://stream2.cinerama.uz/1229/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4722.png" tvg-id="simpleTVFakeEpgId",Victory HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11097/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/viju Explore.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9377",viju EXPLORE
@@ -2841,30 +3007,18 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/2443/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9245/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/fXESG0l.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9387",viju+ Sport
 http://stream1.cinerama.uz/1229/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",viju+ TV1000
-https://stream2.cinerama.uz/1058/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",viju+ TV1000 Action
-https://stream8.cinerama.uz/1225/tracks-v2a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",viju+ TV1000 Русское
-https://stream2.cinerama.uz/1059/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",viva Latino
 http://iptv.prosto.tv:7000/ch138/video.m3u8?secret=xws6dla3
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",ViVA Russia
 http://195.9.195.3:8080/hls/180805.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Vodiy TV
-https://stream2.cinerama.uz/4012/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Восток ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7792",Vostok TV
 https://mhd140.iptv2022.com/p/86Uf6hQSVsspMFXLqgFV_w,1744037715/streaming/tmb/324/5/tracks-v3a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Xorazm
-https://stream1.cinerama.uz/1464/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",XPORT
 http://iptv.prosto.tv:7000/ch109/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",XSPORT+
 http://iptv.prosto.tv:7000/ch117/video.m3u8
 #EXTINF:-1 group-title="📺 Turkmenistan" tvg-id="simpleTVFakeEpgId",Yaslyk
 http://217.174.225.146/hls/ch002_720/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Yoshlar
-https://stream1.cinerama.uz/1002/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6138.png" tvg-id="simpleTVFakeEpgId",Yosso TV 4K
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/16153/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5586.png" tvg-id="simpleTVFakeEpgId",Yosso TV Adrenaline
@@ -2917,22 +3071,14 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/15140/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/15141/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/5900.png" tvg-id="simpleTVFakeEpgId",Z! Smile HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/15142/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Zo'r-TV
-https://stream1.cinerama.uz/1016/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Зоо ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11148",ZOO TV
 https://iptv.prosto.tv/ch319/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Zоопарк.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11295",ZooПарк
-https://stream2.cinerama.uz/1417/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Zоопарк.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11295",ZooПарк
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/731/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",ZSMEDIA
 https://playlist.nuum.ru/abr/1220772/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Авто24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11051",Авто 24
-https://stream2.cinerama.uz/1430/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Авто Плюс.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7779",Авто Плюс
 http://82.215.111.227/1036/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Авто Плюс.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7779",Авто Плюс
-https://stream8.cinerama.uz/1036/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/bcw0s4V.png" tvg-id="simpleTVFakeEpgId",Аист ТВ
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Аквариум
@@ -2985,10 +3131,6 @@ http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8
 https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/В гостях у сказки.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7788",в гостях у сказки
 http://82.215.111.227/1270/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/В гостях у сказки.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7788",В гостях у Сказки
-https://stream2.cinerama.uz/1270/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/В мире животных.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8743",В мире животных
-https://stream2.cinerama.uz/1404/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/В мире животных.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8743",В мире животных
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2089/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/zKH1b5k.png" tvg-id="simpleTVFakeEpgId",Ветта 24 (Пермь) (576p) [Not 24/7]
@@ -3007,14 +3149,10 @@ https://fl1001.bozztv.com/ushba16/tracks-v1a1/mono.m3u8
 http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/gFMnaU5.png" tvg-id="simpleTVFakeEpgId",Волгоград 24
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/volgograd/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Вопросы и Ответы.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10925",Вопросы и Ответы
-https://stream8.cinerama.uz/1429/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",Восход тв
 http://195.9.195.3:8080/hls/202997.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/jZlj3ga.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7793",Время
 http://31.148.48.15/Vremya/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Глазами туриста.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10062",Глазами Туриста
-https://stream2.cinerama.uz/1423/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Глазами туриста.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10062",Глазами Туриста
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2104/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/IlL57Rm.png" tvg-id="simpleTVFakeEpgId",Губерния (Самара) (576p)
@@ -3027,8 +3165,6 @@ http://iptv.prosto.tv:7000/ch92/video.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/5054/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-id="simpleTVFakeEpgId",Дет Мир
 http://82.215.111.227/1032/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Детский мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7794",Детский Мир
-https://stream2.cinerama.uz/1032/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Диалоги о рыбалке.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10063",Диалоги о рыбалке HD
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2394/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Дикая охота HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7796",Дикая охота HD
@@ -3037,8 +3173,6 @@ http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2004/index.m3u8
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2005/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Дикий.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10064",Дикий
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/847/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Доктор.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7800",Доктор
-https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Доктор Достоевский
 https://fl1001.bozztv.com/ushba3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Документалка 1
@@ -3049,8 +3183,6 @@ https://fl1001.bozztv.com/ushba29/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba38/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Дом кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7801",Дом кино
 http://82.215.111.227/1054/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Дом кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7801",Дом кино
-https://stream8.cinerama.uz/1054/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/834.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7801",Дом Кино
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/154/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/834.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7801",Дом Кино orig
@@ -3061,16 +3193,10 @@ http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/911/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2020.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7802",Дом Кино Премиум HD orig
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/5082/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Домашние животные.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7803",Домашние Животные
-https://stream2.cinerama.uz/1426/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Домашние животные.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7803",Домашние Животные
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/158/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Домашний.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10438",Домашний
-https://stream2.cinerama.uz/1436/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Дорама.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7804",Дорама
 http://82.215.111.227/1273/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Дорама.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7804",Дорама
-https://stream8.cinerama.uz/1273/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2174.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7804",Дорама
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/1066/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2174.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7804",Дорама HD
@@ -3105,22 +3231,14 @@ https://fl1001.bozztv.com/ushba8/tracks-v1a1/mono.m3u8
 http://streamer.rtcommufa.ru:1935/ptica/ptica1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Живая планета.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7813",Живая Планета
 http://82.215.111.227/1250/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Живая Планета ТВ
-https://stream2.cinerama.uz/1250/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Живая Планета ТВ
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2101/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Живая природа.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9052",Живая природа HD
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2074/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Живи.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10065",Живи
-https://stream8.cinerama.uz/1419/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Живи активно.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7603",Живи активно
-https://stream2.cinerama.uz/1405/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/LPqySGk.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10065",ЖИВИ!
 http://31.148.48.15/Zhivi/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Загородный.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9053",Загородный
 http://82.215.111.227/1044/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Загородный.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9053",Загородный
-https://stream2.cinerama.uz/1410/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Загородный International.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8766",Загородный int HD
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2124/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Звезда.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11098",Звезда
@@ -3129,8 +3247,6 @@ http://82.215.111.227/1050/index.m3u8
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/NNmjD9Z.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8008",Звезда Плюс
 http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Здоровое ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9054",Здоровое ТВ
-https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/p7WzqGS.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11148",Зоо ТВ
 http://31.148.48.15/Zoo_TV/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/r5HzA6J.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8957",Известия
@@ -3145,8 +3261,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9241/index.m3u8
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Индийское кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7825",Индийское кино
 http://82.215.111.227/1060/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Индийское кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7825",Индийское кино
-https://stream2.cinerama.uz/1060/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/798.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7825",Индийское Кино
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/146/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/798.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7825",Индийское Кино orig
@@ -3159,8 +3273,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/19250/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9149/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/История.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7826",История
 http://82.215.111.227/1266/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/История.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7826",История
-https://stream2.cinerama.uz/1266/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/7tNDKHe.png" tvg-id="simpleTVFakeEpgId",К16 (Саров) (406p) [Not 24/7]
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/DyJw1Pi.png" tvg-id="simpleTVFakeEpgId",Кавказ 24 (Ставрополь)
@@ -3169,12 +3281,8 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/2441/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2836.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8760",Камеди HD orig
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9091/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Капитан Фантастика.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7829",Капитан Фантастика
-https://stream2.cinerama.uz/1406/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Карусель HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8444",Карусель
 http://82.215.111.227/1034/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Карусель HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8444",Карусель
-https://stream2.cinerama.uz/1034/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Катастрофа ONLINE
 https://iptv.prosto.tv/id295/video.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-id="simpleTVFakeEpgId",Квартал ТВ
@@ -3311,8 +3419,6 @@ https://fl1001.bozztv.com/ushba-films-e/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-films-f/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7834",Кинокомедия
 http://82.215.111.227/1232/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7834",Кинокомедия
-https://stream8.cinerama.uz/1232/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/821.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7834",Кинокомедия
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/145/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/821.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7834",Кинокомедия HD
@@ -3327,8 +3433,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/2121/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9154/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7835",Киномикс
 http://82.215.111.227/1233/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7835",Киномикс
-https://stream8.cinerama.uz/1233/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/644.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7835",Киномикс
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/509/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/644.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7835",Киномикс HD
@@ -3339,8 +3443,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9126/index.m3u8
 https://playlist.nuum.ru/abr/1841810/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7836",Кинопоказ
 http://82.215.111.227/1057/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7836",Кинопоказ
-https://stream8.cinerama.uz/1057/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/nNjMyAq.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7836",Кинопоказ
 http://31.148.48.15/Kinopokaz/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2834.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7836",Кинопоказ HD
@@ -3349,14 +3451,10 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/2439/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9092/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7837",Кинопремьера
 http://82.215.111.227/1207/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7837",Кинопремьера HD
-https://stream8.cinerama.uz/1207/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/566.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7837",Кинопремьера HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/224/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/566.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7837",Кинопремьера HD orig
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9020/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="simpleTVFakeEpgId",Киносведание
-https://stream8.cinerama.uz/1203/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7839",Киносвидание
 http://82.215.111.227/1203/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/462.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7839",Киносвидание
@@ -3367,8 +3465,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/7245/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9238/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7840",Киносемья
 http://82.215.111.227/1234/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7840",Киносемья
-https://stream2.cinerama.uz/1234/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/987.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7840",Киносемья
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/125/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/987.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7840",Киносемья HD
@@ -3377,8 +3473,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/7244/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9228/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11099",Киносерия
 http://82.215.111.227/1235/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11099",Киносерия
-https://stream2.cinerama.uz/1235/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/799.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11099",Киносерия
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/148/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/799.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11099",Киносерия HD
@@ -3391,8 +3485,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/2056/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9033/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7843",Кинохит
 http://82.215.111.227/1055/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7843",Кинохит
-https://stream2.cinerama.uz/1055/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/542.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7843",Кинохит
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/516/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/542.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7843",Кинохит HD
@@ -3405,8 +3497,6 @@ http://195.9.195.3:8080/hls/3592.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/912/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/138.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9513",Комедийное HD orig
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9005/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Космический ТВ
-https://stream2.cinerama.uz/1415/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",КОШМАР HD
 http://195.9.195.3:8080/hls/204709.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/TgZ8Uv1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7849",Красная линия
@@ -3421,8 +3511,6 @@ http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Кухня.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9710",Кухня
 http://82.215.111.227/1236/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/KHL.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11268",КХЛ
-https://stream2.cinerama.uz/1422/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-id="simpleTVFakeEpgId",Ла Минор
 http://82.215.111.227/1238/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/gCmCRfe.png" tvg-id="simpleTVFakeEpgId",ЛДПР ТВ (480p)
@@ -3433,26 +3521,18 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/722/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/477.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9428",Любимое Кино orig
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9143/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Музыка Live.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7858",Ля Минор
-https://stream2.cinerama.uz/1238/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/r485aZL.png" tvg-id="simpleTVFakeEpgId",Магнат ТВ
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Мама.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7860",Мама
 http://82.215.111.227/1244/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Мама.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7860",Мама
-https://stream8.cinerama.uz/1244/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/Pg7K7eV.png" tvg-id="simpleTVFakeEpgId",Матур ТВ (1080p)
 https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Планета.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11272",Матч! Планета
 http://82.215.111.227/1049/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Матч! Планета.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11272",Матч! Планета
-https://stream8.cinerama.uz/1243/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/hUjLRLy.png" tvg-id="simpleTVFakeEpgId",Миллет (540p) [Not 24/7]
 https://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11133",Мир
 http://82.215.111.227/1218/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11133",Мир
-https://stream8.cinerama.uz/1218/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/AqWaJT8.png" tvg-id="simpleTVFakeEpgId",Мир +2 (540p) [Not 24/7]
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/AqWaJT8.png" tvg-id="simpleTVFakeEpgId",Мир +4 (540p) [Not 24/7]
@@ -3461,8 +3541,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Мир 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7872",Мир 24
 http://82.215.111.227/1219/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Мир 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7872",Мир 24
-https://stream8.cinerama.uz/1219/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/dj9c8Yd.png" tvg-id="simpleTVFakeEpgId",Мир 24 (1080p)
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://mirbelogorya.ru/images/logo/Logo_Mir_Belogorya_purple_gradient.png" tvg-id="simpleTVFakeEpgId",Мир Белагорья (720p) [Geo-blocked]
@@ -3485,8 +3563,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/17022/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9156/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Моя планета.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7880",Моя Планета
 http://82.215.111.227/1247/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Моя планета.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7880",Моя планета
-https://stream2.cinerama.uz/1247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Моя планета.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7880",Моя планета
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2090/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png" tvg-id="simpleTVFakeEpgId",МТВ (Волгоград) (720p) [Not 24/7]
@@ -3495,8 +3571,6 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Мужское кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7882",Мужское кино
 http://82.215.111.227/1237/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Мужское кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7882",Мужское кино
-https://stream8.cinerama.uz/1237/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/1584.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7882",Мужское Кино
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/164/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/1584.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7882",Мужское Кино HD
@@ -3505,10 +3579,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/10045/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9138/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/Puk1Bhx.png" tvg-id="simpleTVFakeEpgId",Муз союз (576p)
 https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/МУЗ-ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10414",Муз-ТВ
-https://stream2.cinerama.uz/1200/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Муз-ТВ O'zbekiston
-https://stream8.cinerama.uz/1063/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Музыка 1
 https://fl1001.bozztv.com/ushba-t1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Музыка 2
@@ -3523,30 +3593,20 @@ https://fl1001.bozztv.com/ushba-monj/tracks-v1a1/mono.m3u8
 https://fl1001.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Музыка первого.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7885",Музыка первого
 http://82.215.111.227/1201/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Музыка первого.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7885",Музыка первого
-https://stream8.cinerama.uz/1201/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/U0vKj3P.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7885",Музыка Первого
 http://31.148.48.15/Muzika_Pervogo/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Мульт HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11054",Мульт
 http://82.215.111.227/1246/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Мульт HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11054",Мульт
-https://stream2.cinerama.uz/1246/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Мультиландия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7887",Мультиландия
-https://stream8.cinerama.uz/1440/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/ah6VnFJ.png" tvg-id="simpleTVFakeEpgId",Надежда (720p)
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/8xdU3Ry.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9066",Нано ТВ HD
 http://s1.tv-nano.com/Nano_rec/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Наука.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7890",Наука
 http://82.215.111.227/1248/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Наука ТВ
-https://stream8.cinerama.uz/1248/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2831.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8762",Наш Кинопоказ HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/2434/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2831.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8762",Наш Кинопоказ HD orig
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9086/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Наша Сибирь 4K.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10175",Наша Сибирь
-https://stream2.cinerama.uz/1424/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Наша Сибирь 4K.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10175",Наша Сибирь
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/9330/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2018.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11130",Наше HD
@@ -3563,8 +3623,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/2440/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9088/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Наше новое кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7897",Наше новое кино
 http://82.215.111.227/1051/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Наше новое кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7897",Наше новое кино
-https://stream8.cinerama.uz/1051/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/485.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7897",Наше Новое Кино
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/517/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/485.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7897",Наше Новое Кино HD
@@ -3585,8 +3643,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/726/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9148/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/НТВ HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11127",нтв
 http://82.215.111.227/1023/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/НТВ HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11127",НТВ
-https://stream8.cinerama.uz/1023/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/9r1BKzK.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11127",НТВ HD
 https://cdn.ntv.ru/ntv0/playlist.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/3ChnWGg.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7901",НТВ Право
@@ -3627,8 +3683,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/904/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9044/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Охота и Рыбалка.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7912",Охота и рыбалка
 http://82.215.111.227/1038/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Охота и Рыбалка.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7912",Охота и рыбалка
-https://stream2.cinerama.uz/1038/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Охота и Рыбалка.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7912",Охота и рыбалка
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2019/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Охотник и рыболов HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7914",Охотник и рыболов
@@ -3645,8 +3699,6 @@ http://dmi3y-tv.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
 http://82.215.111.227/1214/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-id="simpleTVFakeEpgId",Первый каналь
 http://82.215.111.227/1019/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Первый каналь
-https://stream8.cinerama.uz/1019/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/YdyFJrl.png" tvg-id="simpleTVFakeEpgId",Первый Музыкальный Канал (576p)
 http://hz1.teleport.cc/HLS/SD.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/rEo7nR1.png" tvg-id="simpleTVFakeEpgId",Первый Музыкальный Канал Россия (576p)
@@ -3673,8 +3725,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/10017/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/10044/index.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/6000.png" tvg-id="simpleTVFakeEpgId",Премьера Трейлеры
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/16009/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Приключения.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8126",Приключения
-https://stream2.cinerama.uz/1420/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Приключения.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8126",Приключения HD
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/920/index.m3u8
 #EXTINF:-1 group-title="📺 Usba TV" tvg-logo="https://i.postimg.cc/3Jg421y4/1.jpg" tvg-id="simpleTVFakeEpgId",Приколы 1
@@ -3703,12 +3753,8 @@ https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/РБК.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7932",РБК
 http://online-video.rbc.ru/online/rbctv_480p/index.m3u8?e=e8&t=IbzcGc&checkedby:iptvcat.com
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/РБК.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7932",РБК
-https://stream8.cinerama.uz/1438/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Ретро ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7934",Ретро
 http://82.215.111.227/1047/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Ретро ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7934",Ретро
-https://stream8.cinerama.uz/1047/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2402.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7934",Ретро
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/2018/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2402.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7934",Ретро orig
@@ -3719,8 +3765,6 @@ https://playlist.nuum.ru/live/1891774/tracks-v1a1/mono.m3u8
 http://hls.tva.cdnvideo.ru/tva/tva.sdp/playlist.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Родное кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11110",Родное кино
 http://82.215.111.227/1052/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Родное кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11110",Родное кино
-https://stream8.cinerama.uz/1052/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/12.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11110",Родное Кино
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/126/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/12.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11110",Родное Кино orig
@@ -3729,12 +3773,8 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9127/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/5053/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Россия 1 HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971",Россия 1
 http://82.215.111.227/1020/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Россия 1 HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971",Россия 1
-https://stream8.cinerama.uz/1020/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Россия 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11014",Россия 24
 http://82.215.111.227/1021/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Россия 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11014",Россия 24
-https://stream2.cinerama.uz/1021/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Россия К.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9173",Россия К
 http://82.215.111.227/1048/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/DTtK0z7.png" tvg-id="simpleTVFakeEpgId",РТР Планета Азия
@@ -3775,8 +3815,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/2076/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9041/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/401.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8127",Русский роман orig
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/9240/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Рыжий.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9082",Рыжий
-https://stream8.cinerama.uz/1407/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/chNBF5t.png" tvg-id="simpleTVFakeEpgId",С1 (Сургут) (1080p) [Not 24/7]
 https://sitv.ru/hls/stv.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/FfULLr1.png" tvg-id="simpleTVFakeEpgId",Салям (Уфа) (576p)
@@ -3789,8 +3827,6 @@ http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/553/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/6389/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Сарафан.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7947",Сарафан
 http://82.215.111.227/1249/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Сарафан ТВ
-https://stream8.cinerama.uz/1249/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Сварожичи
 http://iptv.prosto.tv:7000/ch168/video.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Свитло
@@ -3801,14 +3837,10 @@ http://live.stv24.tv:8080/svoetv/HQ_video.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/5005/index.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",Сериал: ⭐СОЛДАТЫ⭐
 http://195.9.195.3:8080/hls/210275.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Смайлик.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9543",Смайлик ТВ
-https://stream2.cinerama.uz/1425/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",Смотрим кино 1
 http://195.9.195.3:8080/hls/207482.m3u8
 #EXTINF:-1 group-title="📺 Кинозаль GoodGame" tvg-id="simpleTVFakeEpgId",Смотрим кино 2
 http://195.9.195.3:8080/hls/206513.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-id="simpleTVFakeEpgId",Солнечный тв
-https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/v0OYe1d.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10373",Соловьев LIVE
 https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/w3OewHc.png" tvg-id="simpleTVFakeEpgId",Союз (576p)
@@ -3825,30 +3857,22 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11069/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2857.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7956",Страшное HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/7247/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/СТС Kids.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7958",СТС KIDS
-https://stream2.cinerama.uz/1437/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/2239.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8287",СуперГерои HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/15099/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Т24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9326",Т24
 http://82.215.111.227/1037/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/ТВ-3.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10972",ТВ-3
-https://stream2.cinerama.uz/1435/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/rW1BeJC.png" tvg-id="simpleTVFakeEpgId",ТВК 24 (576p)
 https://air.tvk6.ru/tvk24/playlist.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://epgx.site/p/tvoetv-humor.png" tvg-id="simpleTVFakeEpgId",Твое ТВ Юмор
 http://tvoetv.space:8080/tvoetv_humor/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/ТВ Центр.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11020",твц
 http://82.215.111.227/1025/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/ТВ Центр.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11020",ТВЦ
-https://stream2.cinerama.uz/1025/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/0dRS4Cb.png" tvg-id="simpleTVFakeEpgId",Телеканал 86 (Сургут) (1080p) [Not 24/7]
 https://sitv.ru/hls/s86.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",Телеканал Рибалка (ук)
 http://iptv.prosto.tv:7000/ch88/video.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Телекафе.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7970",Телекафе
 http://82.215.111.227/1035/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Телекафе.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7970",Телекафе
-https://stream8.cinerama.uz/1035/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Телепутешествия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9089",Телепутешествия
 http://6ca1ba5a.ucomist.net/iptv/6D7U22DVTSF8B9/2051/index.m3u8
 #EXTINF:-1 group-title="📺 Github (тест)" tvg-logo="https://i.imgur.com/1zbcZ3p.png" tvg-id="simpleTVFakeEpgId",Телплюс ТВ (Астрахань) (360p) [Not 24/7]
@@ -3865,8 +3889,6 @@ https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8
 http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Точка отрыва.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8958",Точка Отрыва
 http://82.215.111.227/1031/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Точка отрыва.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8958",Точка Отрыва
-https://stream2.cinerama.uz/1031/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/ТочкаРФ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7693",Точка РФ
 http://82.215.111.227/1222/index.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-id="simpleTVFakeEpgId",ТрейлерON
@@ -3881,10 +3903,6 @@ https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m
 https://fl1001.bozztv.com/ushba5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="📺 Русское ТВ" tvg-logo="https://veranzo.ru/other/icons/Уникум.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11058",Уникум
 http://82.215.111.227/1033/index.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Уникум.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11058",Уникум
-https://stream2.cinerama.uz/1033/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="📺 Turon (No Televizo VPN)" tvg-logo="https://veranzo.ru/other/icons/Усадьба.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7983",Усадьба
-https://stream2.cinerama.uz/1427/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кинозалы" tvg-logo="http://epg.one/img2/4780.png" tvg-id="simpleTVFakeEpgId",Фантастика HD
 http://rhsbjv7k.tvclub.xyz/iptv/KSA9NQPG94YUMQ/11070/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.one/img2/2404.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11113",Феникс плюс Кино
